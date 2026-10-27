@@ -1,0 +1,152 @@
+level,municipality,sub_area,property_type,n,median_price,median_income,pct_of_income,price_p25,price_p75,flag_n_lt_10,flag_n_lt_30,snapshot_window
+island,,,all,5621,310000,26870,87.5,195000,535000,f,f,Mar-Jun 2026
+island,,,apartamento,1637,337000,27872,91.7,231500,549000,f,f,Mar-Jun 2026
+island,,,casa,3984,295000,26458,84.6,185000,525000,f,f,Mar-Jun 2026
+municipality,Adjuntas,,casa,4,152000,18605,62.0,138000,345000,t,t,Mar-Jun 2026
+municipality,Aguada,,apartamento,14,527000,21694,184.2,368750,746500,f,t,Mar-Jun 2026
+municipality,Aguada,,casa,26,440000,21694,153.8,340000,607000,f,t,Mar-Jun 2026
+municipality,Aguadilla,,apartamento,7,510000,19826,195.1,417500,572500,t,t,Mar-Jun 2026
+municipality,Aguadilla,,casa,64,399000,19826,152.6,293750,550000,f,f,Mar-Jun 2026
+municipality,Aguas Buenas,,casa,21,210000,22361,71.2,120000,370000,f,t,Mar-Jun 2026
+municipality,Aibonito,,casa,16,267500,21714,93.4,168725,411250,f,t,Mar-Jun 2026
+municipality,Añasco,,apartamento,10,485000,23591,155.9,396250,577250,f,t,Mar-Jun 2026
+municipality,Añasco,,casa,23,275000,23591,88.4,220000,575000,f,t,Mar-Jun 2026
+municipality,Arecibo,,apartamento,10,142000,23175,46.5,121250,157500,f,t,Mar-Jun 2026
+municipality,Arecibo,,casa,126,237000,23175,77.6,154625,391175,f,f,Mar-Jun 2026
+municipality,Arroyo,,apartamento,4,200000,18931,80.1,163000,238750,t,t,Mar-Jun 2026
+municipality,Arroyo,,casa,12,149500,18931,59.9,128750,181175,f,t,Mar-Jun 2026
+municipality,Barceloneta,,casa,34,232500,21750,81.1,160000,267500,f,f,Mar-Jun 2026
+municipality,Barranquitas,,casa,23,229000,22167,78.4,155000,325000,f,t,Mar-Jun 2026
+municipality,Bayamón,,apartamento,25,210000,30729,51.8,167500,249900,f,t,Mar-Jun 2026
+municipality,Bayamón,,casa,224,249950,30729,61.7,194246,396250,f,f,Mar-Jun 2026
+municipality,Cabo Rojo,,apartamento,61,295000,25720,87.0,255000,400000,f,f,Mar-Jun 2026
+municipality,Cabo Rojo,,casa,125,339900,25720,100.2,249999,475000,f,f,Mar-Jun 2026
+municipality,Caguas,,apartamento,25,175500,30113,44.2,150000,299000,f,t,Mar-Jun 2026
+municipality,Caguas,,casa,147,300000,30113,75.6,199750,590000,f,f,Mar-Jun 2026
+municipality,Camuy,,apartamento,1,115000,26094,33.4,115000,115000,t,t,Mar-Jun 2026
+municipality,Camuy,,casa,41,256000,26094,74.4,178500,375000,f,f,Mar-Jun 2026
+municipality,Canóvanas,,apartamento,1,95000,27278,26.4,95000,95000,t,t,Mar-Jun 2026
+municipality,Canóvanas,,casa,57,359000,27278,99.8,192750,475000,f,f,Mar-Jun 2026
+municipality,Carolina,,apartamento,162,332500,35126,71.8,249000,499000,f,f,Mar-Jun 2026
+municipality,Carolina,,casa,125,250000,35126,54.0,200000,460000,f,f,Mar-Jun 2026
+municipality,Cataño,,casa,18,375000,24307,117.0,181472,512500,f,t,Mar-Jun 2026
+municipality,Cayey,,apartamento,4,174250,28461,46.4,159625,187500,t,t,Mar-Jun 2026
+municipality,Cayey,,casa,63,325000,28461,86.6,171250,550000,f,f,Mar-Jun 2026
+municipality,Ceiba,,apartamento,22,257498,23204,84.2,240500,274250,f,t,Mar-Jun 2026
+municipality,Ceiba,,casa,28,247500,23204,80.9,149746,481300,f,t,Mar-Jun 2026
+municipality,Ciales,,casa,17,189000,20614,69.5,135900,250000,f,t,Mar-Jun 2026
+municipality,Cidra,,apartamento,1,545000,27149,152.3,545000,545000,t,t,Mar-Jun 2026
+municipality,Cidra,,casa,54,349950,27149,97.8,239000,630500,f,f,Mar-Jun 2026
+municipality,Coamo,,apartamento,2,197500,20797,72.0,148750,246250,t,t,Mar-Jun 2026
+municipality,Coamo,,casa,29,265000,20797,96.6,169000,380000,f,t,Mar-Jun 2026
+municipality,Comerío,,casa,18,145000,17254,63.7,98475,275000,f,t,Mar-Jun 2026
+municipality,Corozal,,casa,27,215000,23933,68.1,153000,332500,f,t,Mar-Jun 2026
+municipality,Culebra,,apartamento,13,245000,27614,67.3,219000,265000,f,t,Mar-Jun 2026
+municipality,Culebra,,casa,14,537500,27614,147.6,415000,736750,f,t,Mar-Jun 2026
+municipality,Dorado,,apartamento,21,679000,33388,154.2,425000,777000,f,t,Mar-Jun 2026
+municipality,Dorado,,casa,110,672000,33388,152.7,441750,995500,f,f,Mar-Jun 2026
+municipality,Fajardo,,apartamento,108,279950,25170,84.4,244225,360500,f,f,Mar-Jun 2026
+municipality,Fajardo,,casa,97,205000,25170,61.8,160000,350000,f,f,Mar-Jun 2026
+municipality,Florida,,casa,10,185000,21213,66.1,110500,206250,f,t,Mar-Jun 2026
+municipality,Guánica,,apartamento,2,349400,16210,163.5,349150,349650,t,t,Mar-Jun 2026
+municipality,Guánica,,casa,15,265000,16210,124.0,257000,429950,f,t,Mar-Jun 2026
+municipality,Guayama,,apartamento,3,315000,20273,117.8,201500,340000,t,t,Mar-Jun 2026
+municipality,Guayama,,casa,29,159995,20273,59.9,118000,275000,f,t,Mar-Jun 2026
+municipality,Guayanilla,,casa,8,159450,21400,56.5,151250,361250,t,t,Mar-Jun 2026
+municipality,Guaynabo,,apartamento,91,350000,46048,57.6,282500,482500,f,f,Mar-Jun 2026
+municipality,Guaynabo,,casa,160,837500,46048,137.9,505000,1212500,f,f,Mar-Jun 2026
+municipality,Gurabo,,apartamento,8,245000,39532,47.0,223500,277500,t,t,Mar-Jun 2026
+municipality,Gurabo,,casa,83,443500,39532,85.1,287500,550000,f,f,Mar-Jun 2026
+municipality,Hatillo,,apartamento,2,98500,28001,26.7,65250,131750,t,t,Mar-Jun 2026
+municipality,Hatillo,,casa,46,262500,28001,71.1,178500,381250,f,f,Mar-Jun 2026
+municipality,Hormigueros,,casa,9,180000,24862,54.9,169000,250000,t,t,Mar-Jun 2026
+municipality,Humacao,,apartamento,96,454500,26083,132.2,408750,591250,f,f,Mar-Jun 2026
+municipality,Humacao,,casa,116,300000,26083,87.2,169875,545000,f,f,Mar-Jun 2026
+municipality,Isabela,,apartamento,21,418000,20484,154.8,395000,495000,f,t,Mar-Jun 2026
+municipality,Isabela,,casa,75,400000,20484,148.1,292000,575000,f,f,Mar-Jun 2026
+municipality,Jayuya,,casa,7,185000,18413,76.2,131250,292500,t,t,Mar-Jun 2026
+municipality,Juana Díaz,,apartamento,1,1400000,23823,445.7,1400000,1400000,t,t,Mar-Jun 2026
+municipality,Juana Díaz,,casa,30,257000,23823,81.8,171500,418250,f,f,Mar-Jun 2026
+municipality,Juncos,,apartamento,1,80000,28196,21.5,80000,80000,t,t,Mar-Jun 2026
+municipality,Juncos,,casa,32,177000,28196,47.6,148725,227500,f,f,Mar-Jun 2026
+municipality,Lajas,,apartamento,11,299000,18920,119.9,257500,389950,f,t,Mar-Jun 2026
+municipality,Lajas,,casa,29,335000,18920,134.3,154000,750000,f,t,Mar-Jun 2026
+municipality,Lares,,casa,23,165000,19323,64.8,143500,232000,f,t,Mar-Jun 2026
+municipality,Las Marías,,casa,8,347500,16170,163.0,205000,475000,t,t,Mar-Jun 2026
+municipality,Las Piedras,,casa,39,250000,25697,73.8,170000,372000,f,f,Mar-Jun 2026
+municipality,Loíza,,apartamento,53,270000,22500,91.0,229900,310000,f,f,Mar-Jun 2026
+municipality,Loíza,,casa,11,169000,22500,57.0,144425,245000,f,t,Mar-Jun 2026
+municipality,Luquillo,,apartamento,48,312500,23769,99.7,247475,360500,f,f,Mar-Jun 2026
+municipality,Luquillo,,casa,62,389500,23769,124.3,360375,717500,f,f,Mar-Jun 2026
+municipality,Manatí,,apartamento,6,357450,20352,133.2,335000,364975,t,t,Mar-Jun 2026
+municipality,Manatí,,casa,52,225000,20352,83.8,154250,449249,f,f,Mar-Jun 2026
+municipality,Maricao,,apartamento,1,120000,20541,44.3,120000,120000,t,t,Mar-Jun 2026
+municipality,Maricao,,casa,1,136000,20541,50.2,136000,136000,t,t,Mar-Jun 2026
+municipality,Maunabo,,apartamento,8,245500,19363,96.2,233375,251250,t,t,Mar-Jun 2026
+municipality,Maunabo,,casa,10,237000,19363,92.8,156250,412500,f,t,Mar-Jun 2026
+municipality,Mayagüez,,apartamento,29,131900,17963,55.7,107000,225000,f,t,Mar-Jun 2026
+municipality,Mayagüez,,casa,94,184950,17963,78.1,121150,411250,f,f,Mar-Jun 2026
+municipality,Moca,,apartamento,2,92500,21415,32.8,89000,96000,t,t,Mar-Jun 2026
+municipality,Moca,,casa,22,337500,21415,119.5,274925,395000,f,t,Mar-Jun 2026
+municipality,Morovis,,casa,28,181000,23010,59.7,139000,210000,f,t,Mar-Jun 2026
+municipality,Naguabo,,apartamento,6,297500,21416,105.4,280000,318750,t,t,Mar-Jun 2026
+municipality,Naguabo,,casa,36,242000,21416,85.7,168250,481000,f,f,Mar-Jun 2026
+municipality,Naranjito,,casa,15,250000,21399,88.6,194000,347500,f,t,Mar-Jun 2026
+municipality,Orocovis,,apartamento,1,80000,19062,31.8,80000,80000,t,t,Mar-Jun 2026
+municipality,Orocovis,,casa,14,280000,19062,111.4,182500,367500,f,t,Mar-Jun 2026
+municipality,Patillas,,casa,22,375000,23422,121.4,214750,543750,f,t,Mar-Jun 2026
+municipality,Peñuelas,,apartamento,2,172500,20959,62.4,148750,196250,t,t,Mar-Jun 2026
+municipality,Peñuelas,,casa,19,225000,20959,81.4,175000,472500,f,t,Mar-Jun 2026
+municipality,Ponce,,apartamento,29,175000,18827,70.5,140000,250000,f,t,Mar-Jun 2026
+municipality,Ponce,,casa,151,238000,18827,95.9,160000,375000,f,f,Mar-Jun 2026
+municipality,Quebradillas,,apartamento,2,480000,23624,154.1,472500,487500,t,t,Mar-Jun 2026
+municipality,Quebradillas,,casa,27,347000,23624,111.4,233500,485000,f,t,Mar-Jun 2026
+municipality,Rincón,,apartamento,31,450000,25223,135.3,327000,597500,f,f,Mar-Jun 2026
+municipality,Rincón,,casa,52,597500,25223,179.7,416250,950000,f,f,Mar-Jun 2026
+municipality,Río Grande,,apartamento,77,580000,26745,164.5,375000,699000,f,f,Mar-Jun 2026
+municipality,Río Grande,,casa,93,350000,26745,99.3,195000,495000,f,f,Mar-Jun 2026
+municipality,Sabana Grande,,casa,19,185000,20564,68.2,135000,244500,f,t,Mar-Jun 2026
+municipality,Salinas,,apartamento,2,94950,21611,33.3,94925,94975,t,t,Mar-Jun 2026
+municipality,Salinas,,casa,27,169900,21611,59.6,142500,332500,f,t,Mar-Jun 2026
+municipality,San Germán,,apartamento,1,115000,17921,48.7,115000,115000,t,t,Mar-Jun 2026
+municipality,San Germán,,casa,20,187500,17921,79.4,108750,368750,f,t,Mar-Jun 2026
+municipality,San Juan,,apartamento,525,420000,26981,118.1,210000,799900,f,f,Mar-Jun 2026
+municipality,San Juan,,casa,415,425000,26981,119.5,249000,950000,f,f,Mar-Jun 2026
+municipality,San Lorenzo,,apartamento,2,211500,21320,75.2,204750,218250,t,t,Mar-Jun 2026
+municipality,San Lorenzo,,casa,36,210000,21320,74.7,167000,300000,f,f,Mar-Jun 2026
+municipality,San Sebastián,,apartamento,2,595000,17834,253.0,567500,622500,t,t,Mar-Jun 2026
+municipality,San Sebastián,,casa,54,267450,17834,113.7,176000,331500,f,f,Mar-Jun 2026
+municipality,Santa Isabel,,casa,13,250000,23197,81.7,134999,330000,f,t,Mar-Jun 2026
+municipality,Toa Alta,,apartamento,2,202500,33349,46.1,195750,209250,t,t,Mar-Jun 2026
+municipality,Toa Alta,,casa,76,364500,33349,82.9,233750,460000,f,f,Mar-Jun 2026
+municipality,Toa Baja,,apartamento,3,215000,29648,55.0,160000,225000,t,t,Mar-Jun 2026
+municipality,Toa Baja,,casa,78,230000,29648,58.8,161250,273675,f,f,Mar-Jun 2026
+municipality,Trujillo Alto,,apartamento,22,198500,38773,38.8,126249,263750,f,t,Mar-Jun 2026
+municipality,Trujillo Alto,,casa,53,379000,38773,74.1,260000,559000,f,f,Mar-Jun 2026
+municipality,Utuado,,apartamento,2,85000,17624,36.6,70000,100000,t,t,Mar-Jun 2026
+municipality,Utuado,,casa,41,175000,17624,75.3,125000,224999,f,f,Mar-Jun 2026
+municipality,Vega Alta,,apartamento,24,487500,25235,146.5,373750,718750,f,t,Mar-Jun 2026
+municipality,Vega Alta,,casa,41,435000,25235,130.7,229900,650000,f,f,Mar-Jun 2026
+municipality,Vega Baja,,apartamento,28,360000,23877,114.4,285000,387500,f,t,Mar-Jun 2026
+municipality,Vega Baja,,casa,48,200000,23877,63.5,130000,293750,f,f,Mar-Jun 2026
+municipality,Vieques,,casa,19,326000,17531,141.0,215000,424500,f,t,Mar-Jun 2026
+municipality,Villalba,,casa,4,280000,24882,85.3,192500,365000,t,t,Mar-Jun 2026
+municipality,Yabucoa,,casa,34,220000,21279,78.4,152250,330000,f,f,Mar-Jun 2026
+municipality,Yauco,,apartamento,2,117000,21918,40.5,113000,121000,t,t,Mar-Jun 2026
+municipality,Yauco,,casa,35,172500,21918,59.7,126700,259950,f,f,Mar-Jun 2026
+sub_area,Carolina,Isla Verde,apartamento,74,470000,35126,101.5,330000,622750,f,f,Mar-Jun 2026
+sub_area,Carolina,Isla Verde,casa,12,787000,35126,169.9,725000,875000,f,t,Mar-Jun 2026
+sub_area,Humacao,Palmas,apartamento,57,500000,26083,145.4,429500,625000,f,f,Mar-Jun 2026
+sub_area,Humacao,Palmas,casa,25,575000,26083,167.2,524000,1399000,f,t,Mar-Jun 2026
+sub_area,San Juan,Condado-Miramar,apartamento,188,690000,26981,194.0,425000,1178500,f,f,Mar-Jun 2026
+sub_area,San Juan,Condado-Miramar,casa,22,1417500,26981,398.5,912500,2062500,f,t,Mar-Jun 2026
+sub_area,San Juan,Hato Rey,apartamento,57,240000,26981,67.5,173000,500000,f,f,Mar-Jun 2026
+sub_area,San Juan,Hato Rey,casa,19,355000,26981,99.8,219500,490000,f,t,Mar-Jun 2026
+sub_area,San Juan,Río Piedras,apartamento,137,159500,26981,44.8,120000,270000,f,f,Mar-Jun 2026
+sub_area,San Juan,Río Piedras,casa,317,395000,26981,111.0,249900,850000,f,f,Mar-Jun 2026
+sub_area,San Juan,Santurce,apartamento,89,400000,26981,112.4,290000,650000,f,f,Mar-Jun 2026
+sub_area,San Juan,Santurce,casa,46,387500,26981,108.9,147500,1214000,f,f,Mar-Jun 2026
+sub_area,San Juan,Viejo SJ,apartamento,53,650000,26981,182.7,500000,925000,f,f,Mar-Jun 2026
+sub_area,San Juan,Viejo SJ,casa,11,1562500,26981,439.2,1020000,1899000,f,t,Mar-Jun 2026
+sub_area,Toa Baja,Levittown,apartamento,2,160000,29648,40.9,132500,187500,t,t,Mar-Jun 2026
+sub_area,Toa Baja,Levittown,casa,34,240000,29648,61.4,219250,263500,f,f,Mar-Jun 2026

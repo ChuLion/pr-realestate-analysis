@@ -1,0 +1,64 @@
+section,item,value,unit,source_file
+island,all: n,5621,listings,analysis/exports/muni_type_summary.csv
+island,apartamento: n,1637,listings,analysis/exports/muni_type_summary.csv
+island,casa: n,3984,listings,analysis/exports/muni_type_summary.csv
+island,all: median price,310000,USD,analysis/exports/muni_type_summary.csv
+island,apartamento: median price,337000,USD,analysis/exports/muni_type_summary.csv
+island,casa: median price,295000,USD,analysis/exports/muni_type_summary.csv
+island,all: income used (listing-weighted municipal medians),26870,USD/year,analysis/exports/muni_type_summary.csv
+island,apartamento: income used (listing-weighted municipal medians),27872,USD/year,analysis/exports/muni_type_summary.csv
+island,casa: income used (listing-weighted municipal medians),26458,USD/year,analysis/exports/muni_type_summary.csv
+island,all: mortgage as % of income,87.5,%,analysis/exports/muni_type_summary.csv
+island,apartamento: mortgage as % of income,91.7,%,analysis/exports/muni_type_summary.csv
+island,casa: mortgage as % of income,84.6,%,analysis/exports/muni_type_summary.csv
+island,"affordable price at $80,000 income (28% of income, 5% down, 7%, 30y)",295341,USD,analysis/claims/price_histogram.sql (RESULTS.md)
+island,"share of listings at or below the $80,000-income affordable price",47.6,%,analysis/claims/price_histogram.sql (RESULTS.md)
+municipality,Moca casa: n,22,listings,analysis/exports/muni_type_summary.csv
+municipality,Moca casa: median price,337500,USD,analysis/exports/muni_type_summary.csv
+municipality,Moca casa: municipal median income,21415,USD/year,analysis/exports/muni_type_summary.csv
+municipality,Moca casa: mortgage as % of income,119.5,%,analysis/exports/muni_type_summary.csv
+municipality,Moca casa: small sample (n < 30),yes,flag,analysis/exports/muni_type_summary.csv
+municipality,Moca casa: do not publish (n < 10),no,flag,analysis/exports/muni_type_summary.csv
+municipality,Aguada apartamento: n,14,listings,analysis/exports/muni_type_summary.csv
+municipality,Aguada apartamento: median price,527000,USD,analysis/exports/muni_type_summary.csv
+municipality,Aguada apartamento: municipal median income,21694,USD/year,analysis/exports/muni_type_summary.csv
+municipality,Aguada apartamento: mortgage as % of income,184.2,%,analysis/exports/muni_type_summary.csv
+municipality,Aguada apartamento: small sample (n < 30),yes,flag,analysis/exports/muni_type_summary.csv
+municipality,Aguada apartamento: do not publish (n < 10),no,flag,analysis/exports/muni_type_summary.csv
+municipality,San Juan apartamento: n,525,listings,analysis/exports/muni_type_summary.csv
+municipality,San Juan apartamento: median price,420000,USD,analysis/exports/muni_type_summary.csv
+municipality,San Juan apartamento: municipal median income,26981,USD/year,analysis/exports/muni_type_summary.csv
+municipality,San Juan apartamento: mortgage as % of income,118.1,%,analysis/exports/muni_type_summary.csv
+municipality,San Juan apartamento: small sample (n < 30),no,flag,analysis/exports/muni_type_summary.csv
+municipality,San Juan apartamento: do not publish (n < 10),no,flag,analysis/exports/muni_type_summary.csv
+municipality,Dorado casa: n,110,listings,analysis/exports/muni_type_summary.csv
+municipality,Dorado casa: median price,672000,USD,analysis/exports/muni_type_summary.csv
+municipality,Dorado casa: municipal median income,33388,USD/year,analysis/exports/muni_type_summary.csv
+municipality,Dorado casa: mortgage as % of income,152.7,%,analysis/exports/muni_type_summary.csv
+municipality,Dorado casa: small sample (n < 30),no,flag,analysis/exports/muni_type_summary.csv
+municipality,Dorado casa: do not publish (n < 10),no,flag,analysis/exports/muni_type_summary.csv
+municipality,Ponce casa: n,151,listings,analysis/exports/muni_type_summary.csv
+municipality,Ponce casa: median price,238000,USD,analysis/exports/muni_type_summary.csv
+municipality,Ponce casa: municipal median income,18827,USD/year,analysis/exports/muni_type_summary.csv
+municipality,Ponce casa: mortgage as % of income,95.9,%,analysis/exports/muni_type_summary.csv
+municipality,Ponce casa: small sample (n < 30),no,flag,analysis/exports/muni_type_summary.csv
+municipality,Ponce casa: do not publish (n < 10),no,flag,analysis/exports/muni_type_summary.csv
+dedup,duplicate groups,348,groups,analysis/exports/conflict_ledger.csv
+dedup,listings in duplicate groups,875,listings,analysis/exports/conflict_ledger.csv
+dedup,repeat copies excluded,527,listings,analysis/exports/conflict_ledger.csv
+near-duplicate candidates,tier A: pairs,258,pairs,analysis/exports/near_duplicate_tiers.csv
+near-duplicate candidates,tier A: listings involved,418,listings,analysis/exports/near_duplicate_tiers.csv
+near-duplicate candidates,tier B: pairs,3,pairs,analysis/exports/near_duplicate_tiers.csv
+near-duplicate candidates,tier B: listings involved,6,listings,analysis/exports/near_duplicate_tiers.csv
+near-duplicate candidates,tier C: pairs,0,pairs,analysis/exports/near_duplicate_tiers.csv
+near-duplicate candidates,tier C: listings involved,0,listings,analysis/exports/near_duplicate_tiers.csv
+near-duplicate candidates,tier D: pairs,30,pairs,analysis/exports/near_duplicate_tiers.csv
+near-duplicate candidates,tier D: listings involved,59,listings,analysis/exports/near_duplicate_tiers.csv
+distress wording,embargada: listings,1,listings,analysis/exports/distress_ledger.csv
+distress wording,embargada: distinct properties,1,properties,analysis/exports/distress_ledger.csv
+distress wording,homepath: listings,10,listings,analysis/exports/distress_ledger.csv
+distress wording,homepath: distinct properties,10,properties,analysis/exports/distress_ledger.csv
+distress wording,hud_owned: listings,28,listings,analysis/exports/distress_ledger.csv
+distress wording,hud_owned: distinct properties,14,properties,analysis/exports/distress_ledger.csv
+distress wording,reposeida: listings,5,listings,analysis/exports/distress_ledger.csv
+distress wording,reposeida: distinct properties,5,properties,analysis/exports/distress_ledger.csv

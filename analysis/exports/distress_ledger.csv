@@ -1,0 +1,22 @@
+scope,distress_text_flag,municipality,listings,distinct_properties
+island,embargada,,1,1
+island,homepath,,10,10
+island,hud_owned,,28,14
+island,reposeida,,5,5
+municipality,embargada,Canóvanas,1,1
+municipality,homepath,San Juan,4,4
+municipality,homepath,Bayamón,3,3
+municipality,homepath,Carolina,1,1
+municipality,homepath,Ponce,1,1
+municipality,homepath,Toa Alta,1,1
+municipality,hud_owned,Bayamón,18,6
+municipality,hud_owned,Morovis,4,3
+municipality,hud_owned,Barceloneta,3,2
+municipality,hud_owned,Guaynabo,1,1
+municipality,hud_owned,Río Grande,1,1
+municipality,hud_owned,San Juan,1,1
+municipality,reposeida,Canóvanas,1,1
+municipality,reposeida,Mayagüez,1,1
+municipality,reposeida,Morovis,1,1
+municipality,reposeida,Ponce,1,1
+municipality,reposeida,Santa Isabel,1,1

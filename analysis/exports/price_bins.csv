@@ -1,0 +1,4210 @@
+scope,municipality,property_type,bin_floor,n
+island,,all,20000,7
+island,,all,25000,7
+island,,all,30000,13
+island,,all,35000,5
+island,,all,40000,11
+island,,all,45000,8
+island,,all,50000,4
+island,,all,55000,16
+island,,all,60000,17
+island,,all,65000,18
+island,,all,70000,23
+island,,all,75000,22
+island,,all,80000,25
+island,,all,85000,45
+island,,all,90000,31
+island,,all,95000,54
+island,,all,100000,33
+island,,all,105000,19
+island,,all,110000,33
+island,,all,115000,40
+island,,all,120000,42
+island,,all,125000,64
+island,,all,130000,40
+island,,all,135000,46
+island,,all,140000,50
+island,,all,145000,66
+island,,all,150000,75
+island,,all,155000,76
+island,,all,160000,75
+island,,all,165000,74
+island,,all,170000,52
+island,,all,175000,92
+island,,all,180000,43
+island,,all,185000,91
+island,,all,190000,56
+island,,all,195000,98
+island,,all,200000,68
+island,,all,205000,34
+island,,all,210000,49
+island,,all,215000,67
+island,,all,220000,37
+island,,all,225000,118
+island,,all,230000,54
+island,,all,235000,66
+island,,all,240000,54
+island,,all,245000,76
+island,,all,250000,100
+island,,all,255000,46
+island,,all,260000,51
+island,,all,265000,84
+island,,all,270000,38
+island,,all,275000,88
+island,,all,280000,44
+island,,all,285000,51
+island,,all,290000,32
+island,,all,295000,90
+island,,all,300000,58
+island,,all,305000,18
+island,,all,310000,26
+island,,all,315000,47
+island,,all,320000,24
+island,,all,325000,71
+island,,all,330000,31
+island,,all,335000,21
+island,,all,340000,19
+island,,all,345000,43
+island,,all,350000,100
+island,,all,355000,17
+island,,all,360000,29
+island,,all,365000,47
+island,,all,370000,14
+island,,all,375000,75
+island,,all,380000,23
+island,,all,385000,52
+island,,all,390000,23
+island,,all,395000,89
+island,,all,400000,39
+island,,all,405000,9
+island,,all,410000,17
+island,,all,415000,32
+island,,all,420000,16
+island,,all,425000,62
+island,,all,430000,19
+island,,all,435000,22
+island,,all,440000,14
+island,,all,445000,32
+island,,all,450000,78
+island,,all,455000,17
+island,,all,460000,15
+island,,all,465000,19
+island,,all,470000,8
+island,,all,475000,54
+island,,all,480000,11
+island,,all,485000,16
+island,,all,490000,20
+island,,all,495000,56
+island,,all,500000,36
+island,,all,505000,2
+island,,all,510000,7
+island,,all,515000,14
+island,,all,520000,11
+island,,all,525000,33
+island,,all,530000,7
+island,,all,535000,15
+island,,all,540000,7
+island,,all,545000,23
+island,,all,550000,56
+island,,all,555000,4
+island,,all,560000,5
+island,,all,565000,4
+island,,all,570000,4
+island,,all,575000,42
+island,,all,580000,8
+island,,all,585000,19
+island,,all,590000,12
+island,,all,595000,59
+island,,all,600000,18
+island,,all,605000,1
+island,,all,610000,4
+island,,all,615000,6
+island,,all,620000,3
+island,,all,625000,25
+island,,all,630000,8
+island,,all,635000,5
+island,,all,640000,6
+island,,all,645000,16
+island,,all,650000,48
+island,,all,655000,4
+island,,all,660000,3
+island,,all,665000,4
+island,,all,670000,6
+island,,all,675000,27
+island,,all,680000,4
+island,,all,685000,8
+island,,all,690000,7
+island,,all,695000,41
+island,,all,700000,19
+island,,all,705000,2
+island,,all,715000,4
+island,,all,720000,5
+island,,all,725000,16
+island,,all,730000,3
+island,,all,735000,6
+island,,all,740000,4
+island,,all,745000,9
+island,,all,750000,39
+island,,all,755000,4
+island,,all,765000,7
+island,,all,770000,3
+island,,all,775000,8
+island,,all,780000,6
+island,,all,785000,5
+island,,all,790000,2
+island,,all,795000,21
+island,,all,800000,14
+island,,all,810000,4
+island,,all,815000,5
+island,,all,820000,1
+island,,all,825000,11
+island,,all,830000,3
+island,,all,835000,2
+island,,all,840000,1
+island,,all,845000,8
+island,,all,850000,33
+island,,all,855000,2
+island,,all,860000,3
+island,,all,865000,2
+island,,all,870000,2
+island,,all,875000,28
+island,,all,880000,1
+island,,all,885000,1
+island,,all,890000,6
+island,,all,895000,20
+island,,all,900000,14
+island,,all,910000,1
+island,,all,915000,1
+island,,all,920000,1
+island,,all,925000,10
+island,,all,930000,1
+island,,all,935000,2
+island,,all,940000,2
+island,,all,945000,4
+island,,all,950000,17
+island,,all,955000,1
+island,,all,960000,1
+island,,all,965000,1
+island,,all,975000,15
+island,,all,980000,6
+island,,all,985000,2
+island,,all,990000,4
+island,,all,995000,24
+island,,all,1000000,14
+island,,all,1045000,1
+island,,all,1050000,4
+island,,all,1075000,1
+island,,all,1085000,2
+island,,all,1095000,7
+island,,all,1100000,15
+island,,all,1125000,3
+island,,all,1150000,18
+island,,all,1165000,1
+island,,all,1175000,4
+island,,all,1185000,2
+island,,all,1190000,3
+island,,all,1195000,8
+island,,all,1200000,34
+island,,all,1215000,1
+island,,all,1225000,4
+island,,all,1245000,4
+island,,all,1250000,18
+island,,all,1255000,4
+island,,all,1275000,9
+island,,all,1280000,1
+island,,all,1285000,2
+island,,all,1290000,1
+island,,all,1295000,11
+island,,all,1300000,21
+island,,all,1325000,1
+island,,all,1345000,1
+island,,all,1350000,14
+island,,all,1375000,7
+island,,all,1380000,1
+island,,all,1385000,1
+island,,all,1390000,2
+island,,all,1395000,14
+island,,all,1400000,12
+island,,all,1425000,1
+island,,all,1450000,12
+island,,all,1460000,1
+island,,all,1480000,1
+island,,all,1485000,1
+island,,all,1490000,1
+island,,all,1495000,21
+island,,all,1500000,25
+island,,all,1525000,3
+island,,all,1550000,7
+island,,all,1555000,1
+island,,all,1560000,2
+island,,all,1565000,1
+island,,all,1575000,1
+island,,all,1590000,3
+island,,all,1595000,7
+island,,all,1600000,11
+island,,all,1620000,1
+island,,all,1630000,1
+island,,all,1650000,8
+island,,all,1655000,2
+island,,all,1685000,1
+island,,all,1690000,2
+island,,all,1695000,8
+island,,all,1700000,11
+island,,all,1725000,1
+island,,all,1750000,7
+island,,all,1780000,1
+island,,all,1785000,1
+island,,all,1790000,3
+island,,all,1795000,6
+island,,all,1800000,3
+island,,all,1825000,1
+island,,all,1850000,3
+island,,all,1855000,1
+island,,all,1890000,2
+island,,all,1895000,5
+island,,all,1900000,7
+island,,all,1945000,1
+island,,all,1950000,8
+island,,all,1975000,4
+island,,all,1995000,9
+island,,all,2000000,6
+island,,all,2095000,1
+island,,all,2100000,6
+island,,all,2150000,2
+island,,all,2155000,1
+island,,all,2195000,1
+island,,all,2200000,10
+island,,all,2220000,1
+island,,all,2225000,1
+island,,all,2250000,3
+island,,all,2260000,1
+island,,all,2275000,1
+island,,all,2290000,2
+island,,all,2295000,2
+island,,all,2300000,3
+island,,all,2350000,2
+island,,all,2375000,1
+island,,all,2395000,5
+island,,apartamento,20000,1
+island,,apartamento,25000,4
+island,,apartamento,30000,4
+island,,apartamento,35000,1
+island,,apartamento,40000,7
+island,,apartamento,45000,3
+island,,apartamento,55000,4
+island,,apartamento,60000,2
+island,,apartamento,65000,5
+island,,apartamento,70000,3
+island,,apartamento,75000,4
+island,,apartamento,80000,6
+island,,apartamento,85000,9
+island,,apartamento,90000,7
+island,,apartamento,95000,12
+island,,apartamento,100000,9
+island,,apartamento,105000,6
+island,,apartamento,110000,7
+island,,apartamento,115000,12
+island,,apartamento,120000,10
+island,,apartamento,125000,15
+island,,apartamento,130000,10
+island,,apartamento,135000,12
+island,,apartamento,140000,10
+island,,apartamento,145000,9
+island,,apartamento,150000,14
+island,,apartamento,155000,12
+island,,apartamento,160000,14
+island,,apartamento,165000,10
+island,,apartamento,170000,12
+island,,apartamento,175000,16
+island,,apartamento,180000,9
+island,,apartamento,185000,14
+island,,apartamento,190000,10
+island,,apartamento,195000,16
+island,,apartamento,200000,11
+island,,apartamento,205000,5
+island,,apartamento,210000,12
+island,,apartamento,215000,14
+island,,apartamento,220000,14
+island,,apartamento,225000,41
+island,,apartamento,230000,17
+island,,apartamento,235000,20
+island,,apartamento,240000,19
+island,,apartamento,245000,25
+island,,apartamento,250000,30
+island,,apartamento,255000,18
+island,,apartamento,260000,18
+island,,apartamento,265000,30
+island,,apartamento,270000,14
+island,,apartamento,275000,36
+island,,apartamento,280000,12
+island,,apartamento,285000,16
+island,,apartamento,290000,6
+island,,apartamento,295000,35
+island,,apartamento,300000,17
+island,,apartamento,305000,8
+island,,apartamento,310000,11
+island,,apartamento,315000,29
+island,,apartamento,320000,7
+island,,apartamento,325000,28
+island,,apartamento,330000,19
+island,,apartamento,335000,10
+island,,apartamento,340000,8
+island,,apartamento,345000,13
+island,,apartamento,350000,34
+island,,apartamento,355000,9
+island,,apartamento,360000,7
+island,,apartamento,365000,18
+island,,apartamento,370000,4
+island,,apartamento,375000,20
+island,,apartamento,380000,6
+island,,apartamento,385000,19
+island,,apartamento,390000,6
+island,,apartamento,395000,29
+island,,apartamento,400000,14
+island,,apartamento,405000,3
+island,,apartamento,410000,6
+island,,apartamento,415000,11
+island,,apartamento,420000,8
+island,,apartamento,425000,19
+island,,apartamento,430000,7
+island,,apartamento,435000,7
+island,,apartamento,440000,6
+island,,apartamento,445000,16
+island,,apartamento,450000,21
+island,,apartamento,455000,6
+island,,apartamento,460000,3
+island,,apartamento,465000,6
+island,,apartamento,470000,1
+island,,apartamento,475000,16
+island,,apartamento,480000,1
+island,,apartamento,485000,7
+island,,apartamento,490000,7
+island,,apartamento,495000,15
+island,,apartamento,500000,11
+island,,apartamento,510000,4
+island,,apartamento,515000,5
+island,,apartamento,520000,1
+island,,apartamento,525000,15
+island,,apartamento,530000,4
+island,,apartamento,535000,6
+island,,apartamento,540000,1
+island,,apartamento,545000,8
+island,,apartamento,550000,16
+island,,apartamento,560000,2
+island,,apartamento,570000,3
+island,,apartamento,575000,15
+island,,apartamento,580000,2
+island,,apartamento,585000,9
+island,,apartamento,590000,9
+island,,apartamento,595000,21
+island,,apartamento,600000,6
+island,,apartamento,610000,2
+island,,apartamento,615000,1
+island,,apartamento,625000,6
+island,,apartamento,630000,4
+island,,apartamento,635000,3
+island,,apartamento,640000,3
+island,,apartamento,645000,8
+island,,apartamento,650000,15
+island,,apartamento,655000,2
+island,,apartamento,660000,2
+island,,apartamento,665000,2
+island,,apartamento,670000,2
+island,,apartamento,675000,9
+island,,apartamento,685000,3
+island,,apartamento,690000,1
+island,,apartamento,695000,12
+island,,apartamento,700000,5
+island,,apartamento,715000,1
+island,,apartamento,720000,1
+island,,apartamento,725000,9
+island,,apartamento,730000,1
+island,,apartamento,735000,2
+island,,apartamento,740000,1
+island,,apartamento,745000,2
+island,,apartamento,750000,6
+island,,apartamento,755000,2
+island,,apartamento,765000,1
+island,,apartamento,770000,1
+island,,apartamento,775000,4
+island,,apartamento,780000,3
+island,,apartamento,785000,2
+island,,apartamento,795000,4
+island,,apartamento,800000,3
+island,,apartamento,810000,2
+island,,apartamento,815000,2
+island,,apartamento,825000,2
+island,,apartamento,835000,1
+island,,apartamento,845000,1
+island,,apartamento,850000,12
+island,,apartamento,860000,1
+island,,apartamento,865000,1
+island,,apartamento,870000,1
+island,,apartamento,875000,4
+island,,apartamento,890000,2
+island,,apartamento,895000,8
+island,,apartamento,900000,3
+island,,apartamento,915000,1
+island,,apartamento,925000,7
+island,,apartamento,935000,1
+island,,apartamento,940000,1
+island,,apartamento,945000,3
+island,,apartamento,950000,4
+island,,apartamento,955000,1
+island,,apartamento,960000,1
+island,,apartamento,965000,1
+island,,apartamento,975000,8
+island,,apartamento,980000,5
+island,,apartamento,990000,1
+island,,apartamento,995000,9
+island,,apartamento,1000000,2
+island,,apartamento,1045000,1
+island,,apartamento,1095000,2
+island,,apartamento,1100000,6
+island,,apartamento,1125000,1
+island,,apartamento,1150000,5
+island,,apartamento,1175000,2
+island,,apartamento,1185000,1
+island,,apartamento,1195000,1
+island,,apartamento,1200000,8
+island,,apartamento,1225000,3
+island,,apartamento,1250000,5
+island,,apartamento,1275000,2
+island,,apartamento,1295000,4
+island,,apartamento,1300000,4
+island,,apartamento,1350000,1
+island,,apartamento,1375000,1
+island,,apartamento,1380000,1
+island,,apartamento,1390000,1
+island,,apartamento,1395000,2
+island,,apartamento,1400000,4
+island,,apartamento,1450000,4
+island,,apartamento,1460000,1
+island,,apartamento,1490000,1
+island,,apartamento,1495000,6
+island,,apartamento,1500000,5
+island,,apartamento,1550000,4
+island,,apartamento,1590000,1
+island,,apartamento,1600000,3
+island,,apartamento,1620000,1
+island,,apartamento,1650000,4
+island,,apartamento,1685000,1
+island,,apartamento,1690000,1
+island,,apartamento,1695000,2
+island,,apartamento,1700000,2
+island,,apartamento,1725000,1
+island,,apartamento,1750000,3
+island,,apartamento,1790000,2
+island,,apartamento,1795000,3
+island,,apartamento,1850000,1
+island,,apartamento,1895000,1
+island,,apartamento,1900000,1
+island,,apartamento,1945000,1
+island,,apartamento,1950000,3
+island,,apartamento,1975000,2
+island,,apartamento,1995000,2
+island,,apartamento,2150000,1
+island,,apartamento,2195000,1
+island,,apartamento,2250000,2
+island,,apartamento,2295000,1
+island,,apartamento,2300000,1
+island,,casa,20000,6
+island,,casa,25000,3
+island,,casa,30000,9
+island,,casa,35000,4
+island,,casa,40000,4
+island,,casa,45000,5
+island,,casa,50000,4
+island,,casa,55000,12
+island,,casa,60000,15
+island,,casa,65000,13
+island,,casa,70000,20
+island,,casa,75000,18
+island,,casa,80000,19
+island,,casa,85000,36
+island,,casa,90000,24
+island,,casa,95000,42
+island,,casa,100000,24
+island,,casa,105000,13
+island,,casa,110000,26
+island,,casa,115000,28
+island,,casa,120000,32
+island,,casa,125000,49
+island,,casa,130000,30
+island,,casa,135000,34
+island,,casa,140000,40
+island,,casa,145000,57
+island,,casa,150000,61
+island,,casa,155000,64
+island,,casa,160000,61
+island,,casa,165000,64
+island,,casa,170000,40
+island,,casa,175000,76
+island,,casa,180000,34
+island,,casa,185000,77
+island,,casa,190000,46
+island,,casa,195000,82
+island,,casa,200000,57
+island,,casa,205000,29
+island,,casa,210000,37
+island,,casa,215000,53
+island,,casa,220000,23
+island,,casa,225000,77
+island,,casa,230000,37
+island,,casa,235000,46
+island,,casa,240000,35
+island,,casa,245000,51
+island,,casa,250000,70
+island,,casa,255000,28
+island,,casa,260000,33
+island,,casa,265000,54
+island,,casa,270000,24
+island,,casa,275000,52
+island,,casa,280000,32
+island,,casa,285000,35
+island,,casa,290000,26
+island,,casa,295000,55
+island,,casa,300000,41
+island,,casa,305000,10
+island,,casa,310000,15
+island,,casa,315000,18
+island,,casa,320000,17
+island,,casa,325000,43
+island,,casa,330000,12
+island,,casa,335000,11
+island,,casa,340000,11
+island,,casa,345000,30
+island,,casa,350000,66
+island,,casa,355000,8
+island,,casa,360000,22
+island,,casa,365000,29
+island,,casa,370000,10
+island,,casa,375000,55
+island,,casa,380000,17
+island,,casa,385000,33
+island,,casa,390000,17
+island,,casa,395000,60
+island,,casa,400000,25
+island,,casa,405000,6
+island,,casa,410000,11
+island,,casa,415000,21
+island,,casa,420000,8
+island,,casa,425000,43
+island,,casa,430000,12
+island,,casa,435000,15
+island,,casa,440000,8
+island,,casa,445000,16
+island,,casa,450000,57
+island,,casa,455000,11
+island,,casa,460000,12
+island,,casa,465000,13
+island,,casa,470000,7
+island,,casa,475000,38
+island,,casa,480000,10
+island,,casa,485000,9
+island,,casa,490000,13
+island,,casa,495000,41
+island,,casa,500000,25
+island,,casa,505000,2
+island,,casa,510000,3
+island,,casa,515000,9
+island,,casa,520000,10
+island,,casa,525000,18
+island,,casa,530000,3
+island,,casa,535000,9
+island,,casa,540000,6
+island,,casa,545000,15
+island,,casa,550000,40
+island,,casa,555000,4
+island,,casa,560000,3
+island,,casa,565000,4
+island,,casa,570000,1
+island,,casa,575000,27
+island,,casa,580000,6
+island,,casa,585000,10
+island,,casa,590000,3
+island,,casa,595000,38
+island,,casa,600000,12
+island,,casa,605000,1
+island,,casa,610000,2
+island,,casa,615000,5
+island,,casa,620000,3
+island,,casa,625000,19
+island,,casa,630000,4
+island,,casa,635000,2
+island,,casa,640000,3
+island,,casa,645000,8
+island,,casa,650000,33
+island,,casa,655000,2
+island,,casa,660000,1
+island,,casa,665000,2
+island,,casa,670000,4
+island,,casa,675000,18
+island,,casa,680000,4
+island,,casa,685000,5
+island,,casa,690000,6
+island,,casa,695000,29
+island,,casa,700000,14
+island,,casa,705000,2
+island,,casa,715000,3
+island,,casa,720000,4
+island,,casa,725000,7
+island,,casa,730000,2
+island,,casa,735000,4
+island,,casa,740000,3
+island,,casa,745000,7
+island,,casa,750000,33
+island,,casa,755000,2
+island,,casa,765000,6
+island,,casa,770000,2
+island,,casa,775000,4
+island,,casa,780000,3
+island,,casa,785000,3
+island,,casa,790000,2
+island,,casa,795000,17
+island,,casa,800000,11
+island,,casa,810000,2
+island,,casa,815000,3
+island,,casa,820000,1
+island,,casa,825000,9
+island,,casa,830000,3
+island,,casa,835000,1
+island,,casa,840000,1
+island,,casa,845000,7
+island,,casa,850000,21
+island,,casa,855000,2
+island,,casa,860000,2
+island,,casa,865000,1
+island,,casa,870000,1
+island,,casa,875000,24
+island,,casa,880000,1
+island,,casa,885000,1
+island,,casa,890000,4
+island,,casa,895000,12
+island,,casa,900000,11
+island,,casa,910000,1
+island,,casa,920000,1
+island,,casa,925000,3
+island,,casa,930000,1
+island,,casa,935000,1
+island,,casa,940000,1
+island,,casa,945000,1
+island,,casa,950000,13
+island,,casa,975000,7
+island,,casa,980000,1
+island,,casa,985000,2
+island,,casa,990000,3
+island,,casa,995000,15
+island,,casa,1000000,12
+island,,casa,1050000,4
+island,,casa,1075000,1
+island,,casa,1085000,2
+island,,casa,1095000,5
+island,,casa,1100000,9
+island,,casa,1125000,2
+island,,casa,1150000,13
+island,,casa,1165000,1
+island,,casa,1175000,2
+island,,casa,1185000,1
+island,,casa,1190000,3
+island,,casa,1195000,7
+island,,casa,1200000,26
+island,,casa,1215000,1
+island,,casa,1225000,1
+island,,casa,1245000,4
+island,,casa,1250000,13
+island,,casa,1255000,4
+island,,casa,1275000,7
+island,,casa,1280000,1
+island,,casa,1285000,2
+island,,casa,1290000,1
+island,,casa,1295000,7
+island,,casa,1300000,17
+island,,casa,1325000,1
+island,,casa,1345000,1
+island,,casa,1350000,13
+island,,casa,1375000,6
+island,,casa,1385000,1
+island,,casa,1390000,1
+island,,casa,1395000,12
+island,,casa,1400000,8
+island,,casa,1425000,1
+island,,casa,1450000,8
+island,,casa,1480000,1
+island,,casa,1485000,1
+island,,casa,1495000,15
+island,,casa,1500000,20
+island,,casa,1525000,3
+island,,casa,1550000,3
+island,,casa,1555000,1
+island,,casa,1560000,2
+island,,casa,1565000,1
+island,,casa,1575000,1
+island,,casa,1590000,2
+island,,casa,1595000,7
+island,,casa,1600000,8
+island,,casa,1630000,1
+island,,casa,1650000,4
+island,,casa,1655000,2
+island,,casa,1690000,1
+island,,casa,1695000,6
+island,,casa,1700000,9
+island,,casa,1750000,4
+island,,casa,1780000,1
+island,,casa,1785000,1
+island,,casa,1790000,1
+island,,casa,1795000,3
+island,,casa,1800000,3
+island,,casa,1825000,1
+island,,casa,1850000,2
+island,,casa,1855000,1
+island,,casa,1890000,2
+island,,casa,1895000,4
+island,,casa,1900000,6
+island,,casa,1950000,5
+island,,casa,1975000,2
+island,,casa,1995000,7
+island,,casa,2000000,6
+island,,casa,2095000,1
+island,,casa,2100000,6
+island,,casa,2150000,1
+island,,casa,2155000,1
+island,,casa,2200000,10
+island,,casa,2220000,1
+island,,casa,2225000,1
+island,,casa,2250000,1
+island,,casa,2260000,1
+island,,casa,2275000,1
+island,,casa,2290000,2
+island,,casa,2295000,1
+island,,casa,2300000,2
+island,,casa,2350000,2
+island,,casa,2375000,1
+island,,casa,2395000,5
+municipality,Aguada,apartamento,250000,1
+municipality,Aguada,apartamento,275000,1
+municipality,Aguada,apartamento,325000,1
+municipality,Aguada,apartamento,360000,1
+municipality,Aguada,apartamento,395000,1
+municipality,Aguada,apartamento,525000,3
+municipality,Aguada,apartamento,550000,1
+municipality,Aguada,apartamento,640000,1
+municipality,Aguada,apartamento,780000,1
+municipality,Aguada,apartamento,980000,3
+municipality,Aguada,casa,60000,1
+municipality,Aguada,casa,240000,1
+municipality,Aguada,casa,275000,1
+municipality,Aguada,casa,290000,1
+municipality,Aguada,casa,300000,1
+municipality,Aguada,casa,325000,1
+municipality,Aguada,casa,340000,2
+municipality,Aguada,casa,355000,1
+municipality,Aguada,casa,375000,1
+municipality,Aguada,casa,400000,1
+municipality,Aguada,casa,415000,1
+municipality,Aguada,casa,430000,1
+municipality,Aguada,casa,450000,2
+municipality,Aguada,casa,500000,1
+municipality,Aguada,casa,510000,1
+municipality,Aguada,casa,535000,1
+municipality,Aguada,casa,580000,1
+municipality,Aguada,casa,615000,1
+municipality,Aguada,casa,750000,2
+municipality,Aguada,casa,800000,1
+municipality,Aguada,casa,825000,1
+municipality,Aguada,casa,885000,1
+municipality,Aguada,casa,1400000,1
+municipality,Aguadilla,casa,45000,1
+municipality,Aguadilla,casa,95000,1
+municipality,Aguadilla,casa,170000,1
+municipality,Aguadilla,casa,190000,1
+municipality,Aguadilla,casa,200000,1
+municipality,Aguadilla,casa,205000,1
+municipality,Aguadilla,casa,215000,1
+municipality,Aguadilla,casa,225000,1
+municipality,Aguadilla,casa,230000,2
+municipality,Aguadilla,casa,245000,1
+municipality,Aguadilla,casa,255000,1
+municipality,Aguadilla,casa,260000,1
+municipality,Aguadilla,casa,265000,1
+municipality,Aguadilla,casa,285000,1
+municipality,Aguadilla,casa,290000,1
+municipality,Aguadilla,casa,295000,1
+municipality,Aguadilla,casa,300000,1
+municipality,Aguadilla,casa,315000,1
+municipality,Aguadilla,casa,320000,2
+municipality,Aguadilla,casa,340000,1
+municipality,Aguadilla,casa,350000,1
+municipality,Aguadilla,casa,365000,2
+municipality,Aguadilla,casa,370000,1
+municipality,Aguadilla,casa,375000,2
+municipality,Aguadilla,casa,380000,1
+municipality,Aguadilla,casa,385000,1
+municipality,Aguadilla,casa,395000,2
+municipality,Aguadilla,casa,400000,2
+municipality,Aguadilla,casa,410000,1
+municipality,Aguadilla,casa,415000,1
+municipality,Aguadilla,casa,425000,3
+municipality,Aguadilla,casa,450000,3
+municipality,Aguadilla,casa,465000,1
+municipality,Aguadilla,casa,485000,1
+municipality,Aguadilla,casa,495000,2
+municipality,Aguadilla,casa,500000,1
+municipality,Aguadilla,casa,550000,3
+municipality,Aguadilla,casa,575000,1
+municipality,Aguadilla,casa,585000,3
+municipality,Aguadilla,casa,625000,3
+municipality,Aguadilla,casa,675000,1
+municipality,Aguadilla,casa,680000,1
+municipality,Aguadilla,casa,765000,1
+municipality,Aguadilla,casa,795000,1
+municipality,Aguadilla,casa,975000,1
+municipality,Aguadilla,casa,995000,2
+municipality,Aguas Buenas,casa,75000,1
+municipality,Aguas Buenas,casa,85000,4
+municipality,Aguas Buenas,casa,120000,1
+municipality,Aguas Buenas,casa,160000,2
+municipality,Aguas Buenas,casa,170000,1
+municipality,Aguas Buenas,casa,195000,1
+municipality,Aguas Buenas,casa,210000,1
+municipality,Aguas Buenas,casa,255000,1
+municipality,Aguas Buenas,casa,260000,1
+municipality,Aguas Buenas,casa,325000,1
+municipality,Aguas Buenas,casa,365000,1
+municipality,Aguas Buenas,casa,370000,1
+municipality,Aguas Buenas,casa,385000,1
+municipality,Aguas Buenas,casa,550000,1
+municipality,Aguas Buenas,casa,650000,1
+municipality,Aguas Buenas,casa,825000,1
+municipality,Aguas Buenas,casa,1150000,1
+municipality,Aibonito,casa,60000,1
+municipality,Aibonito,casa,80000,1
+municipality,Aibonito,casa,95000,1
+municipality,Aibonito,casa,145000,1
+municipality,Aibonito,casa,175000,1
+municipality,Aibonito,casa,225000,1
+municipality,Aibonito,casa,230000,1
+municipality,Aibonito,casa,260000,1
+municipality,Aibonito,casa,275000,2
+municipality,Aibonito,casa,285000,1
+municipality,Aibonito,casa,410000,1
+municipality,Aibonito,casa,415000,1
+municipality,Aibonito,casa,495000,1
+municipality,Aibonito,casa,500000,1
+municipality,Aibonito,casa,875000,1
+municipality,Añasco,apartamento,375000,1
+municipality,Añasco,apartamento,385000,1
+municipality,Añasco,apartamento,395000,2
+municipality,Añasco,apartamento,485000,2
+municipality,Añasco,apartamento,575000,2
+municipality,Añasco,apartamento,650000,1
+municipality,Añasco,apartamento,675000,1
+municipality,Añasco,casa,110000,1
+municipality,Añasco,casa,150000,2
+municipality,Añasco,casa,160000,1
+municipality,Añasco,casa,215000,2
+municipality,Añasco,casa,225000,1
+municipality,Añasco,casa,250000,1
+municipality,Añasco,casa,265000,2
+municipality,Añasco,casa,275000,2
+municipality,Añasco,casa,300000,1
+municipality,Añasco,casa,335000,1
+municipality,Añasco,casa,365000,1
+municipality,Añasco,casa,450000,1
+municipality,Añasco,casa,575000,2
+municipality,Añasco,casa,695000,1
+municipality,Añasco,casa,715000,1
+municipality,Añasco,casa,780000,1
+municipality,Añasco,casa,1200000,1
+municipality,Añasco,casa,1560000,1
+municipality,Arecibo,apartamento,65000,1
+municipality,Arecibo,apartamento,110000,1
+municipality,Arecibo,apartamento,120000,1
+municipality,Arecibo,apartamento,125000,1
+municipality,Arecibo,apartamento,135000,1
+municipality,Arecibo,apartamento,145000,1
+municipality,Arecibo,apartamento,150000,1
+municipality,Arecibo,apartamento,160000,1
+municipality,Arecibo,apartamento,195000,1
+municipality,Arecibo,apartamento,220000,1
+municipality,Arecibo,casa,30000,1
+municipality,Arecibo,casa,40000,1
+municipality,Arecibo,casa,65000,1
+municipality,Arecibo,casa,80000,2
+municipality,Arecibo,casa,85000,2
+municipality,Arecibo,casa,90000,1
+municipality,Arecibo,casa,95000,2
+municipality,Arecibo,casa,100000,3
+municipality,Arecibo,casa,115000,4
+municipality,Arecibo,casa,120000,1
+municipality,Arecibo,casa,125000,1
+municipality,Arecibo,casa,130000,2
+municipality,Arecibo,casa,135000,2
+municipality,Arecibo,casa,140000,2
+municipality,Arecibo,casa,145000,5
+municipality,Arecibo,casa,150000,2
+municipality,Arecibo,casa,155000,1
+municipality,Arecibo,casa,160000,1
+municipality,Arecibo,casa,170000,3
+municipality,Arecibo,casa,175000,3
+municipality,Arecibo,casa,185000,1
+municipality,Arecibo,casa,190000,2
+municipality,Arecibo,casa,195000,3
+municipality,Arecibo,casa,200000,2
+municipality,Arecibo,casa,205000,5
+municipality,Arecibo,casa,210000,1
+municipality,Arecibo,casa,215000,1
+municipality,Arecibo,casa,220000,1
+municipality,Arecibo,casa,225000,5
+municipality,Arecibo,casa,235000,3
+municipality,Arecibo,casa,240000,1
+municipality,Arecibo,casa,245000,1
+municipality,Arecibo,casa,250000,1
+municipality,Arecibo,casa,265000,5
+municipality,Arecibo,casa,270000,1
+municipality,Arecibo,casa,275000,2
+municipality,Arecibo,casa,280000,1
+municipality,Arecibo,casa,285000,1
+municipality,Arecibo,casa,290000,1
+municipality,Arecibo,casa,295000,1
+municipality,Arecibo,casa,300000,1
+municipality,Arecibo,casa,320000,1
+municipality,Arecibo,casa,325000,3
+municipality,Arecibo,casa,345000,3
+municipality,Arecibo,casa,350000,3
+municipality,Arecibo,casa,370000,1
+municipality,Arecibo,casa,375000,2
+municipality,Arecibo,casa,380000,1
+municipality,Arecibo,casa,390000,1
+municipality,Arecibo,casa,395000,2
+municipality,Arecibo,casa,425000,2
+municipality,Arecibo,casa,435000,1
+municipality,Arecibo,casa,445000,2
+municipality,Arecibo,casa,450000,2
+municipality,Arecibo,casa,455000,1
+municipality,Arecibo,casa,465000,1
+municipality,Arecibo,casa,475000,2
+municipality,Arecibo,casa,480000,1
+municipality,Arecibo,casa,550000,3
+municipality,Arecibo,casa,565000,1
+municipality,Arecibo,casa,625000,2
+municipality,Arecibo,casa,725000,1
+municipality,Arecibo,casa,795000,1
+municipality,Arecibo,casa,800000,1
+municipality,Arecibo,casa,870000,1
+municipality,Arecibo,casa,900000,1
+municipality,Arecibo,casa,1075000,1
+municipality,Arecibo,casa,1185000,1
+municipality,Arecibo,casa,1200000,1
+municipality,Arecibo,casa,1500000,1
+municipality,Arecibo,casa,2000000,1
+municipality,Arecibo,casa,2200000,1
+municipality,Arroyo,casa,70000,1
+municipality,Arroyo,casa,120000,1
+municipality,Arroyo,casa,125000,1
+municipality,Arroyo,casa,130000,1
+municipality,Arroyo,casa,140000,1
+municipality,Arroyo,casa,145000,1
+municipality,Arroyo,casa,150000,2
+municipality,Arroyo,casa,175000,1
+municipality,Arroyo,casa,185000,1
+municipality,Arroyo,casa,195000,1
+municipality,Arroyo,casa,450000,1
+municipality,Barceloneta,casa,45000,1
+municipality,Barceloneta,casa,70000,1
+municipality,Barceloneta,casa,80000,1
+municipality,Barceloneta,casa,120000,1
+municipality,Barceloneta,casa,125000,1
+municipality,Barceloneta,casa,145000,3
+municipality,Barceloneta,casa,160000,3
+municipality,Barceloneta,casa,175000,1
+municipality,Barceloneta,casa,180000,1
+municipality,Barceloneta,casa,185000,2
+municipality,Barceloneta,casa,215000,1
+municipality,Barceloneta,casa,225000,1
+municipality,Barceloneta,casa,240000,1
+municipality,Barceloneta,casa,250000,1
+municipality,Barceloneta,casa,255000,4
+municipality,Barceloneta,casa,260000,2
+municipality,Barceloneta,casa,270000,1
+municipality,Barceloneta,casa,275000,2
+municipality,Barceloneta,casa,280000,1
+municipality,Barceloneta,casa,295000,2
+municipality,Barceloneta,casa,300000,1
+municipality,Barceloneta,casa,450000,1
+municipality,Barceloneta,casa,810000,1
+municipality,Barranquitas,casa,50000,1
+municipality,Barranquitas,casa,125000,2
+municipality,Barranquitas,casa,140000,1
+municipality,Barranquitas,casa,145000,1
+municipality,Barranquitas,casa,150000,1
+municipality,Barranquitas,casa,160000,1
+municipality,Barranquitas,casa,195000,1
+municipality,Barranquitas,casa,200000,1
+municipality,Barranquitas,casa,205000,2
+municipality,Barranquitas,casa,225000,1
+municipality,Barranquitas,casa,230000,1
+municipality,Barranquitas,casa,240000,1
+municipality,Barranquitas,casa,245000,1
+municipality,Barranquitas,casa,275000,1
+municipality,Barranquitas,casa,280000,1
+municipality,Barranquitas,casa,370000,1
+municipality,Barranquitas,casa,375000,1
+municipality,Barranquitas,casa,395000,1
+municipality,Barranquitas,casa,490000,1
+municipality,Barranquitas,casa,495000,1
+municipality,Barranquitas,casa,1000000,1
+municipality,Bayamón,apartamento,135000,2
+municipality,Bayamón,apartamento,140000,1
+municipality,Bayamón,apartamento,155000,1
+municipality,Bayamón,apartamento,160000,1
+municipality,Bayamón,apartamento,165000,2
+municipality,Bayamón,apartamento,170000,1
+municipality,Bayamón,apartamento,175000,1
+municipality,Bayamón,apartamento,180000,1
+municipality,Bayamón,apartamento,190000,2
+municipality,Bayamón,apartamento,210000,1
+municipality,Bayamón,apartamento,215000,2
+municipality,Bayamón,apartamento,220000,1
+municipality,Bayamón,apartamento,230000,2
+municipality,Bayamón,apartamento,245000,1
+municipality,Bayamón,apartamento,250000,2
+municipality,Bayamón,apartamento,255000,1
+municipality,Bayamón,apartamento,310000,1
+municipality,Bayamón,apartamento,340000,1
+municipality,Bayamón,apartamento,975000,1
+municipality,Bayamón,casa,55000,1
+municipality,Bayamón,casa,75000,1
+municipality,Bayamón,casa,90000,1
+municipality,Bayamón,casa,95000,2
+municipality,Bayamón,casa,125000,1
+municipality,Bayamón,casa,130000,3
+municipality,Bayamón,casa,135000,1
+municipality,Bayamón,casa,140000,2
+municipality,Bayamón,casa,145000,2
+municipality,Bayamón,casa,150000,3
+municipality,Bayamón,casa,155000,4
+municipality,Bayamón,casa,160000,4
+municipality,Bayamón,casa,165000,2
+municipality,Bayamón,casa,170000,1
+municipality,Bayamón,casa,175000,5
+municipality,Bayamón,casa,180000,2
+municipality,Bayamón,casa,185000,16
+municipality,Bayamón,casa,190000,6
+municipality,Bayamón,casa,195000,10
+municipality,Bayamón,casa,200000,4
+municipality,Bayamón,casa,205000,3
+municipality,Bayamón,casa,210000,1
+municipality,Bayamón,casa,215000,7
+municipality,Bayamón,casa,220000,4
+municipality,Bayamón,casa,225000,11
+municipality,Bayamón,casa,230000,5
+municipality,Bayamón,casa,235000,1
+municipality,Bayamón,casa,240000,5
+municipality,Bayamón,casa,245000,4
+municipality,Bayamón,casa,250000,5
+municipality,Bayamón,casa,255000,3
+municipality,Bayamón,casa,260000,2
+municipality,Bayamón,casa,265000,3
+municipality,Bayamón,casa,270000,4
+municipality,Bayamón,casa,275000,2
+municipality,Bayamón,casa,280000,1
+municipality,Bayamón,casa,285000,3
+municipality,Bayamón,casa,290000,2
+municipality,Bayamón,casa,295000,2
+municipality,Bayamón,casa,300000,2
+municipality,Bayamón,casa,310000,1
+municipality,Bayamón,casa,315000,1
+municipality,Bayamón,casa,325000,1
+municipality,Bayamón,casa,340000,2
+municipality,Bayamón,casa,345000,4
+municipality,Bayamón,casa,350000,2
+municipality,Bayamón,casa,355000,1
+municipality,Bayamón,casa,360000,2
+municipality,Bayamón,casa,375000,7
+municipality,Bayamón,casa,380000,1
+municipality,Bayamón,casa,385000,1
+municipality,Bayamón,casa,390000,2
+municipality,Bayamón,casa,395000,2
+municipality,Bayamón,casa,400000,3
+municipality,Bayamón,casa,415000,4
+municipality,Bayamón,casa,420000,1
+municipality,Bayamón,casa,425000,2
+municipality,Bayamón,casa,430000,1
+municipality,Bayamón,casa,440000,1
+municipality,Bayamón,casa,450000,2
+municipality,Bayamón,casa,460000,1
+municipality,Bayamón,casa,475000,1
+municipality,Bayamón,casa,485000,1
+municipality,Bayamón,casa,500000,3
+municipality,Bayamón,casa,520000,4
+municipality,Bayamón,casa,530000,1
+municipality,Bayamón,casa,540000,1
+municipality,Bayamón,casa,550000,1
+municipality,Bayamón,casa,580000,1
+municipality,Bayamón,casa,600000,1
+municipality,Bayamón,casa,650000,1
+municipality,Bayamón,casa,875000,1
+municipality,Bayamón,casa,890000,1
+municipality,Bayamón,casa,895000,1
+municipality,Bayamón,casa,900000,1
+municipality,Bayamón,casa,930000,1
+municipality,Bayamón,casa,950000,1
+municipality,Bayamón,casa,985000,1
+municipality,Bayamón,casa,995000,2
+municipality,Bayamón,casa,1085000,1
+municipality,Bayamón,casa,1150000,1
+municipality,Bayamón,casa,1250000,1
+municipality,Bayamón,casa,1255000,2
+municipality,Bayamón,casa,1275000,1
+municipality,Bayamón,casa,1285000,1
+municipality,Bayamón,casa,1300000,1
+municipality,Bayamón,casa,1350000,1
+municipality,Bayamón,casa,1375000,1
+municipality,Bayamón,casa,1500000,1
+municipality,Bayamón,casa,1575000,1
+municipality,Bayamón,casa,1700000,4
+municipality,Bayamón,casa,1780000,1
+municipality,Cabo Rojo,apartamento,30000,1
+municipality,Cabo Rojo,apartamento,35000,1
+municipality,Cabo Rojo,apartamento,185000,1
+municipality,Cabo Rojo,apartamento,225000,2
+municipality,Cabo Rojo,apartamento,230000,2
+municipality,Cabo Rojo,apartamento,235000,1
+municipality,Cabo Rojo,apartamento,245000,1
+municipality,Cabo Rojo,apartamento,250000,5
+municipality,Cabo Rojo,apartamento,255000,3
+municipality,Cabo Rojo,apartamento,260000,2
+municipality,Cabo Rojo,apartamento,265000,2
+municipality,Cabo Rojo,apartamento,275000,5
+municipality,Cabo Rojo,apartamento,280000,1
+municipality,Cabo Rojo,apartamento,285000,2
+municipality,Cabo Rojo,apartamento,290000,1
+municipality,Cabo Rojo,apartamento,295000,2
+municipality,Cabo Rojo,apartamento,315000,1
+municipality,Cabo Rojo,apartamento,325000,1
+municipality,Cabo Rojo,apartamento,330000,1
+municipality,Cabo Rojo,apartamento,345000,1
+municipality,Cabo Rojo,apartamento,350000,2
+municipality,Cabo Rojo,apartamento,385000,5
+municipality,Cabo Rojo,apartamento,395000,1
+municipality,Cabo Rojo,apartamento,400000,2
+municipality,Cabo Rojo,apartamento,410000,1
+municipality,Cabo Rojo,apartamento,425000,2
+municipality,Cabo Rojo,apartamento,445000,1
+municipality,Cabo Rojo,apartamento,450000,3
+municipality,Cabo Rojo,apartamento,525000,1
+municipality,Cabo Rojo,apartamento,550000,1
+municipality,Cabo Rojo,apartamento,570000,1
+municipality,Cabo Rojo,apartamento,575000,2
+municipality,Cabo Rojo,apartamento,700000,1
+municipality,Cabo Rojo,apartamento,895000,1
+municipality,Cabo Rojo,apartamento,1500000,1
+municipality,Cabo Rojo,casa,20000,1
+municipality,Cabo Rojo,casa,60000,1
+municipality,Cabo Rojo,casa,95000,1
+municipality,Cabo Rojo,casa,100000,1
+municipality,Cabo Rojo,casa,110000,1
+municipality,Cabo Rojo,casa,125000,1
+municipality,Cabo Rojo,casa,135000,1
+municipality,Cabo Rojo,casa,140000,1
+municipality,Cabo Rojo,casa,145000,1
+municipality,Cabo Rojo,casa,150000,1
+municipality,Cabo Rojo,casa,160000,2
+municipality,Cabo Rojo,casa,170000,2
+municipality,Cabo Rojo,casa,175000,1
+municipality,Cabo Rojo,casa,185000,1
+municipality,Cabo Rojo,casa,195000,3
+municipality,Cabo Rojo,casa,200000,3
+municipality,Cabo Rojo,casa,210000,1
+municipality,Cabo Rojo,casa,215000,2
+municipality,Cabo Rojo,casa,220000,1
+municipality,Cabo Rojo,casa,225000,1
+municipality,Cabo Rojo,casa,235000,2
+municipality,Cabo Rojo,casa,245000,3
+municipality,Cabo Rojo,casa,250000,4
+municipality,Cabo Rojo,casa,260000,1
+municipality,Cabo Rojo,casa,275000,3
+municipality,Cabo Rojo,casa,280000,1
+municipality,Cabo Rojo,casa,285000,4
+municipality,Cabo Rojo,casa,290000,4
+municipality,Cabo Rojo,casa,295000,5
+municipality,Cabo Rojo,casa,310000,1
+municipality,Cabo Rojo,casa,315000,1
+municipality,Cabo Rojo,casa,320000,2
+municipality,Cabo Rojo,casa,325000,3
+municipality,Cabo Rojo,casa,330000,1
+municipality,Cabo Rojo,casa,335000,1
+municipality,Cabo Rojo,casa,345000,1
+municipality,Cabo Rojo,casa,350000,4
+municipality,Cabo Rojo,casa,360000,1
+municipality,Cabo Rojo,casa,370000,1
+municipality,Cabo Rojo,casa,375000,4
+municipality,Cabo Rojo,casa,380000,1
+municipality,Cabo Rojo,casa,385000,3
+municipality,Cabo Rojo,casa,390000,1
+municipality,Cabo Rojo,casa,395000,2
+municipality,Cabo Rojo,casa,410000,2
+municipality,Cabo Rojo,casa,425000,1
+municipality,Cabo Rojo,casa,440000,1
+municipality,Cabo Rojo,casa,450000,5
+municipality,Cabo Rojo,casa,460000,1
+municipality,Cabo Rojo,casa,465000,1
+municipality,Cabo Rojo,casa,470000,1
+municipality,Cabo Rojo,casa,475000,1
+municipality,Cabo Rojo,casa,495000,2
+municipality,Cabo Rojo,casa,500000,2
+municipality,Cabo Rojo,casa,520000,1
+municipality,Cabo Rojo,casa,550000,1
+municipality,Cabo Rojo,casa,595000,1
+municipality,Cabo Rojo,casa,600000,1
+municipality,Cabo Rojo,casa,615000,1
+municipality,Cabo Rojo,casa,650000,1
+municipality,Cabo Rojo,casa,775000,1
+municipality,Cabo Rojo,casa,785000,1
+municipality,Cabo Rojo,casa,830000,1
+municipality,Cabo Rojo,casa,925000,1
+municipality,Cabo Rojo,casa,950000,1
+municipality,Cabo Rojo,casa,975000,3
+municipality,Cabo Rojo,casa,995000,1
+municipality,Cabo Rojo,casa,1100000,1
+municipality,Cabo Rojo,casa,1195000,1
+municipality,Cabo Rojo,casa,1200000,2
+municipality,Cabo Rojo,casa,1250000,1
+municipality,Cabo Rojo,casa,1300000,2
+municipality,Cabo Rojo,casa,1485000,1
+municipality,Cabo Rojo,casa,1595000,1
+municipality,Cabo Rojo,casa,1600000,1
+municipality,Cabo Rojo,casa,1700000,1
+municipality,Cabo Rojo,casa,2150000,1
+municipality,Caguas,apartamento,95000,1
+municipality,Caguas,apartamento,100000,2
+municipality,Caguas,apartamento,115000,1
+municipality,Caguas,apartamento,140000,1
+municipality,Caguas,apartamento,145000,1
+municipality,Caguas,apartamento,150000,2
+municipality,Caguas,apartamento,160000,1
+municipality,Caguas,apartamento,165000,1
+municipality,Caguas,apartamento,175000,3
+municipality,Caguas,apartamento,200000,1
+municipality,Caguas,apartamento,240000,1
+municipality,Caguas,apartamento,250000,1
+municipality,Caguas,apartamento,270000,1
+municipality,Caguas,apartamento,295000,2
+municipality,Caguas,apartamento,300000,1
+municipality,Caguas,apartamento,325000,1
+municipality,Caguas,apartamento,345000,1
+municipality,Caguas,apartamento,360000,1
+municipality,Caguas,apartamento,375000,1
+municipality,Caguas,apartamento,455000,1
+municipality,Caguas,casa,50000,1
+municipality,Caguas,casa,60000,1
+municipality,Caguas,casa,70000,2
+municipality,Caguas,casa,80000,1
+municipality,Caguas,casa,85000,2
+municipality,Caguas,casa,95000,1
+municipality,Caguas,casa,110000,1
+municipality,Caguas,casa,120000,2
+municipality,Caguas,casa,125000,3
+municipality,Caguas,casa,135000,1
+municipality,Caguas,casa,145000,3
+municipality,Caguas,casa,150000,1
+municipality,Caguas,casa,155000,1
+municipality,Caguas,casa,165000,3
+municipality,Caguas,casa,170000,1
+municipality,Caguas,casa,180000,3
+municipality,Caguas,casa,185000,3
+municipality,Caguas,casa,190000,1
+municipality,Caguas,casa,195000,6
+municipality,Caguas,casa,200000,4
+municipality,Caguas,casa,205000,1
+municipality,Caguas,casa,215000,2
+municipality,Caguas,casa,220000,1
+municipality,Caguas,casa,225000,5
+municipality,Caguas,casa,235000,5
+municipality,Caguas,casa,240000,3
+municipality,Caguas,casa,250000,3
+municipality,Caguas,casa,260000,5
+municipality,Caguas,casa,270000,1
+municipality,Caguas,casa,275000,1
+municipality,Caguas,casa,280000,1
+municipality,Caguas,casa,285000,1
+municipality,Caguas,casa,295000,3
+municipality,Caguas,casa,300000,2
+municipality,Caguas,casa,320000,1
+municipality,Caguas,casa,325000,1
+municipality,Caguas,casa,350000,2
+municipality,Caguas,casa,355000,1
+municipality,Caguas,casa,375000,3
+municipality,Caguas,casa,385000,1
+municipality,Caguas,casa,390000,1
+municipality,Caguas,casa,395000,1
+municipality,Caguas,casa,400000,2
+municipality,Caguas,casa,405000,1
+municipality,Caguas,casa,425000,2
+municipality,Caguas,casa,435000,1
+municipality,Caguas,casa,440000,1
+municipality,Caguas,casa,450000,3
+municipality,Caguas,casa,470000,3
+municipality,Caguas,casa,485000,1
+municipality,Caguas,casa,495000,1
+municipality,Caguas,casa,500000,1
+municipality,Caguas,casa,525000,1
+municipality,Caguas,casa,535000,1
+municipality,Caguas,casa,540000,1
+municipality,Caguas,casa,545000,1
+municipality,Caguas,casa,550000,1
+municipality,Caguas,casa,575000,1
+municipality,Caguas,casa,580000,1
+municipality,Caguas,casa,585000,1
+municipality,Caguas,casa,595000,1
+municipality,Caguas,casa,605000,1
+municipality,Caguas,casa,620000,1
+municipality,Caguas,casa,625000,3
+municipality,Caguas,casa,630000,1
+municipality,Caguas,casa,640000,1
+municipality,Caguas,casa,650000,2
+municipality,Caguas,casa,680000,1
+municipality,Caguas,casa,685000,1
+municipality,Caguas,casa,700000,1
+municipality,Caguas,casa,725000,1
+municipality,Caguas,casa,750000,5
+municipality,Caguas,casa,770000,1
+municipality,Caguas,casa,825000,1
+municipality,Caguas,casa,845000,2
+municipality,Caguas,casa,850000,1
+municipality,Caguas,casa,865000,1
+municipality,Caguas,casa,895000,1
+municipality,Caguas,casa,900000,1
+municipality,Caguas,casa,950000,1
+municipality,Caguas,casa,995000,1
+municipality,Caguas,casa,1000000,1
+municipality,Caguas,casa,1050000,2
+municipality,Caguas,casa,1200000,1
+municipality,Caguas,casa,1250000,1
+municipality,Caguas,casa,1300000,1
+municipality,Caguas,casa,1400000,1
+municipality,Caguas,casa,1500000,1
+municipality,Camuy,casa,20000,1
+municipality,Camuy,casa,90000,1
+municipality,Camuy,casa,100000,1
+municipality,Camuy,casa,140000,1
+municipality,Camuy,casa,150000,1
+municipality,Camuy,casa,155000,1
+municipality,Camuy,casa,160000,2
+municipality,Camuy,casa,175000,3
+municipality,Camuy,casa,185000,1
+municipality,Camuy,casa,190000,1
+municipality,Camuy,casa,195000,1
+municipality,Camuy,casa,205000,1
+municipality,Camuy,casa,225000,1
+municipality,Camuy,casa,240000,2
+municipality,Camuy,casa,245000,1
+municipality,Camuy,casa,255000,2
+municipality,Camuy,casa,265000,2
+municipality,Camuy,casa,280000,1
+municipality,Camuy,casa,290000,1
+municipality,Camuy,casa,295000,2
+municipality,Camuy,casa,305000,1
+municipality,Camuy,casa,320000,1
+municipality,Camuy,casa,335000,1
+municipality,Camuy,casa,375000,3
+municipality,Camuy,casa,380000,1
+municipality,Camuy,casa,390000,1
+municipality,Camuy,casa,445000,1
+municipality,Camuy,casa,450000,1
+municipality,Camuy,casa,490000,1
+municipality,Camuy,casa,740000,1
+municipality,Camuy,casa,795000,1
+municipality,Camuy,casa,895000,1
+municipality,Canóvanas,casa,30000,1
+municipality,Canóvanas,casa,60000,1
+municipality,Canóvanas,casa,85000,1
+municipality,Canóvanas,casa,90000,1
+municipality,Canóvanas,casa,95000,1
+municipality,Canóvanas,casa,125000,1
+municipality,Canóvanas,casa,140000,2
+municipality,Canóvanas,casa,145000,1
+municipality,Canóvanas,casa,160000,1
+municipality,Canóvanas,casa,170000,2
+municipality,Canóvanas,casa,175000,1
+municipality,Canóvanas,casa,180000,1
+municipality,Canóvanas,casa,190000,1
+municipality,Canóvanas,casa,200000,2
+municipality,Canóvanas,casa,225000,2
+municipality,Canóvanas,casa,240000,1
+municipality,Canóvanas,casa,250000,5
+municipality,Canóvanas,casa,310000,1
+municipality,Canóvanas,casa,325000,1
+municipality,Canóvanas,casa,355000,3
+municipality,Canóvanas,casa,375000,2
+municipality,Canóvanas,casa,395000,2
+municipality,Canóvanas,casa,415000,2
+municipality,Canóvanas,casa,425000,1
+municipality,Canóvanas,casa,430000,1
+municipality,Canóvanas,casa,445000,1
+municipality,Canóvanas,casa,450000,3
+municipality,Canóvanas,casa,475000,2
+municipality,Canóvanas,casa,480000,2
+municipality,Canóvanas,casa,490000,1
+municipality,Canóvanas,casa,495000,3
+municipality,Canóvanas,casa,500000,1
+municipality,Canóvanas,casa,550000,1
+municipality,Canóvanas,casa,750000,1
+municipality,Canóvanas,casa,795000,1
+municipality,Canóvanas,casa,895000,1
+municipality,Canóvanas,casa,950000,1
+municipality,Canóvanas,casa,1900000,1
+municipality,Carolina,apartamento,40000,1
+municipality,Carolina,apartamento,70000,1
+municipality,Carolina,apartamento,95000,2
+municipality,Carolina,apartamento,100000,1
+municipality,Carolina,apartamento,110000,1
+municipality,Carolina,apartamento,115000,2
+municipality,Carolina,apartamento,120000,1
+municipality,Carolina,apartamento,125000,1
+municipality,Carolina,apartamento,130000,3
+municipality,Carolina,apartamento,135000,1
+municipality,Carolina,apartamento,140000,1
+municipality,Carolina,apartamento,150000,2
+municipality,Carolina,apartamento,155000,3
+municipality,Carolina,apartamento,175000,1
+municipality,Carolina,apartamento,180000,1
+municipality,Carolina,apartamento,190000,1
+municipality,Carolina,apartamento,195000,2
+municipality,Carolina,apartamento,200000,1
+municipality,Carolina,apartamento,215000,2
+municipality,Carolina,apartamento,225000,6
+municipality,Carolina,apartamento,230000,4
+municipality,Carolina,apartamento,235000,2
+municipality,Carolina,apartamento,245000,2
+municipality,Carolina,apartamento,250000,3
+municipality,Carolina,apartamento,255000,1
+municipality,Carolina,apartamento,265000,7
+municipality,Carolina,apartamento,270000,2
+municipality,Carolina,apartamento,275000,5
+municipality,Carolina,apartamento,280000,1
+municipality,Carolina,apartamento,285000,2
+municipality,Carolina,apartamento,295000,5
+municipality,Carolina,apartamento,300000,2
+municipality,Carolina,apartamento,305000,2
+municipality,Carolina,apartamento,315000,3
+municipality,Carolina,apartamento,320000,2
+municipality,Carolina,apartamento,325000,1
+municipality,Carolina,apartamento,330000,3
+municipality,Carolina,apartamento,335000,1
+municipality,Carolina,apartamento,350000,7
+municipality,Carolina,apartamento,355000,1
+municipality,Carolina,apartamento,365000,5
+municipality,Carolina,apartamento,370000,1
+municipality,Carolina,apartamento,375000,5
+municipality,Carolina,apartamento,380000,2
+municipality,Carolina,apartamento,385000,3
+municipality,Carolina,apartamento,390000,1
+municipality,Carolina,apartamento,395000,2
+municipality,Carolina,apartamento,400000,2
+municipality,Carolina,apartamento,410000,1
+municipality,Carolina,apartamento,435000,1
+municipality,Carolina,apartamento,450000,3
+municipality,Carolina,apartamento,475000,2
+municipality,Carolina,apartamento,490000,1
+municipality,Carolina,apartamento,495000,3
+municipality,Carolina,apartamento,525000,4
+municipality,Carolina,apartamento,530000,1
+municipality,Carolina,apartamento,545000,1
+municipality,Carolina,apartamento,575000,2
+municipality,Carolina,apartamento,585000,1
+municipality,Carolina,apartamento,590000,2
+municipality,Carolina,apartamento,595000,3
+municipality,Carolina,apartamento,610000,1
+municipality,Carolina,apartamento,615000,1
+municipality,Carolina,apartamento,625000,2
+municipality,Carolina,apartamento,635000,2
+municipality,Carolina,apartamento,640000,1
+municipality,Carolina,apartamento,645000,2
+municipality,Carolina,apartamento,650000,2
+municipality,Carolina,apartamento,655000,1
+municipality,Carolina,apartamento,660000,1
+municipality,Carolina,apartamento,675000,1
+municipality,Carolina,apartamento,695000,1
+municipality,Carolina,apartamento,720000,1
+municipality,Carolina,apartamento,740000,1
+municipality,Carolina,apartamento,750000,1
+municipality,Carolina,apartamento,850000,1
+municipality,Carolina,apartamento,980000,1
+municipality,Carolina,apartamento,1175000,1
+municipality,Carolina,apartamento,1225000,1
+municipality,Carolina,apartamento,1490000,1
+municipality,Carolina,apartamento,1550000,1
+municipality,Carolina,apartamento,1650000,1
+municipality,Carolina,apartamento,1950000,1
+municipality,Carolina,casa,20000,1
+municipality,Carolina,casa,75000,2
+municipality,Carolina,casa,90000,1
+municipality,Carolina,casa,100000,1
+municipality,Carolina,casa,110000,1
+municipality,Carolina,casa,125000,1
+municipality,Carolina,casa,130000,1
+municipality,Carolina,casa,135000,1
+municipality,Carolina,casa,140000,1
+municipality,Carolina,casa,145000,3
+municipality,Carolina,casa,150000,1
+municipality,Carolina,casa,155000,4
+municipality,Carolina,casa,160000,1
+municipality,Carolina,casa,165000,2
+municipality,Carolina,casa,170000,1
+municipality,Carolina,casa,175000,2
+municipality,Carolina,casa,180000,1
+municipality,Carolina,casa,185000,1
+municipality,Carolina,casa,190000,3
+municipality,Carolina,casa,195000,2
+municipality,Carolina,casa,200000,5
+municipality,Carolina,casa,205000,1
+municipality,Carolina,casa,210000,2
+municipality,Carolina,casa,215000,2
+municipality,Carolina,casa,220000,1
+municipality,Carolina,casa,225000,4
+municipality,Carolina,casa,230000,1
+municipality,Carolina,casa,235000,5
+municipality,Carolina,casa,240000,2
+municipality,Carolina,casa,245000,5
+municipality,Carolina,casa,250000,5
+municipality,Carolina,casa,255000,1
+municipality,Carolina,casa,260000,2
+municipality,Carolina,casa,265000,6
+municipality,Carolina,casa,275000,3
+municipality,Carolina,casa,280000,2
+municipality,Carolina,casa,285000,4
+municipality,Carolina,casa,295000,1
+municipality,Carolina,casa,310000,1
+municipality,Carolina,casa,330000,1
+municipality,Carolina,casa,350000,2
+municipality,Carolina,casa,395000,2
+municipality,Carolina,casa,415000,1
+municipality,Carolina,casa,430000,1
+municipality,Carolina,casa,445000,1
+municipality,Carolina,casa,455000,1
+municipality,Carolina,casa,460000,1
+municipality,Carolina,casa,480000,1
+municipality,Carolina,casa,500000,1
+municipality,Carolina,casa,545000,1
+municipality,Carolina,casa,550000,1
+municipality,Carolina,casa,555000,1
+municipality,Carolina,casa,580000,1
+municipality,Carolina,casa,595000,1
+municipality,Carolina,casa,635000,1
+municipality,Carolina,casa,675000,3
+municipality,Carolina,casa,695000,4
+municipality,Carolina,casa,735000,1
+municipality,Carolina,casa,750000,1
+municipality,Carolina,casa,775000,1
+municipality,Carolina,casa,795000,3
+municipality,Carolina,casa,845000,1
+municipality,Carolina,casa,875000,2
+municipality,Carolina,casa,895000,1
+municipality,Carolina,casa,1350000,2
+municipality,Carolina,casa,1450000,1
+municipality,Carolina,casa,1500000,1
+municipality,Carolina,casa,1595000,1
+municipality,Carolina,casa,1695000,1
+municipality,Cataño,casa,80000,1
+municipality,Cataño,casa,125000,1
+municipality,Cataño,casa,165000,2
+municipality,Cataño,casa,175000,1
+municipality,Cataño,casa,185000,1
+municipality,Cataño,casa,245000,1
+municipality,Cataño,casa,250000,1
+municipality,Cataño,casa,350000,1
+municipality,Cataño,casa,400000,1
+municipality,Cataño,casa,450000,1
+municipality,Cataño,casa,455000,1
+municipality,Cataño,casa,460000,1
+municipality,Cataño,casa,530000,1
+municipality,Cataño,casa,575000,1
+municipality,Cataño,casa,635000,1
+municipality,Cataño,casa,730000,1
+municipality,Cataño,casa,750000,1
+municipality,Cayey,casa,60000,1
+municipality,Cayey,casa,85000,3
+municipality,Cayey,casa,100000,1
+municipality,Cayey,casa,105000,1
+municipality,Cayey,casa,110000,4
+municipality,Cayey,casa,120000,2
+municipality,Cayey,casa,125000,1
+municipality,Cayey,casa,160000,1
+municipality,Cayey,casa,165000,2
+municipality,Cayey,casa,175000,3
+municipality,Cayey,casa,195000,1
+municipality,Cayey,casa,200000,1
+municipality,Cayey,casa,230000,1
+municipality,Cayey,casa,235000,1
+municipality,Cayey,casa,245000,1
+municipality,Cayey,casa,250000,3
+municipality,Cayey,casa,275000,1
+municipality,Cayey,casa,290000,1
+municipality,Cayey,casa,295000,1
+municipality,Cayey,casa,300000,1
+municipality,Cayey,casa,325000,2
+municipality,Cayey,casa,330000,1
+municipality,Cayey,casa,350000,1
+municipality,Cayey,casa,365000,1
+municipality,Cayey,casa,375000,1
+municipality,Cayey,casa,385000,1
+municipality,Cayey,casa,395000,1
+municipality,Cayey,casa,445000,1
+municipality,Cayey,casa,460000,1
+municipality,Cayey,casa,475000,1
+municipality,Cayey,casa,495000,1
+municipality,Cayey,casa,515000,1
+municipality,Cayey,casa,520000,1
+municipality,Cayey,casa,525000,1
+municipality,Cayey,casa,550000,2
+municipality,Cayey,casa,575000,1
+municipality,Cayey,casa,725000,1
+municipality,Cayey,casa,750000,1
+municipality,Cayey,casa,900000,1
+municipality,Cayey,casa,935000,1
+municipality,Cayey,casa,1000000,2
+municipality,Cayey,casa,1050000,1
+municipality,Cayey,casa,1100000,1
+municipality,Cayey,casa,1125000,1
+municipality,Cayey,casa,1200000,1
+municipality,Cayey,casa,1300000,1
+municipality,Cayey,casa,1350000,1
+municipality,Cayey,casa,1425000,1
+municipality,Cayey,casa,1750000,1
+municipality,Ceiba,apartamento,100000,1
+municipality,Ceiba,apartamento,225000,2
+municipality,Ceiba,apartamento,230000,2
+municipality,Ceiba,apartamento,235000,1
+municipality,Ceiba,apartamento,240000,1
+municipality,Ceiba,apartamento,245000,2
+municipality,Ceiba,apartamento,250000,1
+municipality,Ceiba,apartamento,255000,2
+municipality,Ceiba,apartamento,260000,1
+municipality,Ceiba,apartamento,265000,2
+municipality,Ceiba,apartamento,270000,1
+municipality,Ceiba,apartamento,275000,2
+municipality,Ceiba,apartamento,280000,1
+municipality,Ceiba,apartamento,290000,1
+municipality,Ceiba,apartamento,305000,1
+municipality,Ceiba,apartamento,310000,1
+municipality,Ceiba,casa,85000,1
+municipality,Ceiba,casa,90000,1
+municipality,Ceiba,casa,95000,1
+municipality,Ceiba,casa,115000,1
+municipality,Ceiba,casa,120000,1
+municipality,Ceiba,casa,130000,1
+municipality,Ceiba,casa,145000,2
+municipality,Ceiba,casa,150000,1
+municipality,Ceiba,casa,155000,1
+municipality,Ceiba,casa,195000,2
+municipality,Ceiba,casa,225000,1
+municipality,Ceiba,casa,240000,1
+municipality,Ceiba,casa,255000,1
+municipality,Ceiba,casa,350000,2
+municipality,Ceiba,casa,365000,1
+municipality,Ceiba,casa,375000,1
+municipality,Ceiba,casa,395000,1
+municipality,Ceiba,casa,475000,1
+municipality,Ceiba,casa,485000,1
+municipality,Ceiba,casa,500000,1
+municipality,Ceiba,casa,575000,1
+municipality,Ceiba,casa,595000,2
+municipality,Ceiba,casa,880000,1
+municipality,Ceiba,casa,1000000,1
+municipality,Ciales,casa,65000,1
+municipality,Ciales,casa,85000,1
+municipality,Ciales,casa,90000,1
+municipality,Ciales,casa,120000,1
+municipality,Ciales,casa,135000,3
+municipality,Ciales,casa,140000,1
+municipality,Ciales,casa,185000,2
+municipality,Ciales,casa,190000,1
+municipality,Ciales,casa,225000,1
+municipality,Ciales,casa,250000,1
+municipality,Ciales,casa,260000,1
+municipality,Ciales,casa,285000,1
+municipality,Ciales,casa,545000,1
+municipality,Ciales,casa,2200000,1
+municipality,Cidra,casa,60000,1
+municipality,Cidra,casa,70000,1
+municipality,Cidra,casa,100000,1
+municipality,Cidra,casa,135000,1
+municipality,Cidra,casa,145000,1
+municipality,Cidra,casa,155000,1
+municipality,Cidra,casa,175000,1
+municipality,Cidra,casa,180000,1
+municipality,Cidra,casa,185000,1
+municipality,Cidra,casa,195000,1
+municipality,Cidra,casa,225000,1
+municipality,Cidra,casa,230000,1
+municipality,Cidra,casa,235000,3
+municipality,Cidra,casa,240000,1
+municipality,Cidra,casa,250000,1
+municipality,Cidra,casa,255000,1
+municipality,Cidra,casa,265000,3
+municipality,Cidra,casa,295000,1
+municipality,Cidra,casa,300000,1
+municipality,Cidra,casa,310000,1
+municipality,Cidra,casa,325000,1
+municipality,Cidra,casa,330000,1
+municipality,Cidra,casa,345000,1
+municipality,Cidra,casa,350000,2
+municipality,Cidra,casa,375000,1
+municipality,Cidra,casa,395000,1
+municipality,Cidra,casa,415000,1
+municipality,Cidra,casa,420000,1
+municipality,Cidra,casa,450000,1
+municipality,Cidra,casa,455000,1
+municipality,Cidra,casa,495000,1
+municipality,Cidra,casa,520000,1
+municipality,Cidra,casa,550000,1
+municipality,Cidra,casa,575000,2
+municipality,Cidra,casa,645000,1
+municipality,Cidra,casa,650000,1
+municipality,Cidra,casa,675000,1
+municipality,Cidra,casa,695000,1
+municipality,Cidra,casa,700000,1
+municipality,Cidra,casa,720000,1
+municipality,Cidra,casa,725000,1
+municipality,Cidra,casa,775000,1
+municipality,Cidra,casa,830000,1
+municipality,Cidra,casa,1395000,1
+municipality,Cidra,casa,1400000,2
+municipality,Cidra,casa,1500000,1
+municipality,Cidra,casa,1600000,1
+municipality,Coamo,casa,55000,1
+municipality,Coamo,casa,60000,1
+municipality,Coamo,casa,65000,1
+municipality,Coamo,casa,80000,1
+municipality,Coamo,casa,115000,1
+municipality,Coamo,casa,120000,1
+municipality,Coamo,casa,125000,1
+municipality,Coamo,casa,165000,1
+municipality,Coamo,casa,175000,2
+municipality,Coamo,casa,180000,1
+municipality,Coamo,casa,185000,1
+municipality,Coamo,casa,200000,1
+municipality,Coamo,casa,250000,1
+municipality,Coamo,casa,265000,1
+municipality,Coamo,casa,295000,1
+municipality,Coamo,casa,325000,1
+municipality,Coamo,casa,360000,1
+municipality,Coamo,casa,375000,1
+municipality,Coamo,casa,380000,3
+municipality,Coamo,casa,385000,1
+municipality,Coamo,casa,395000,1
+municipality,Coamo,casa,400000,1
+municipality,Coamo,casa,450000,1
+municipality,Coamo,casa,460000,1
+municipality,Coamo,casa,475000,1
+municipality,Coamo,casa,1400000,1
+municipality,Comerío,casa,20000,1
+municipality,Comerío,casa,35000,1
+municipality,Comerío,casa,75000,1
+municipality,Comerío,casa,95000,3
+municipality,Comerío,casa,100000,2
+municipality,Comerío,casa,130000,1
+municipality,Comerío,casa,160000,3
+municipality,Comerío,casa,200000,1
+municipality,Comerío,casa,300000,3
+municipality,Comerío,casa,325000,1
+municipality,Comerío,casa,435000,1
+municipality,Corozal,casa,65000,2
+municipality,Corozal,casa,90000,1
+municipality,Corozal,casa,120000,1
+municipality,Corozal,casa,125000,1
+municipality,Corozal,casa,140000,1
+municipality,Corozal,casa,145000,1
+municipality,Corozal,casa,155000,1
+municipality,Corozal,casa,165000,1
+municipality,Corozal,casa,175000,1
+municipality,Corozal,casa,190000,1
+municipality,Corozal,casa,210000,2
+municipality,Corozal,casa,215000,2
+municipality,Corozal,casa,225000,1
+municipality,Corozal,casa,230000,1
+municipality,Corozal,casa,245000,1
+municipality,Corozal,casa,270000,1
+municipality,Corozal,casa,285000,1
+municipality,Corozal,casa,380000,1
+municipality,Corozal,casa,385000,2
+municipality,Corozal,casa,875000,1
+municipality,Corozal,casa,1290000,1
+municipality,Corozal,casa,1295000,2
+municipality,Culebra,apartamento,135000,1
+municipality,Culebra,apartamento,175000,1
+municipality,Culebra,apartamento,185000,1
+municipality,Culebra,apartamento,215000,1
+municipality,Culebra,apartamento,225000,1
+municipality,Culebra,apartamento,240000,1
+municipality,Culebra,apartamento,245000,1
+municipality,Culebra,apartamento,250000,1
+municipality,Culebra,apartamento,255000,1
+municipality,Culebra,apartamento,265000,3
+municipality,Culebra,apartamento,275000,1
+municipality,Culebra,casa,280000,1
+municipality,Culebra,casa,295000,1
+municipality,Culebra,casa,335000,1
+municipality,Culebra,casa,395000,1
+municipality,Culebra,casa,475000,1
+municipality,Culebra,casa,525000,2
+municipality,Culebra,casa,550000,1
+municipality,Culebra,casa,670000,1
+municipality,Culebra,casa,695000,1
+municipality,Culebra,casa,750000,1
+municipality,Culebra,casa,895000,1
+municipality,Culebra,casa,1175000,1
+municipality,Culebra,casa,1495000,1
+municipality,Dorado,apartamento,315000,1
+municipality,Dorado,apartamento,330000,2
+municipality,Dorado,apartamento,370000,1
+municipality,Dorado,apartamento,395000,1
+municipality,Dorado,apartamento,425000,1
+municipality,Dorado,apartamento,475000,1
+municipality,Dorado,apartamento,490000,1
+municipality,Dorado,apartamento,535000,1
+municipality,Dorado,apartamento,550000,1
+municipality,Dorado,apartamento,675000,1
+municipality,Dorado,apartamento,695000,1
+municipality,Dorado,apartamento,725000,1
+municipality,Dorado,apartamento,755000,1
+municipality,Dorado,apartamento,775000,2
+municipality,Dorado,apartamento,800000,1
+municipality,Dorado,apartamento,875000,1
+municipality,Dorado,apartamento,1100000,1
+municipality,Dorado,apartamento,1225000,1
+municipality,Dorado,apartamento,1495000,1
+municipality,Dorado,casa,30000,1
+municipality,Dorado,casa,125000,1
+municipality,Dorado,casa,135000,1
+municipality,Dorado,casa,165000,1
+municipality,Dorado,casa,195000,1
+municipality,Dorado,casa,200000,1
+municipality,Dorado,casa,215000,1
+municipality,Dorado,casa,235000,1
+municipality,Dorado,casa,280000,1
+municipality,Dorado,casa,285000,1
+municipality,Dorado,casa,300000,2
+municipality,Dorado,casa,305000,1
+municipality,Dorado,casa,310000,1
+municipality,Dorado,casa,325000,1
+municipality,Dorado,casa,340000,1
+municipality,Dorado,casa,350000,1
+municipality,Dorado,casa,360000,2
+municipality,Dorado,casa,375000,1
+municipality,Dorado,casa,380000,1
+municipality,Dorado,casa,385000,1
+municipality,Dorado,casa,395000,2
+municipality,Dorado,casa,415000,1
+municipality,Dorado,casa,420000,1
+municipality,Dorado,casa,425000,1
+municipality,Dorado,casa,435000,1
+municipality,Dorado,casa,450000,2
+municipality,Dorado,casa,465000,2
+municipality,Dorado,casa,475000,2
+municipality,Dorado,casa,495000,2
+municipality,Dorado,casa,520000,1
+municipality,Dorado,casa,525000,1
+municipality,Dorado,casa,535000,2
+municipality,Dorado,casa,540000,1
+municipality,Dorado,casa,550000,1
+municipality,Dorado,casa,575000,2
+municipality,Dorado,casa,595000,2
+municipality,Dorado,casa,630000,1
+municipality,Dorado,casa,645000,1
+municipality,Dorado,casa,650000,6
+municipality,Dorado,casa,655000,1
+municipality,Dorado,casa,685000,2
+municipality,Dorado,casa,695000,2
+municipality,Dorado,casa,700000,1
+municipality,Dorado,casa,720000,1
+municipality,Dorado,casa,725000,1
+municipality,Dorado,casa,740000,1
+municipality,Dorado,casa,750000,2
+municipality,Dorado,casa,770000,1
+municipality,Dorado,casa,795000,1
+municipality,Dorado,casa,800000,1
+municipality,Dorado,casa,825000,1
+municipality,Dorado,casa,835000,1
+municipality,Dorado,casa,840000,1
+municipality,Dorado,casa,850000,3
+municipality,Dorado,casa,855000,1
+municipality,Dorado,casa,860000,1
+municipality,Dorado,casa,875000,1
+municipality,Dorado,casa,900000,1
+municipality,Dorado,casa,950000,1
+municipality,Dorado,casa,975000,1
+municipality,Dorado,casa,980000,1
+municipality,Dorado,casa,985000,1
+municipality,Dorado,casa,995000,1
+municipality,Dorado,casa,1000000,1
+municipality,Dorado,casa,1050000,1
+municipality,Dorado,casa,1095000,1
+municipality,Dorado,casa,1150000,1
+municipality,Dorado,casa,1195000,1
+municipality,Dorado,casa,1200000,2
+municipality,Dorado,casa,1225000,1
+municipality,Dorado,casa,1245000,1
+municipality,Dorado,casa,1300000,2
+municipality,Dorado,casa,1350000,3
+municipality,Dorado,casa,1400000,1
+municipality,Dorado,casa,1495000,1
+municipality,Dorado,casa,1500000,1
+municipality,Dorado,casa,1525000,2
+municipality,Dorado,casa,1550000,1
+municipality,Dorado,casa,1895000,1
+municipality,Dorado,casa,1950000,1
+municipality,Dorado,casa,2200000,2
+municipality,Dorado,casa,2375000,1
+municipality,Dorado,casa,2395000,2
+municipality,Fajardo,apartamento,125000,1
+municipality,Fajardo,apartamento,140000,1
+municipality,Fajardo,apartamento,160000,1
+municipality,Fajardo,apartamento,170000,3
+municipality,Fajardo,apartamento,185000,1
+municipality,Fajardo,apartamento,190000,2
+municipality,Fajardo,apartamento,195000,1
+municipality,Fajardo,apartamento,200000,1
+municipality,Fajardo,apartamento,210000,1
+municipality,Fajardo,apartamento,220000,3
+municipality,Fajardo,apartamento,225000,6
+municipality,Fajardo,apartamento,230000,1
+municipality,Fajardo,apartamento,235000,3
+municipality,Fajardo,apartamento,240000,2
+municipality,Fajardo,apartamento,245000,6
+municipality,Fajardo,apartamento,250000,6
+municipality,Fajardo,apartamento,255000,2
+municipality,Fajardo,apartamento,260000,5
+municipality,Fajardo,apartamento,265000,4
+municipality,Fajardo,apartamento,275000,4
+municipality,Fajardo,apartamento,280000,3
+municipality,Fajardo,apartamento,285000,1
+municipality,Fajardo,apartamento,290000,2
+municipality,Fajardo,apartamento,295000,4
+municipality,Fajardo,apartamento,310000,3
+municipality,Fajardo,apartamento,315000,3
+municipality,Fajardo,apartamento,325000,3
+municipality,Fajardo,apartamento,330000,1
+municipality,Fajardo,apartamento,345000,1
+municipality,Fajardo,apartamento,350000,4
+municipality,Fajardo,apartamento,355000,2
+municipality,Fajardo,apartamento,365000,2
+municipality,Fajardo,apartamento,375000,3
+municipality,Fajardo,apartamento,380000,2
+municipality,Fajardo,apartamento,400000,2
+municipality,Fajardo,apartamento,405000,1
+municipality,Fajardo,apartamento,430000,1
+municipality,Fajardo,apartamento,475000,2
+municipality,Fajardo,apartamento,490000,2
+municipality,Fajardo,apartamento,515000,1
+municipality,Fajardo,apartamento,535000,1
+municipality,Fajardo,apartamento,550000,1
+municipality,Fajardo,apartamento,595000,1
+municipality,Fajardo,apartamento,895000,1
+municipality,Fajardo,apartamento,975000,1
+municipality,Fajardo,apartamento,995000,1
+municipality,Fajardo,apartamento,1000000,1
+municipality,Fajardo,apartamento,1125000,1
+municipality,Fajardo,apartamento,1150000,1
+municipality,Fajardo,apartamento,1250000,1
+municipality,Fajardo,apartamento,1950000,1
+municipality,Fajardo,casa,40000,1
+municipality,Fajardo,casa,75000,1
+municipality,Fajardo,casa,85000,2
+municipality,Fajardo,casa,95000,1
+municipality,Fajardo,casa,105000,2
+municipality,Fajardo,casa,110000,1
+municipality,Fajardo,casa,120000,1
+municipality,Fajardo,casa,125000,3
+municipality,Fajardo,casa,130000,2
+municipality,Fajardo,casa,135000,1
+municipality,Fajardo,casa,145000,2
+municipality,Fajardo,casa,150000,1
+municipality,Fajardo,casa,155000,4
+municipality,Fajardo,casa,160000,5
+municipality,Fajardo,casa,165000,2
+municipality,Fajardo,casa,170000,1
+municipality,Fajardo,casa,175000,1
+municipality,Fajardo,casa,180000,3
+municipality,Fajardo,casa,185000,6
+municipality,Fajardo,casa,195000,5
+municipality,Fajardo,casa,200000,3
+municipality,Fajardo,casa,205000,2
+municipality,Fajardo,casa,215000,2
+municipality,Fajardo,casa,225000,1
+municipality,Fajardo,casa,230000,2
+municipality,Fajardo,casa,240000,1
+municipality,Fajardo,casa,245000,1
+municipality,Fajardo,casa,250000,1
+municipality,Fajardo,casa,265000,1
+municipality,Fajardo,casa,285000,1
+municipality,Fajardo,casa,295000,1
+municipality,Fajardo,casa,315000,1
+municipality,Fajardo,casa,325000,1
+municipality,Fajardo,casa,335000,1
+municipality,Fajardo,casa,345000,2
+municipality,Fajardo,casa,350000,8
+municipality,Fajardo,casa,365000,2
+municipality,Fajardo,casa,375000,1
+municipality,Fajardo,casa,380000,1
+municipality,Fajardo,casa,385000,1
+municipality,Fajardo,casa,395000,1
+municipality,Fajardo,casa,450000,3
+municipality,Fajardo,casa,475000,3
+municipality,Fajardo,casa,490000,1
+municipality,Fajardo,casa,495000,1
+municipality,Fajardo,casa,595000,1
+municipality,Fajardo,casa,600000,2
+municipality,Fajardo,casa,650000,1
+municipality,Fajardo,casa,675000,1
+municipality,Fajardo,casa,745000,1
+municipality,Fajardo,casa,895000,1
+municipality,Fajardo,casa,1200000,1
+municipality,Fajardo,casa,1500000,1
+municipality,Florida,casa,85000,1
+municipality,Florida,casa,90000,1
+municipality,Florida,casa,95000,1
+municipality,Florida,casa,155000,1
+municipality,Florida,casa,180000,1
+municipality,Florida,casa,190000,1
+municipality,Florida,casa,195000,1
+municipality,Florida,casa,210000,1
+municipality,Florida,casa,275000,1
+municipality,Florida,casa,375000,1
+municipality,Guánica,casa,150000,1
+municipality,Guánica,casa,175000,1
+municipality,Guánica,casa,210000,1
+municipality,Guánica,casa,245000,1
+municipality,Guánica,casa,265000,4
+municipality,Guánica,casa,270000,1
+municipality,Guánica,casa,295000,1
+municipality,Guánica,casa,360000,1
+municipality,Guánica,casa,495000,1
+municipality,Guánica,casa,690000,1
+municipality,Guánica,casa,720000,1
+municipality,Guánica,casa,1250000,1
+municipality,Guayama,casa,30000,1
+municipality,Guayama,casa,65000,2
+municipality,Guayama,casa,70000,1
+municipality,Guayama,casa,75000,1
+municipality,Guayama,casa,85000,1
+municipality,Guayama,casa,95000,1
+municipality,Guayama,casa,115000,1
+municipality,Guayama,casa,120000,1
+municipality,Guayama,casa,125000,2
+municipality,Guayama,casa,135000,1
+municipality,Guayama,casa,145000,1
+municipality,Guayama,casa,150000,1
+municipality,Guayama,casa,155000,1
+municipality,Guayama,casa,165000,1
+municipality,Guayama,casa,170000,1
+municipality,Guayama,casa,185000,1
+municipality,Guayama,casa,210000,1
+municipality,Guayama,casa,215000,1
+municipality,Guayama,casa,250000,1
+municipality,Guayama,casa,275000,1
+municipality,Guayama,casa,290000,1
+municipality,Guayama,casa,310000,1
+municipality,Guayama,casa,450000,1
+municipality,Guayama,casa,490000,1
+municipality,Guayama,casa,850000,2
+municipality,Guayama,casa,1790000,1
+municipality,Guaynabo,apartamento,205000,2
+municipality,Guaynabo,apartamento,225000,3
+municipality,Guaynabo,apartamento,235000,2
+municipality,Guaynabo,apartamento,240000,5
+municipality,Guaynabo,apartamento,255000,1
+municipality,Guaynabo,apartamento,260000,2
+municipality,Guaynabo,apartamento,265000,1
+municipality,Guaynabo,apartamento,270000,1
+municipality,Guaynabo,apartamento,275000,4
+municipality,Guaynabo,apartamento,280000,2
+municipality,Guaynabo,apartamento,285000,3
+municipality,Guaynabo,apartamento,295000,2
+municipality,Guaynabo,apartamento,300000,2
+municipality,Guaynabo,apartamento,305000,2
+municipality,Guaynabo,apartamento,310000,1
+municipality,Guaynabo,apartamento,315000,3
+municipality,Guaynabo,apartamento,325000,1
+municipality,Guaynabo,apartamento,335000,1
+municipality,Guaynabo,apartamento,340000,2
+municipality,Guaynabo,apartamento,345000,4
+municipality,Guaynabo,apartamento,350000,7
+municipality,Guaynabo,apartamento,385000,1
+municipality,Guaynabo,apartamento,415000,4
+municipality,Guaynabo,apartamento,420000,1
+municipality,Guaynabo,apartamento,425000,1
+municipality,Guaynabo,apartamento,430000,3
+municipality,Guaynabo,apartamento,435000,1
+municipality,Guaynabo,apartamento,445000,1
+municipality,Guaynabo,apartamento,465000,3
+municipality,Guaynabo,apartamento,475000,2
+municipality,Guaynabo,apartamento,490000,1
+municipality,Guaynabo,apartamento,500000,1
+municipality,Guaynabo,apartamento,515000,1
+municipality,Guaynabo,apartamento,545000,2
+municipality,Guaynabo,apartamento,575000,1
+municipality,Guaynabo,apartamento,645000,1
+municipality,Guaynabo,apartamento,695000,1
+municipality,Guaynabo,apartamento,725000,2
+municipality,Guaynabo,apartamento,850000,3
+municipality,Guaynabo,apartamento,875000,1
+municipality,Guaynabo,apartamento,960000,1
+municipality,Guaynabo,apartamento,975000,1
+municipality,Guaynabo,apartamento,995000,1
+municipality,Guaynabo,apartamento,1000000,1
+municipality,Guaynabo,apartamento,1200000,1
+municipality,Guaynabo,apartamento,1295000,2
+municipality,Guaynabo,apartamento,2250000,2
+municipality,Guaynabo,casa,60000,1
+municipality,Guaynabo,casa,95000,1
+municipality,Guaynabo,casa,115000,1
+municipality,Guaynabo,casa,120000,1
+municipality,Guaynabo,casa,125000,1
+municipality,Guaynabo,casa,145000,1
+municipality,Guaynabo,casa,150000,1
+municipality,Guaynabo,casa,175000,1
+municipality,Guaynabo,casa,185000,1
+municipality,Guaynabo,casa,195000,1
+municipality,Guaynabo,casa,205000,1
+municipality,Guaynabo,casa,220000,1
+municipality,Guaynabo,casa,245000,1
+municipality,Guaynabo,casa,265000,1
+municipality,Guaynabo,casa,285000,2
+municipality,Guaynabo,casa,310000,1
+municipality,Guaynabo,casa,350000,2
+municipality,Guaynabo,casa,360000,1
+municipality,Guaynabo,casa,365000,1
+municipality,Guaynabo,casa,375000,1
+municipality,Guaynabo,casa,380000,1
+municipality,Guaynabo,casa,385000,1
+municipality,Guaynabo,casa,395000,1
+municipality,Guaynabo,casa,425000,1
+municipality,Guaynabo,casa,430000,1
+municipality,Guaynabo,casa,435000,2
+municipality,Guaynabo,casa,440000,1
+municipality,Guaynabo,casa,470000,1
+municipality,Guaynabo,casa,475000,4
+municipality,Guaynabo,casa,495000,3
+municipality,Guaynabo,casa,500000,1
+municipality,Guaynabo,casa,505000,2
+municipality,Guaynabo,casa,525000,1
+municipality,Guaynabo,casa,550000,1
+municipality,Guaynabo,casa,555000,1
+municipality,Guaynabo,casa,560000,1
+municipality,Guaynabo,casa,575000,1
+municipality,Guaynabo,casa,585000,1
+municipality,Guaynabo,casa,595000,6
+municipality,Guaynabo,casa,600000,2
+municipality,Guaynabo,casa,625000,1
+municipality,Guaynabo,casa,630000,1
+municipality,Guaynabo,casa,645000,2
+municipality,Guaynabo,casa,675000,2
+municipality,Guaynabo,casa,695000,5
+municipality,Guaynabo,casa,700000,1
+municipality,Guaynabo,casa,715000,1
+municipality,Guaynabo,casa,735000,1
+municipality,Guaynabo,casa,750000,4
+municipality,Guaynabo,casa,755000,1
+municipality,Guaynabo,casa,765000,1
+municipality,Guaynabo,casa,795000,2
+municipality,Guaynabo,casa,815000,1
+municipality,Guaynabo,casa,825000,1
+municipality,Guaynabo,casa,830000,1
+municipality,Guaynabo,casa,845000,2
+municipality,Guaynabo,casa,850000,4
+municipality,Guaynabo,casa,875000,2
+municipality,Guaynabo,casa,890000,1
+municipality,Guaynabo,casa,895000,2
+municipality,Guaynabo,casa,900000,1
+municipality,Guaynabo,casa,910000,1
+municipality,Guaynabo,casa,925000,2
+municipality,Guaynabo,casa,990000,1
+municipality,Guaynabo,casa,995000,3
+municipality,Guaynabo,casa,1095000,4
+municipality,Guaynabo,casa,1100000,3
+municipality,Guaynabo,casa,1150000,6
+municipality,Guaynabo,casa,1190000,2
+municipality,Guaynabo,casa,1195000,1
+municipality,Guaynabo,casa,1200000,5
+municipality,Guaynabo,casa,1250000,3
+municipality,Guaynabo,casa,1255000,1
+municipality,Guaynabo,casa,1275000,2
+municipality,Guaynabo,casa,1295000,2
+municipality,Guaynabo,casa,1300000,3
+municipality,Guaynabo,casa,1350000,1
+municipality,Guaynabo,casa,1375000,1
+municipality,Guaynabo,casa,1390000,1
+municipality,Guaynabo,casa,1395000,1
+municipality,Guaynabo,casa,1400000,2
+municipality,Guaynabo,casa,1450000,2
+municipality,Guaynabo,casa,1495000,2
+municipality,Guaynabo,casa,1500000,3
+municipality,Guaynabo,casa,1590000,2
+municipality,Guaynabo,casa,1600000,2
+municipality,Guaynabo,casa,1650000,2
+municipality,Guaynabo,casa,1700000,2
+municipality,Guaynabo,casa,1750000,1
+municipality,Guaynabo,casa,1795000,1
+municipality,Guaynabo,casa,1890000,1
+municipality,Guaynabo,casa,1950000,1
+municipality,Guaynabo,casa,1995000,1
+municipality,Guaynabo,casa,2200000,2
+municipality,Guaynabo,casa,2250000,1
+municipality,Gurabo,casa,75000,1
+municipality,Gurabo,casa,90000,2
+municipality,Gurabo,casa,145000,1
+municipality,Gurabo,casa,155000,1
+municipality,Gurabo,casa,165000,3
+municipality,Gurabo,casa,170000,1
+municipality,Gurabo,casa,175000,1
+municipality,Gurabo,casa,200000,1
+municipality,Gurabo,casa,210000,1
+municipality,Gurabo,casa,215000,3
+municipality,Gurabo,casa,225000,1
+municipality,Gurabo,casa,235000,1
+municipality,Gurabo,casa,265000,1
+municipality,Gurabo,casa,275000,2
+municipality,Gurabo,casa,280000,1
+municipality,Gurabo,casa,295000,1
+municipality,Gurabo,casa,310000,1
+municipality,Gurabo,casa,315000,1
+municipality,Gurabo,casa,335000,1
+municipality,Gurabo,casa,345000,1
+municipality,Gurabo,casa,350000,1
+municipality,Gurabo,casa,355000,1
+municipality,Gurabo,casa,375000,2
+municipality,Gurabo,casa,385000,1
+municipality,Gurabo,casa,390000,3
+municipality,Gurabo,casa,395000,2
+municipality,Gurabo,casa,400000,1
+municipality,Gurabo,casa,415000,1
+municipality,Gurabo,casa,425000,1
+municipality,Gurabo,casa,430000,1
+municipality,Gurabo,casa,435000,1
+municipality,Gurabo,casa,440000,1
+municipality,Gurabo,casa,445000,2
+municipality,Gurabo,casa,455000,3
+municipality,Gurabo,casa,470000,1
+municipality,Gurabo,casa,475000,2
+municipality,Gurabo,casa,485000,2
+municipality,Gurabo,casa,495000,2
+municipality,Gurabo,casa,525000,2
+municipality,Gurabo,casa,545000,3
+municipality,Gurabo,casa,550000,4
+municipality,Gurabo,casa,590000,1
+municipality,Gurabo,casa,595000,4
+municipality,Gurabo,casa,610000,1
+municipality,Gurabo,casa,625000,1
+municipality,Gurabo,casa,640000,1
+municipality,Gurabo,casa,670000,2
+municipality,Gurabo,casa,695000,2
+municipality,Gurabo,casa,700000,1
+municipality,Gurabo,casa,735000,1
+municipality,Gurabo,casa,745000,1
+municipality,Gurabo,casa,750000,2
+municipality,Gurabo,casa,755000,1
+municipality,Gurabo,casa,875000,1
+municipality,Gurabo,casa,1150000,1
+municipality,Hatillo,casa,110000,2
+municipality,Hatillo,casa,120000,1
+municipality,Hatillo,casa,125000,1
+municipality,Hatillo,casa,140000,1
+municipality,Hatillo,casa,160000,1
+municipality,Hatillo,casa,175000,6
+municipality,Hatillo,casa,180000,1
+municipality,Hatillo,casa,185000,1
+municipality,Hatillo,casa,195000,3
+municipality,Hatillo,casa,205000,1
+municipality,Hatillo,casa,215000,1
+municipality,Hatillo,casa,225000,1
+municipality,Hatillo,casa,230000,1
+municipality,Hatillo,casa,250000,1
+municipality,Hatillo,casa,260000,1
+municipality,Hatillo,casa,265000,2
+municipality,Hatillo,casa,275000,1
+municipality,Hatillo,casa,295000,3
+municipality,Hatillo,casa,300000,1
+municipality,Hatillo,casa,315000,1
+municipality,Hatillo,casa,340000,1
+municipality,Hatillo,casa,360000,1
+municipality,Hatillo,casa,370000,1
+municipality,Hatillo,casa,385000,2
+municipality,Hatillo,casa,400000,1
+municipality,Hatillo,casa,425000,2
+municipality,Hatillo,casa,450000,1
+municipality,Hatillo,casa,495000,2
+municipality,Hatillo,casa,500000,1
+municipality,Hatillo,casa,550000,1
+municipality,Hatillo,casa,615000,1
+municipality,Hatillo,casa,1785000,1
+municipality,Humacao,apartamento,80000,1
+municipality,Humacao,apartamento,90000,1
+municipality,Humacao,apartamento,175000,1
+municipality,Humacao,apartamento,200000,2
+municipality,Humacao,apartamento,210000,1
+municipality,Humacao,apartamento,220000,1
+municipality,Humacao,apartamento,255000,1
+municipality,Humacao,apartamento,295000,1
+municipality,Humacao,apartamento,325000,1
+municipality,Humacao,apartamento,350000,1
+municipality,Humacao,apartamento,355000,1
+municipality,Humacao,apartamento,370000,1
+municipality,Humacao,apartamento,385000,2
+municipality,Humacao,apartamento,395000,8
+municipality,Humacao,apartamento,405000,1
+municipality,Humacao,apartamento,410000,1
+municipality,Humacao,apartamento,420000,3
+municipality,Humacao,apartamento,425000,5
+municipality,Humacao,apartamento,430000,3
+municipality,Humacao,apartamento,435000,2
+municipality,Humacao,apartamento,440000,4
+municipality,Humacao,apartamento,445000,2
+municipality,Humacao,apartamento,450000,4
+municipality,Humacao,apartamento,455000,1
+municipality,Humacao,apartamento,470000,1
+municipality,Humacao,apartamento,475000,1
+municipality,Humacao,apartamento,480000,1
+municipality,Humacao,apartamento,485000,1
+municipality,Humacao,apartamento,500000,3
+municipality,Humacao,apartamento,510000,1
+municipality,Humacao,apartamento,520000,1
+municipality,Humacao,apartamento,525000,1
+municipality,Humacao,apartamento,530000,1
+municipality,Humacao,apartamento,535000,2
+municipality,Humacao,apartamento,545000,1
+municipality,Humacao,apartamento,550000,3
+municipality,Humacao,apartamento,560000,1
+municipality,Humacao,apartamento,570000,1
+municipality,Humacao,apartamento,575000,2
+municipality,Humacao,apartamento,590000,2
+municipality,Humacao,apartamento,595000,3
+municipality,Humacao,apartamento,625000,1
+municipality,Humacao,apartamento,630000,1
+municipality,Humacao,apartamento,640000,1
+municipality,Humacao,apartamento,645000,1
+municipality,Humacao,apartamento,650000,2
+municipality,Humacao,apartamento,675000,1
+municipality,Humacao,apartamento,695000,1
+municipality,Humacao,apartamento,715000,1
+municipality,Humacao,apartamento,735000,1
+municipality,Humacao,apartamento,775000,1
+municipality,Humacao,apartamento,815000,1
+municipality,Humacao,apartamento,850000,2
+municipality,Humacao,apartamento,1095000,1
+municipality,Humacao,apartamento,1100000,1
+municipality,Humacao,apartamento,1250000,1
+municipality,Humacao,apartamento,1500000,1
+municipality,Humacao,apartamento,1600000,1
+municipality,Humacao,apartamento,1695000,1
+municipality,Humacao,apartamento,1945000,1
+municipality,Humacao,casa,55000,1
+municipality,Humacao,casa,75000,1
+municipality,Humacao,casa,95000,2
+municipality,Humacao,casa,100000,1
+municipality,Humacao,casa,115000,2
+municipality,Humacao,casa,125000,3
+municipality,Humacao,casa,130000,2
+municipality,Humacao,casa,145000,3
+municipality,Humacao,casa,150000,4
+municipality,Humacao,casa,155000,3
+municipality,Humacao,casa,160000,1
+municipality,Humacao,casa,165000,6
+municipality,Humacao,casa,170000,1
+municipality,Humacao,casa,175000,4
+municipality,Humacao,casa,180000,2
+municipality,Humacao,casa,190000,1
+municipality,Humacao,casa,195000,3
+municipality,Humacao,casa,200000,1
+municipality,Humacao,casa,210000,4
+municipality,Humacao,casa,215000,2
+municipality,Humacao,casa,225000,1
+municipality,Humacao,casa,240000,2
+municipality,Humacao,casa,250000,1
+municipality,Humacao,casa,260000,1
+municipality,Humacao,casa,265000,2
+municipality,Humacao,casa,285000,1
+municipality,Humacao,casa,295000,2
+municipality,Humacao,casa,300000,2
+municipality,Humacao,casa,310000,1
+municipality,Humacao,casa,315000,1
+municipality,Humacao,casa,325000,1
+municipality,Humacao,casa,335000,1
+municipality,Humacao,casa,345000,2
+municipality,Humacao,casa,365000,1
+municipality,Humacao,casa,375000,2
+municipality,Humacao,casa,385000,1
+municipality,Humacao,casa,395000,1
+municipality,Humacao,casa,405000,1
+municipality,Humacao,casa,420000,1
+municipality,Humacao,casa,450000,3
+municipality,Humacao,casa,460000,1
+municipality,Humacao,casa,475000,1
+municipality,Humacao,casa,495000,1
+municipality,Humacao,casa,510000,1
+municipality,Humacao,casa,515000,1
+municipality,Humacao,casa,520000,2
+municipality,Humacao,casa,525000,2
+municipality,Humacao,casa,535000,2
+municipality,Humacao,casa,545000,2
+municipality,Humacao,casa,550000,2
+municipality,Humacao,casa,575000,1
+municipality,Humacao,casa,585000,1
+municipality,Humacao,casa,595000,1
+municipality,Humacao,casa,650000,1
+municipality,Humacao,casa,725000,2
+municipality,Humacao,casa,750000,1
+municipality,Humacao,casa,800000,1
+municipality,Humacao,casa,875000,1
+municipality,Humacao,casa,895000,1
+municipality,Humacao,casa,920000,1
+municipality,Humacao,casa,1100000,1
+municipality,Humacao,casa,1325000,1
+municipality,Humacao,casa,1375000,1
+municipality,Humacao,casa,1395000,1
+municipality,Humacao,casa,1600000,1
+municipality,Humacao,casa,1690000,1
+municipality,Humacao,casa,1795000,1
+municipality,Humacao,casa,1825000,1
+municipality,Humacao,casa,1900000,2
+municipality,Humacao,casa,1995000,1
+municipality,Humacao,casa,2095000,1
+municipality,Humacao,casa,2100000,1
+municipality,Humacao,casa,2220000,1
+municipality,Humacao,casa,2395000,1
+municipality,Isabela,apartamento,25000,1
+municipality,Isabela,apartamento,275000,2
+municipality,Isabela,apartamento,295000,1
+municipality,Isabela,apartamento,375000,1
+municipality,Isabela,apartamento,395000,4
+municipality,Isabela,apartamento,410000,1
+municipality,Isabela,apartamento,415000,2
+municipality,Isabela,apartamento,420000,1
+municipality,Isabela,apartamento,425000,1
+municipality,Isabela,apartamento,450000,1
+municipality,Isabela,apartamento,495000,2
+municipality,Isabela,apartamento,595000,3
+municipality,Isabela,apartamento,600000,1
+municipality,Isabela,casa,25000,1
+municipality,Isabela,casa,115000,1
+municipality,Isabela,casa,125000,1
+municipality,Isabela,casa,145000,2
+municipality,Isabela,casa,155000,2
+municipality,Isabela,casa,170000,1
+municipality,Isabela,casa,175000,1
+municipality,Isabela,casa,180000,1
+municipality,Isabela,casa,195000,1
+municipality,Isabela,casa,200000,1
+municipality,Isabela,casa,215000,1
+municipality,Isabela,casa,235000,1
+municipality,Isabela,casa,245000,1
+municipality,Isabela,casa,255000,1
+municipality,Isabela,casa,260000,1
+municipality,Isabela,casa,275000,1
+municipality,Isabela,casa,285000,1
+municipality,Isabela,casa,295000,2
+municipality,Isabela,casa,300000,1
+municipality,Isabela,casa,315000,2
+municipality,Isabela,casa,335000,1
+municipality,Isabela,casa,345000,1
+municipality,Isabela,casa,350000,3
+municipality,Isabela,casa,360000,1
+municipality,Isabela,casa,365000,2
+municipality,Isabela,casa,375000,2
+municipality,Isabela,casa,385000,1
+municipality,Isabela,casa,395000,2
+municipality,Isabela,casa,400000,1
+municipality,Isabela,casa,410000,1
+municipality,Isabela,casa,415000,1
+municipality,Isabela,casa,425000,2
+municipality,Isabela,casa,445000,3
+municipality,Isabela,casa,450000,1
+municipality,Isabela,casa,480000,1
+municipality,Isabela,casa,485000,1
+municipality,Isabela,casa,490000,1
+municipality,Isabela,casa,500000,1
+municipality,Isabela,casa,525000,1
+municipality,Isabela,casa,530000,1
+municipality,Isabela,casa,545000,1
+municipality,Isabela,casa,565000,1
+municipality,Isabela,casa,575000,3
+municipality,Isabela,casa,625000,1
+municipality,Isabela,casa,665000,1
+municipality,Isabela,casa,685000,1
+municipality,Isabela,casa,695000,2
+municipality,Isabela,casa,875000,1
+municipality,Isabela,casa,950000,1
+municipality,Isabela,casa,990000,1
+municipality,Isabela,casa,995000,1
+municipality,Isabela,casa,1000000,1
+municipality,Isabela,casa,1250000,1
+municipality,Isabela,casa,1295000,1
+municipality,Isabela,casa,1300000,2
+municipality,Isabela,casa,1395000,1
+municipality,Isabela,casa,1450000,1
+municipality,Isabela,casa,1495000,1
+municipality,Isabela,casa,2100000,1
+municipality,Juana Díaz,casa,120000,1
+municipality,Juana Díaz,casa,140000,1
+municipality,Juana Díaz,casa,155000,2
+municipality,Juana Díaz,casa,160000,3
+municipality,Juana Díaz,casa,165000,1
+municipality,Juana Díaz,casa,175000,1
+municipality,Juana Díaz,casa,185000,1
+municipality,Juana Díaz,casa,190000,1
+municipality,Juana Díaz,casa,195000,1
+municipality,Juana Díaz,casa,210000,1
+municipality,Juana Díaz,casa,215000,1
+municipality,Juana Díaz,casa,250000,1
+municipality,Juana Díaz,casa,260000,1
+municipality,Juana Díaz,casa,280000,1
+municipality,Juana Díaz,casa,315000,1
+municipality,Juana Díaz,casa,350000,1
+municipality,Juana Díaz,casa,365000,1
+municipality,Juana Díaz,casa,385000,1
+municipality,Juana Díaz,casa,395000,1
+municipality,Juana Díaz,casa,425000,1
+municipality,Juana Díaz,casa,450000,1
+municipality,Juana Díaz,casa,475000,1
+municipality,Juana Díaz,casa,490000,1
+municipality,Juana Díaz,casa,525000,1
+municipality,Juana Díaz,casa,535000,1
+municipality,Juana Díaz,casa,575000,1
+municipality,Juana Díaz,casa,1000000,1
+municipality,Juncos,casa,60000,1
+municipality,Juncos,casa,70000,1
+municipality,Juncos,casa,75000,1
+municipality,Juncos,casa,80000,1
+municipality,Juncos,casa,110000,1
+municipality,Juncos,casa,115000,1
+municipality,Juncos,casa,130000,1
+municipality,Juncos,casa,140000,1
+municipality,Juncos,casa,150000,1
+municipality,Juncos,casa,155000,1
+municipality,Juncos,casa,160000,1
+municipality,Juncos,casa,165000,2
+municipality,Juncos,casa,170000,1
+municipality,Juncos,casa,175000,3
+municipality,Juncos,casa,185000,3
+municipality,Juncos,casa,200000,1
+municipality,Juncos,casa,205000,1
+municipality,Juncos,casa,215000,1
+municipality,Juncos,casa,225000,1
+municipality,Juncos,casa,235000,1
+municipality,Juncos,casa,255000,1
+municipality,Juncos,casa,260000,1
+municipality,Juncos,casa,325000,2
+municipality,Juncos,casa,375000,1
+municipality,Juncos,casa,525000,1
+municipality,Juncos,casa,765000,1
+municipality,Lajas,apartamento,45000,1
+municipality,Lajas,apartamento,55000,1
+municipality,Lajas,apartamento,255000,1
+municipality,Lajas,apartamento,260000,1
+municipality,Lajas,apartamento,285000,1
+municipality,Lajas,apartamento,295000,2
+municipality,Lajas,apartamento,385000,1
+municipality,Lajas,apartamento,390000,1
+municipality,Lajas,apartamento,525000,1
+municipality,Lajas,apartamento,750000,1
+municipality,Lajas,casa,20000,1
+municipality,Lajas,casa,35000,1
+municipality,Lajas,casa,55000,1
+municipality,Lajas,casa,80000,1
+municipality,Lajas,casa,125000,1
+municipality,Lajas,casa,145000,2
+municipality,Lajas,casa,150000,1
+municipality,Lajas,casa,175000,2
+municipality,Lajas,casa,185000,2
+municipality,Lajas,casa,200000,1
+municipality,Lajas,casa,295000,1
+municipality,Lajas,casa,335000,1
+municipality,Lajas,casa,400000,1
+municipality,Lajas,casa,410000,1
+municipality,Lajas,casa,515000,2
+municipality,Lajas,casa,595000,2
+municipality,Lajas,casa,750000,1
+municipality,Lajas,casa,850000,1
+municipality,Lajas,casa,895000,1
+municipality,Lajas,casa,995000,1
+municipality,Lajas,casa,1500000,3
+municipality,Lajas,casa,2100000,1
+municipality,Lares,casa,65000,1
+municipality,Lares,casa,70000,1
+municipality,Lares,casa,90000,2
+municipality,Lares,casa,120000,1
+municipality,Lares,casa,135000,1
+municipality,Lares,casa,150000,1
+municipality,Lares,casa,155000,2
+municipality,Lares,casa,160000,2
+municipality,Lares,casa,165000,2
+municipality,Lares,casa,185000,1
+municipality,Lares,casa,215000,1
+municipality,Lares,casa,225000,1
+municipality,Lares,casa,230000,2
+municipality,Lares,casa,235000,1
+municipality,Lares,casa,250000,1
+municipality,Lares,casa,290000,1
+municipality,Lares,casa,375000,1
+municipality,Lares,casa,650000,1
+municipality,Las Piedras,casa,40000,1
+municipality,Las Piedras,casa,55000,1
+municipality,Las Piedras,casa,95000,1
+municipality,Las Piedras,casa,105000,1
+municipality,Las Piedras,casa,115000,1
+municipality,Las Piedras,casa,125000,2
+municipality,Las Piedras,casa,155000,1
+municipality,Las Piedras,casa,165000,1
+municipality,Las Piedras,casa,170000,2
+municipality,Las Piedras,casa,180000,2
+municipality,Las Piedras,casa,190000,1
+municipality,Las Piedras,casa,195000,1
+municipality,Las Piedras,casa,200000,1
+municipality,Las Piedras,casa,210000,1
+municipality,Las Piedras,casa,225000,1
+municipality,Las Piedras,casa,240000,1
+municipality,Las Piedras,casa,250000,1
+municipality,Las Piedras,casa,265000,1
+municipality,Las Piedras,casa,275000,1
+municipality,Las Piedras,casa,285000,1
+municipality,Las Piedras,casa,300000,1
+municipality,Las Piedras,casa,305000,1
+municipality,Las Piedras,casa,340000,1
+municipality,Las Piedras,casa,345000,1
+municipality,Las Piedras,casa,350000,1
+municipality,Las Piedras,casa,365000,1
+municipality,Las Piedras,casa,375000,1
+municipality,Las Piedras,casa,395000,3
+municipality,Las Piedras,casa,560000,1
+municipality,Las Piedras,casa,615000,1
+municipality,Las Piedras,casa,625000,1
+municipality,Las Piedras,casa,825000,2
+municipality,Las Piedras,casa,875000,1
+municipality,Loíza,apartamento,170000,2
+municipality,Loíza,apartamento,175000,1
+municipality,Loíza,apartamento,180000,1
+municipality,Loíza,apartamento,185000,1
+municipality,Loíza,apartamento,190000,1
+municipality,Loíza,apartamento,195000,1
+municipality,Loíza,apartamento,200000,1
+municipality,Loíza,apartamento,215000,2
+municipality,Loíza,apartamento,220000,2
+municipality,Loíza,apartamento,225000,2
+municipality,Loíza,apartamento,230000,1
+municipality,Loíza,apartamento,235000,2
+municipality,Loíza,apartamento,240000,3
+municipality,Loíza,apartamento,245000,2
+municipality,Loíza,apartamento,255000,1
+municipality,Loíza,apartamento,260000,2
+municipality,Loíza,apartamento,265000,1
+municipality,Loíza,apartamento,270000,3
+municipality,Loíza,apartamento,275000,4
+municipality,Loíza,apartamento,285000,1
+municipality,Loíza,apartamento,295000,3
+municipality,Loíza,apartamento,300000,2
+municipality,Loíza,apartamento,310000,1
+municipality,Loíza,apartamento,315000,1
+municipality,Loíza,apartamento,320000,1
+municipality,Loíza,apartamento,325000,2
+municipality,Loíza,apartamento,335000,1
+municipality,Loíza,apartamento,360000,1
+municipality,Loíza,apartamento,375000,1
+municipality,Loíza,apartamento,400000,1
+municipality,Loíza,apartamento,425000,1
+municipality,Loíza,apartamento,445000,2
+municipality,Loíza,apartamento,495000,1
+municipality,Loíza,apartamento,1500000,1
+municipality,Loíza,casa,55000,1
+municipality,Loíza,casa,100000,1
+municipality,Loíza,casa,140000,1
+municipality,Loíza,casa,145000,1
+municipality,Loíza,casa,155000,1
+municipality,Loíza,casa,165000,1
+municipality,Loíza,casa,195000,1
+municipality,Loíza,casa,225000,1
+municipality,Loíza,casa,265000,1
+municipality,Loíza,casa,300000,1
+municipality,Loíza,casa,350000,1
+municipality,Luquillo,apartamento,165000,1
+municipality,Luquillo,apartamento,190000,1
+municipality,Luquillo,apartamento,200000,1
+municipality,Luquillo,apartamento,210000,2
+municipality,Luquillo,apartamento,215000,1
+municipality,Luquillo,apartamento,220000,2
+municipality,Luquillo,apartamento,225000,2
+municipality,Luquillo,apartamento,235000,2
+municipality,Luquillo,apartamento,250000,1
+municipality,Luquillo,apartamento,260000,1
+municipality,Luquillo,apartamento,265000,4
+municipality,Luquillo,apartamento,270000,1
+municipality,Luquillo,apartamento,275000,2
+municipality,Luquillo,apartamento,295000,1
+municipality,Luquillo,apartamento,300000,1
+municipality,Luquillo,apartamento,310000,1
+municipality,Luquillo,apartamento,315000,4
+municipality,Luquillo,apartamento,325000,3
+municipality,Luquillo,apartamento,350000,3
+municipality,Luquillo,apartamento,355000,2
+municipality,Luquillo,apartamento,365000,2
+municipality,Luquillo,apartamento,390000,1
+municipality,Luquillo,apartamento,395000,1
+municipality,Luquillo,apartamento,405000,1
+municipality,Luquillo,apartamento,410000,1
+municipality,Luquillo,apartamento,460000,1
+municipality,Luquillo,apartamento,500000,1
+municipality,Luquillo,apartamento,575000,1
+municipality,Luquillo,apartamento,610000,1
+municipality,Luquillo,apartamento,725000,1
+municipality,Luquillo,apartamento,1500000,1
+municipality,Luquillo,casa,150000,1
+municipality,Luquillo,casa,155000,1
+municipality,Luquillo,casa,160000,1
+municipality,Luquillo,casa,185000,1
+municipality,Luquillo,casa,210000,1
+municipality,Luquillo,casa,225000,1
+municipality,Luquillo,casa,250000,1
+municipality,Luquillo,casa,265000,1
+municipality,Luquillo,casa,290000,1
+municipality,Luquillo,casa,295000,2
+municipality,Luquillo,casa,315000,2
+municipality,Luquillo,casa,345000,2
+municipality,Luquillo,casa,360000,2
+municipality,Luquillo,casa,365000,4
+municipality,Luquillo,casa,375000,5
+municipality,Luquillo,casa,380000,1
+municipality,Luquillo,casa,385000,4
+municipality,Luquillo,casa,390000,1
+municipality,Luquillo,casa,405000,1
+municipality,Luquillo,casa,430000,1
+municipality,Luquillo,casa,465000,1
+municipality,Luquillo,casa,535000,1
+municipality,Luquillo,casa,555000,1
+municipality,Luquillo,casa,575000,2
+municipality,Luquillo,casa,595000,1
+municipality,Luquillo,casa,650000,3
+municipality,Luquillo,casa,660000,1
+municipality,Luquillo,casa,675000,1
+municipality,Luquillo,casa,680000,1
+municipality,Luquillo,casa,730000,1
+municipality,Luquillo,casa,785000,1
+municipality,Luquillo,casa,790000,1
+municipality,Luquillo,casa,795000,3
+municipality,Luquillo,casa,900000,1
+municipality,Luquillo,casa,1350000,1
+municipality,Luquillo,casa,1395000,2
+municipality,Luquillo,casa,1450000,1
+municipality,Luquillo,casa,1595000,1
+municipality,Luquillo,casa,1695000,2
+municipality,Luquillo,casa,1795000,1
+municipality,Luquillo,casa,2200000,1
+municipality,Manatí,casa,30000,1
+municipality,Manatí,casa,35000,1
+municipality,Manatí,casa,45000,1
+municipality,Manatí,casa,55000,1
+municipality,Manatí,casa,60000,2
+municipality,Manatí,casa,75000,1
+municipality,Manatí,casa,85000,1
+municipality,Manatí,casa,90000,1
+municipality,Manatí,casa,120000,1
+municipality,Manatí,casa,130000,1
+municipality,Manatí,casa,135000,1
+municipality,Manatí,casa,140000,1
+municipality,Manatí,casa,155000,2
+municipality,Manatí,casa,160000,2
+municipality,Manatí,casa,165000,2
+municipality,Manatí,casa,175000,1
+municipality,Manatí,casa,190000,1
+municipality,Manatí,casa,195000,2
+municipality,Manatí,casa,215000,1
+municipality,Manatí,casa,225000,3
+municipality,Manatí,casa,235000,1
+municipality,Manatí,casa,245000,1
+municipality,Manatí,casa,250000,1
+municipality,Manatí,casa,255000,4
+municipality,Manatí,casa,270000,1
+municipality,Manatí,casa,350000,2
+municipality,Manatí,casa,395000,1
+municipality,Manatí,casa,445000,1
+municipality,Manatí,casa,450000,2
+municipality,Manatí,casa,460000,1
+municipality,Manatí,casa,480000,1
+municipality,Manatí,casa,550000,1
+municipality,Manatí,casa,670000,1
+municipality,Manatí,casa,695000,1
+municipality,Manatí,casa,750000,2
+municipality,Manatí,casa,875000,1
+municipality,Manatí,casa,1125000,1
+municipality,Manatí,casa,1450000,1
+municipality,Manatí,casa,1900000,1
+municipality,Maunabo,casa,70000,1
+municipality,Maunabo,casa,135000,1
+municipality,Maunabo,casa,150000,1
+municipality,Maunabo,casa,175000,1
+municipality,Maunabo,casa,225000,1
+municipality,Maunabo,casa,245000,1
+municipality,Maunabo,casa,300000,1
+municipality,Maunabo,casa,450000,1
+municipality,Maunabo,casa,695000,1
+municipality,Maunabo,casa,900000,1
+municipality,Mayagüez,apartamento,40000,1
+municipality,Mayagüez,apartamento,55000,1
+municipality,Mayagüez,apartamento,65000,1
+municipality,Mayagüez,apartamento,70000,2
+municipality,Mayagüez,apartamento,75000,1
+municipality,Mayagüez,apartamento,95000,1
+municipality,Mayagüez,apartamento,105000,1
+municipality,Mayagüez,apartamento,110000,1
+municipality,Mayagüez,apartamento,120000,2
+municipality,Mayagüez,apartamento,125000,3
+municipality,Mayagüez,apartamento,130000,1
+municipality,Mayagüez,apartamento,135000,2
+municipality,Mayagüez,apartamento,150000,1
+municipality,Mayagüez,apartamento,170000,1
+municipality,Mayagüez,apartamento,210000,2
+municipality,Mayagüez,apartamento,225000,2
+municipality,Mayagüez,apartamento,240000,1
+municipality,Mayagüez,apartamento,245000,1
+municipality,Mayagüez,apartamento,400000,1
+municipality,Mayagüez,apartamento,425000,1
+municipality,Mayagüez,apartamento,750000,1
+municipality,Mayagüez,apartamento,800000,1
+municipality,Mayagüez,casa,45000,1
+municipality,Mayagüez,casa,60000,1
+municipality,Mayagüez,casa,65000,2
+municipality,Mayagüez,casa,70000,1
+municipality,Mayagüez,casa,75000,2
+municipality,Mayagüez,casa,80000,1
+municipality,Mayagüez,casa,85000,3
+municipality,Mayagüez,casa,90000,1
+municipality,Mayagüez,casa,95000,4
+municipality,Mayagüez,casa,100000,1
+municipality,Mayagüez,casa,110000,2
+municipality,Mayagüez,casa,115000,5
+municipality,Mayagüez,casa,120000,1
+municipality,Mayagüez,casa,125000,2
+municipality,Mayagüez,casa,130000,2
+municipality,Mayagüez,casa,135000,2
+municipality,Mayagüez,casa,140000,1
+municipality,Mayagüez,casa,145000,1
+municipality,Mayagüez,casa,150000,7
+municipality,Mayagüez,casa,155000,2
+municipality,Mayagüez,casa,170000,3
+municipality,Mayagüez,casa,180000,2
+municipality,Mayagüez,casa,185000,1
+municipality,Mayagüez,casa,190000,1
+municipality,Mayagüez,casa,195000,1
+municipality,Mayagüez,casa,210000,1
+municipality,Mayagüez,casa,225000,1
+municipality,Mayagüez,casa,230000,2
+municipality,Mayagüez,casa,235000,2
+municipality,Mayagüez,casa,240000,2
+municipality,Mayagüez,casa,245000,1
+municipality,Mayagüez,casa,260000,1
+municipality,Mayagüez,casa,270000,2
+municipality,Mayagüez,casa,275000,1
+municipality,Mayagüez,casa,280000,1
+municipality,Mayagüez,casa,295000,2
+municipality,Mayagüez,casa,325000,2
+municipality,Mayagüez,casa,400000,2
+municipality,Mayagüez,casa,415000,1
+municipality,Mayagüez,casa,425000,1
+municipality,Mayagüez,casa,435000,1
+municipality,Mayagüez,casa,475000,1
+municipality,Mayagüez,casa,490000,6
+municipality,Mayagüez,casa,510000,1
+municipality,Mayagüez,casa,545000,1
+municipality,Mayagüez,casa,560000,1
+municipality,Mayagüez,casa,565000,1
+municipality,Mayagüez,casa,575000,1
+municipality,Mayagüez,casa,585000,1
+municipality,Mayagüez,casa,600000,1
+municipality,Mayagüez,casa,675000,2
+municipality,Mayagüez,casa,695000,1
+municipality,Mayagüez,casa,1195000,1
+municipality,Mayagüez,casa,1200000,1
+municipality,Mayagüez,casa,1250000,1
+municipality,Mayagüez,casa,2290000,1
+municipality,Moca,casa,155000,1
+municipality,Moca,casa,230000,1
+municipality,Moca,casa,240000,1
+municipality,Moca,casa,250000,1
+municipality,Moca,casa,265000,1
+municipality,Moca,casa,270000,1
+municipality,Moca,casa,275000,1
+municipality,Moca,casa,280000,1
+municipality,Moca,casa,300000,2
+municipality,Moca,casa,325000,1
+municipality,Moca,casa,350000,2
+municipality,Moca,casa,370000,1
+municipality,Moca,casa,375000,1
+municipality,Moca,casa,395000,2
+municipality,Moca,casa,425000,1
+municipality,Moca,casa,475000,1
+municipality,Moca,casa,825000,1
+municipality,Moca,casa,1800000,2
+municipality,Morovis,casa,70000,2
+municipality,Morovis,casa,105000,1
+municipality,Morovis,casa,110000,2
+municipality,Morovis,casa,135000,3
+municipality,Morovis,casa,140000,1
+municipality,Morovis,casa,145000,2
+municipality,Morovis,casa,150000,1
+municipality,Morovis,casa,160000,1
+municipality,Morovis,casa,170000,1
+municipality,Morovis,casa,190000,5
+municipality,Morovis,casa,200000,1
+municipality,Morovis,casa,205000,1
+municipality,Morovis,casa,225000,1
+municipality,Morovis,casa,275000,2
+municipality,Morovis,casa,425000,1
+municipality,Morovis,casa,550000,1
+municipality,Morovis,casa,650000,1
+municipality,Morovis,casa,900000,1
+municipality,Naguabo,casa,100000,2
+municipality,Naguabo,casa,115000,1
+municipality,Naguabo,casa,135000,1
+municipality,Naguabo,casa,140000,1
+municipality,Naguabo,casa,150000,1
+municipality,Naguabo,casa,165000,4
+municipality,Naguabo,casa,170000,1
+municipality,Naguabo,casa,175000,2
+municipality,Naguabo,casa,185000,2
+municipality,Naguabo,casa,190000,1
+municipality,Naguabo,casa,225000,1
+municipality,Naguabo,casa,235000,1
+municipality,Naguabo,casa,245000,1
+municipality,Naguabo,casa,255000,1
+municipality,Naguabo,casa,260000,1
+municipality,Naguabo,casa,275000,1
+municipality,Naguabo,casa,320000,1
+municipality,Naguabo,casa,390000,1
+municipality,Naguabo,casa,395000,1
+municipality,Naguabo,casa,445000,1
+municipality,Naguabo,casa,475000,1
+municipality,Naguabo,casa,495000,1
+municipality,Naguabo,casa,525000,1
+municipality,Naguabo,casa,540000,1
+municipality,Naguabo,casa,550000,1
+municipality,Naguabo,casa,595000,3
+municipality,Naguabo,casa,1000000,1
+municipality,Naguabo,casa,1650000,1
+municipality,Naranjito,casa,145000,1
+municipality,Naranjito,casa,155000,1
+municipality,Naranjito,casa,175000,1
+municipality,Naranjito,casa,190000,1
+municipality,Naranjito,casa,195000,1
+municipality,Naranjito,casa,225000,1
+municipality,Naranjito,casa,250000,2
+municipality,Naranjito,casa,280000,1
+municipality,Naranjito,casa,300000,1
+municipality,Naranjito,casa,315000,1
+municipality,Naranjito,casa,380000,1
+municipality,Naranjito,casa,435000,3
+municipality,Orocovis,casa,70000,1
+municipality,Orocovis,casa,105000,1
+municipality,Orocovis,casa,145000,1
+municipality,Orocovis,casa,160000,1
+municipality,Orocovis,casa,250000,1
+municipality,Orocovis,casa,265000,1
+municipality,Orocovis,casa,280000,2
+municipality,Orocovis,casa,295000,1
+municipality,Orocovis,casa,300000,1
+municipality,Orocovis,casa,390000,1
+municipality,Orocovis,casa,395000,1
+municipality,Orocovis,casa,495000,1
+municipality,Orocovis,casa,595000,1
+municipality,Patillas,casa,70000,1
+municipality,Patillas,casa,145000,1
+municipality,Patillas,casa,150000,1
+municipality,Patillas,casa,160000,1
+municipality,Patillas,casa,200000,2
+municipality,Patillas,casa,255000,1
+municipality,Patillas,casa,265000,1
+municipality,Patillas,casa,270000,1
+municipality,Patillas,casa,295000,1
+municipality,Patillas,casa,365000,1
+municipality,Patillas,casa,385000,2
+municipality,Patillas,casa,415000,1
+municipality,Patillas,casa,425000,1
+municipality,Patillas,casa,450000,1
+municipality,Patillas,casa,575000,1
+municipality,Patillas,casa,585000,1
+municipality,Patillas,casa,595000,1
+municipality,Patillas,casa,650000,1
+municipality,Patillas,casa,1150000,1
+municipality,Patillas,casa,1250000,1
+municipality,Peñuelas,casa,110000,1
+municipality,Peñuelas,casa,125000,1
+municipality,Peñuelas,casa,150000,1
+municipality,Peñuelas,casa,155000,1
+municipality,Peñuelas,casa,170000,1
+municipality,Peñuelas,casa,180000,1
+municipality,Peñuelas,casa,185000,1
+municipality,Peñuelas,casa,190000,1
+municipality,Peñuelas,casa,195000,1
+municipality,Peñuelas,casa,225000,1
+municipality,Peñuelas,casa,245000,1
+municipality,Peñuelas,casa,250000,2
+municipality,Peñuelas,casa,450000,1
+municipality,Peñuelas,casa,495000,1
+municipality,Peñuelas,casa,540000,1
+municipality,Peñuelas,casa,665000,1
+municipality,Peñuelas,casa,785000,1
+municipality,Peñuelas,casa,1200000,1
+municipality,Ponce,apartamento,20000,1
+municipality,Ponce,apartamento,60000,1
+municipality,Ponce,apartamento,80000,1
+municipality,Ponce,apartamento,85000,1
+municipality,Ponce,apartamento,100000,1
+municipality,Ponce,apartamento,125000,1
+municipality,Ponce,apartamento,130000,1
+municipality,Ponce,apartamento,140000,1
+municipality,Ponce,apartamento,150000,1
+municipality,Ponce,apartamento,155000,1
+municipality,Ponce,apartamento,160000,2
+municipality,Ponce,apartamento,165000,2
+municipality,Ponce,apartamento,175000,2
+municipality,Ponce,apartamento,185000,1
+municipality,Ponce,apartamento,225000,2
+municipality,Ponce,apartamento,245000,1
+municipality,Ponce,apartamento,250000,2
+municipality,Ponce,apartamento,270000,1
+municipality,Ponce,apartamento,325000,1
+municipality,Ponce,apartamento,330000,1
+municipality,Ponce,apartamento,340000,1
+municipality,Ponce,apartamento,350000,1
+municipality,Ponce,apartamento,575000,1
+municipality,Ponce,apartamento,2150000,1
+municipality,Ponce,casa,25000,1
+municipality,Ponce,casa,45000,1
+municipality,Ponce,casa,55000,2
+municipality,Ponce,casa,70000,1
+municipality,Ponce,casa,80000,3
+municipality,Ponce,casa,85000,2
+municipality,Ponce,casa,90000,2
+municipality,Ponce,casa,95000,3
+municipality,Ponce,casa,100000,1
+municipality,Ponce,casa,120000,4
+municipality,Ponce,casa,125000,4
+municipality,Ponce,casa,130000,2
+municipality,Ponce,casa,135000,2
+municipality,Ponce,casa,140000,3
+municipality,Ponce,casa,145000,2
+municipality,Ponce,casa,150000,2
+municipality,Ponce,casa,155000,2
+municipality,Ponce,casa,160000,5
+municipality,Ponce,casa,165000,5
+municipality,Ponce,casa,175000,3
+municipality,Ponce,casa,180000,1
+municipality,Ponce,casa,185000,3
+municipality,Ponce,casa,190000,1
+municipality,Ponce,casa,195000,5
+municipality,Ponce,casa,200000,2
+municipality,Ponce,casa,205000,1
+municipality,Ponce,casa,210000,2
+municipality,Ponce,casa,215000,3
+municipality,Ponce,casa,220000,1
+municipality,Ponce,casa,225000,2
+municipality,Ponce,casa,230000,1
+municipality,Ponce,casa,235000,6
+municipality,Ponce,casa,240000,2
+municipality,Ponce,casa,245000,2
+municipality,Ponce,casa,250000,8
+municipality,Ponce,casa,260000,1
+municipality,Ponce,casa,265000,3
+municipality,Ponce,casa,270000,1
+municipality,Ponce,casa,275000,3
+municipality,Ponce,casa,280000,1
+municipality,Ponce,casa,285000,1
+municipality,Ponce,casa,290000,2
+municipality,Ponce,casa,295000,2
+municipality,Ponce,casa,310000,1
+municipality,Ponce,casa,320000,2
+municipality,Ponce,casa,330000,2
+municipality,Ponce,casa,345000,1
+municipality,Ponce,casa,350000,2
+municipality,Ponce,casa,360000,1
+municipality,Ponce,casa,390000,1
+municipality,Ponce,casa,400000,2
+municipality,Ponce,casa,405000,1
+municipality,Ponce,casa,425000,2
+municipality,Ponce,casa,450000,1
+municipality,Ponce,casa,460000,1
+municipality,Ponce,casa,465000,1
+municipality,Ponce,casa,475000,1
+municipality,Ponce,casa,495000,2
+municipality,Ponce,casa,515000,2
+municipality,Ponce,casa,550000,1
+municipality,Ponce,casa,575000,1
+municipality,Ponce,casa,595000,1
+municipality,Ponce,casa,650000,2
+municipality,Ponce,casa,680000,1
+municipality,Ponce,casa,690000,4
+municipality,Ponce,casa,695000,1
+municipality,Ponce,casa,700000,3
+municipality,Ponce,casa,750000,1
+municipality,Ponce,casa,800000,1
+municipality,Ponce,casa,850000,1
+municipality,Ponce,casa,1000000,1
+municipality,Ponce,casa,1200000,1
+municipality,Ponce,casa,1250000,1
+municipality,Ponce,casa,1295000,1
+municipality,Ponce,casa,1500000,1
+municipality,Ponce,casa,1600000,1
+municipality,Ponce,casa,2200000,1
+municipality,Quebradillas,casa,85000,1
+municipality,Quebradillas,casa,100000,1
+municipality,Quebradillas,casa,170000,1
+municipality,Quebradillas,casa,185000,1
+municipality,Quebradillas,casa,190000,1
+municipality,Quebradillas,casa,205000,1
+municipality,Quebradillas,casa,225000,1
+municipality,Quebradillas,casa,240000,1
+municipality,Quebradillas,casa,255000,1
+municipality,Quebradillas,casa,270000,1
+municipality,Quebradillas,casa,295000,1
+municipality,Quebradillas,casa,300000,1
+municipality,Quebradillas,casa,335000,1
+municipality,Quebradillas,casa,345000,1
+municipality,Quebradillas,casa,350000,2
+municipality,Quebradillas,casa,360000,1
+municipality,Quebradillas,casa,380000,1
+municipality,Quebradillas,casa,430000,1
+municipality,Quebradillas,casa,475000,1
+municipality,Quebradillas,casa,495000,3
+municipality,Quebradillas,casa,550000,1
+municipality,Quebradillas,casa,1200000,1
+municipality,Quebradillas,casa,1250000,1
+municipality,Quebradillas,casa,2200000,1
+municipality,Rincón,apartamento,30000,1
+municipality,Rincón,apartamento,235000,1
+municipality,Rincón,apartamento,240000,1
+municipality,Rincón,apartamento,245000,1
+municipality,Rincón,apartamento,265000,1
+municipality,Rincón,apartamento,295000,1
+municipality,Rincón,apartamento,320000,1
+municipality,Rincón,apartamento,325000,3
+municipality,Rincón,apartamento,330000,1
+municipality,Rincón,apartamento,345000,1
+municipality,Rincón,apartamento,365000,1
+municipality,Rincón,apartamento,385000,1
+municipality,Rincón,apartamento,450000,2
+municipality,Rincón,apartamento,500000,2
+municipality,Rincón,apartamento,510000,1
+municipality,Rincón,apartamento,550000,1
+municipality,Rincón,apartamento,575000,1
+municipality,Rincón,apartamento,590000,1
+municipality,Rincón,apartamento,595000,1
+municipality,Rincón,apartamento,600000,1
+municipality,Rincón,apartamento,650000,1
+municipality,Rincón,apartamento,695000,1
+municipality,Rincón,apartamento,725000,2
+municipality,Rincón,apartamento,1200000,2
+municipality,Rincón,apartamento,1275000,1
+municipality,Rincón,casa,30000,2
+municipality,Rincón,casa,35000,1
+municipality,Rincón,casa,285000,1
+municipality,Rincón,casa,295000,1
+municipality,Rincón,casa,345000,2
+municipality,Rincón,casa,350000,1
+municipality,Rincón,casa,385000,1
+municipality,Rincón,casa,390000,1
+municipality,Rincón,casa,395000,1
+municipality,Rincón,casa,400000,1
+municipality,Rincón,casa,405000,1
+municipality,Rincón,casa,420000,1
+municipality,Rincón,casa,425000,2
+municipality,Rincón,casa,450000,1
+municipality,Rincón,casa,465000,1
+municipality,Rincón,casa,475000,2
+municipality,Rincón,casa,495000,1
+municipality,Rincón,casa,500000,1
+municipality,Rincón,casa,515000,1
+municipality,Rincón,casa,550000,1
+municipality,Rincón,casa,590000,1
+municipality,Rincón,casa,595000,2
+municipality,Rincón,casa,620000,1
+municipality,Rincón,casa,630000,1
+municipality,Rincón,casa,650000,1
+municipality,Rincón,casa,695000,2
+municipality,Rincón,casa,745000,1
+municipality,Rincón,casa,800000,1
+municipality,Rincón,casa,825000,1
+municipality,Rincón,casa,850000,1
+municipality,Rincón,casa,875000,1
+municipality,Rincón,casa,940000,1
+municipality,Rincón,casa,950000,2
+municipality,Rincón,casa,1000000,1
+municipality,Rincón,casa,1085000,1
+municipality,Rincón,casa,1175000,1
+municipality,Rincón,casa,1200000,1
+municipality,Rincón,casa,1245000,1
+municipality,Rincón,casa,1500000,4
+municipality,Rincón,casa,1890000,1
+municipality,Rincón,casa,2275000,1
+municipality,Rincón,casa,2295000,1
+municipality,Río Grande,apartamento,30000,1
+municipality,Río Grande,apartamento,90000,1
+municipality,Río Grande,apartamento,130000,1
+municipality,Río Grande,apartamento,155000,2
+municipality,Río Grande,apartamento,200000,1
+municipality,Río Grande,apartamento,250000,1
+municipality,Río Grande,apartamento,295000,1
+municipality,Río Grande,apartamento,300000,1
+municipality,Río Grande,apartamento,305000,1
+municipality,Río Grande,apartamento,315000,2
+municipality,Río Grande,apartamento,330000,2
+municipality,Río Grande,apartamento,340000,1
+municipality,Río Grande,apartamento,350000,1
+municipality,Río Grande,apartamento,365000,1
+municipality,Río Grande,apartamento,375000,3
+municipality,Río Grande,apartamento,385000,2
+municipality,Río Grande,apartamento,395000,1
+municipality,Río Grande,apartamento,400000,1
+municipality,Río Grande,apartamento,415000,1
+municipality,Río Grande,apartamento,440000,1
+municipality,Río Grande,apartamento,455000,3
+municipality,Río Grande,apartamento,460000,1
+municipality,Río Grande,apartamento,490000,1
+municipality,Río Grande,apartamento,500000,1
+municipality,Río Grande,apartamento,510000,1
+municipality,Río Grande,apartamento,515000,1
+municipality,Río Grande,apartamento,530000,1
+municipality,Río Grande,apartamento,550000,2
+municipality,Río Grande,apartamento,560000,1
+municipality,Río Grande,apartamento,580000,1
+municipality,Río Grande,apartamento,585000,1
+municipality,Río Grande,apartamento,590000,1
+municipality,Río Grande,apartamento,595000,2
+municipality,Río Grande,apartamento,600000,1
+municipality,Río Grande,apartamento,625000,3
+municipality,Río Grande,apartamento,630000,1
+municipality,Río Grande,apartamento,635000,1
+municipality,Río Grande,apartamento,645000,1
+municipality,Río Grande,apartamento,650000,2
+municipality,Río Grande,apartamento,675000,2
+municipality,Río Grande,apartamento,685000,1
+municipality,Río Grande,apartamento,695000,3
+municipality,Río Grande,apartamento,725000,1
+municipality,Río Grande,apartamento,730000,1
+municipality,Río Grande,apartamento,735000,1
+municipality,Río Grande,apartamento,745000,2
+municipality,Río Grande,apartamento,755000,1
+municipality,Río Grande,apartamento,765000,1
+municipality,Río Grande,apartamento,780000,1
+municipality,Río Grande,apartamento,785000,1
+municipality,Río Grande,apartamento,850000,2
+municipality,Río Grande,apartamento,925000,1
+municipality,Río Grande,apartamento,990000,1
+municipality,Río Grande,apartamento,1300000,1
+municipality,Río Grande,apartamento,1495000,1
+municipality,Río Grande,apartamento,1500000,1
+municipality,Río Grande,apartamento,1600000,1
+municipality,Río Grande,apartamento,1790000,1
+municipality,Río Grande,apartamento,1900000,1
+municipality,Río Grande,casa,75000,1
+municipality,Río Grande,casa,80000,1
+municipality,Río Grande,casa,85000,3
+municipality,Río Grande,casa,100000,1
+municipality,Río Grande,casa,110000,1
+municipality,Río Grande,casa,135000,1
+municipality,Río Grande,casa,140000,2
+municipality,Río Grande,casa,145000,1
+municipality,Río Grande,casa,150000,3
+municipality,Río Grande,casa,155000,1
+municipality,Río Grande,casa,165000,1
+municipality,Río Grande,casa,175000,1
+municipality,Río Grande,casa,180000,1
+municipality,Río Grande,casa,185000,3
+municipality,Río Grande,casa,190000,1
+municipality,Río Grande,casa,195000,6
+municipality,Río Grande,casa,215000,1
+municipality,Río Grande,casa,220000,1
+municipality,Río Grande,casa,230000,1
+municipality,Río Grande,casa,235000,1
+municipality,Río Grande,casa,245000,1
+municipality,Río Grande,casa,250000,1
+municipality,Río Grande,casa,275000,2
+municipality,Río Grande,casa,290000,3
+municipality,Río Grande,casa,300000,2
+municipality,Río Grande,casa,305000,2
+municipality,Río Grande,casa,325000,1
+municipality,Río Grande,casa,340000,1
+municipality,Río Grande,casa,345000,1
+municipality,Río Grande,casa,350000,4
+municipality,Río Grande,casa,365000,2
+municipality,Río Grande,casa,375000,1
+municipality,Río Grande,casa,395000,4
+municipality,Río Grande,casa,410000,1
+municipality,Río Grande,casa,435000,1
+municipality,Río Grande,casa,445000,2
+municipality,Río Grande,casa,450000,2
+municipality,Río Grande,casa,455000,1
+municipality,Río Grande,casa,465000,2
+municipality,Río Grande,casa,475000,3
+municipality,Río Grande,casa,495000,1
+municipality,Río Grande,casa,500000,1
+municipality,Río Grande,casa,575000,1
+municipality,Río Grande,casa,595000,4
+municipality,Río Grande,casa,600000,1
+municipality,Río Grande,casa,705000,1
+municipality,Río Grande,casa,715000,1
+municipality,Río Grande,casa,780000,1
+municipality,Río Grande,casa,875000,2
+municipality,Río Grande,casa,950000,1
+municipality,Río Grande,casa,995000,1
+municipality,Río Grande,casa,1255000,1
+municipality,Río Grande,casa,1395000,1
+municipality,Río Grande,casa,1565000,1
+municipality,Río Grande,casa,1695000,2
+municipality,Río Grande,casa,1850000,1
+municipality,Río Grande,casa,1995000,1
+municipality,Río Grande,casa,2000000,2
+municipality,Sabana Grande,casa,70000,1
+municipality,Sabana Grande,casa,85000,1
+municipality,Sabana Grande,casa,95000,2
+municipality,Sabana Grande,casa,120000,1
+municipality,Sabana Grande,casa,150000,1
+municipality,Sabana Grande,casa,155000,1
+municipality,Sabana Grande,casa,165000,1
+municipality,Sabana Grande,casa,175000,1
+municipality,Sabana Grande,casa,185000,1
+municipality,Sabana Grande,casa,200000,1
+municipality,Sabana Grande,casa,215000,1
+municipality,Sabana Grande,casa,220000,1
+municipality,Sabana Grande,casa,235000,1
+municipality,Sabana Grande,casa,250000,1
+municipality,Sabana Grande,casa,290000,1
+municipality,Sabana Grande,casa,545000,1
+municipality,Sabana Grande,casa,795000,1
+municipality,Sabana Grande,casa,1000000,1
+municipality,Salinas,casa,80000,1
+municipality,Salinas,casa,90000,1
+municipality,Salinas,casa,95000,2
+municipality,Salinas,casa,115000,1
+municipality,Salinas,casa,120000,1
+municipality,Salinas,casa,135000,1
+municipality,Salinas,casa,150000,3
+municipality,Salinas,casa,155000,1
+municipality,Salinas,casa,165000,3
+municipality,Salinas,casa,175000,1
+municipality,Salinas,casa,185000,1
+municipality,Salinas,casa,200000,1
+municipality,Salinas,casa,230000,1
+municipality,Salinas,casa,250000,1
+municipality,Salinas,casa,270000,1
+municipality,Salinas,casa,395000,1
+municipality,Salinas,casa,550000,2
+municipality,Salinas,casa,650000,1
+municipality,Salinas,casa,800000,1
+municipality,Salinas,casa,875000,1
+municipality,Salinas,casa,995000,1
+municipality,San Germán,casa,25000,1
+municipality,San Germán,casa,55000,1
+municipality,San Germán,casa,85000,1
+municipality,San Germán,casa,90000,1
+municipality,San Germán,casa,105000,1
+municipality,San Germán,casa,110000,1
+municipality,San Germán,casa,150000,1
+municipality,San Germán,casa,165000,1
+municipality,San Germán,casa,175000,1
+municipality,San Germán,casa,185000,1
+municipality,San Germán,casa,190000,1
+municipality,San Germán,casa,200000,1
+municipality,San Germán,casa,260000,1
+municipality,San Germán,casa,320000,1
+municipality,San Germán,casa,350000,1
+municipality,San Germán,casa,425000,1
+municipality,San Germán,casa,500000,1
+municipality,San Germán,casa,600000,1
+municipality,San Germán,casa,675000,1
+municipality,San Germán,casa,695000,1
+municipality,San Juan,apartamento,25000,3
+municipality,San Juan,apartamento,40000,5
+municipality,San Juan,apartamento,45000,2
+municipality,San Juan,apartamento,55000,1
+municipality,San Juan,apartamento,60000,1
+municipality,San Juan,apartamento,65000,3
+municipality,San Juan,apartamento,75000,3
+municipality,San Juan,apartamento,80000,2
+municipality,San Juan,apartamento,85000,5
+municipality,San Juan,apartamento,90000,4
+municipality,San Juan,apartamento,95000,4
+municipality,San Juan,apartamento,100000,2
+municipality,San Juan,apartamento,105000,3
+municipality,San Juan,apartamento,110000,1
+municipality,San Juan,apartamento,115000,5
+municipality,San Juan,apartamento,120000,5
+municipality,San Juan,apartamento,125000,6
+municipality,San Juan,apartamento,130000,4
+municipality,San Juan,apartamento,135000,5
+municipality,San Juan,apartamento,140000,5
+municipality,San Juan,apartamento,145000,7
+municipality,San Juan,apartamento,150000,7
+municipality,San Juan,apartamento,155000,4
+municipality,San Juan,apartamento,160000,6
+municipality,San Juan,apartamento,165000,2
+municipality,San Juan,apartamento,170000,3
+municipality,San Juan,apartamento,175000,4
+municipality,San Juan,apartamento,180000,6
+municipality,San Juan,apartamento,185000,7
+municipality,San Juan,apartamento,190000,3
+municipality,San Juan,apartamento,195000,8
+municipality,San Juan,apartamento,200000,2
+municipality,San Juan,apartamento,205000,3
+municipality,San Juan,apartamento,210000,4
+municipality,San Juan,apartamento,215000,3
+municipality,San Juan,apartamento,220000,3
+municipality,San Juan,apartamento,225000,7
+municipality,San Juan,apartamento,230000,4
+municipality,San Juan,apartamento,235000,2
+municipality,San Juan,apartamento,240000,3
+municipality,San Juan,apartamento,245000,6
+municipality,San Juan,apartamento,250000,3
+municipality,San Juan,apartamento,255000,2
+municipality,San Juan,apartamento,265000,3
+municipality,San Juan,apartamento,270000,3
+municipality,San Juan,apartamento,275000,2
+municipality,San Juan,apartamento,280000,2
+municipality,San Juan,apartamento,285000,4
+municipality,San Juan,apartamento,290000,2
+municipality,San Juan,apartamento,295000,6
+municipality,San Juan,apartamento,300000,7
+municipality,San Juan,apartamento,305000,2
+municipality,San Juan,apartamento,310000,1
+municipality,San Juan,apartamento,315000,5
+municipality,San Juan,apartamento,320000,3
+municipality,San Juan,apartamento,325000,8
+municipality,San Juan,apartamento,330000,6
+municipality,San Juan,apartamento,335000,4
+municipality,San Juan,apartamento,340000,3
+municipality,San Juan,apartamento,345000,3
+municipality,San Juan,apartamento,350000,5
+municipality,San Juan,apartamento,355000,1
+municipality,San Juan,apartamento,360000,1
+municipality,San Juan,apartamento,365000,2
+municipality,San Juan,apartamento,375000,3
+municipality,San Juan,apartamento,380000,1
+municipality,San Juan,apartamento,385000,2
+municipality,San Juan,apartamento,390000,2
+municipality,San Juan,apartamento,395000,5
+municipality,San Juan,apartamento,400000,3
+municipality,San Juan,apartamento,410000,1
+municipality,San Juan,apartamento,415000,4
+municipality,San Juan,apartamento,420000,2
+municipality,San Juan,apartamento,425000,6
+municipality,San Juan,apartamento,435000,3
+municipality,San Juan,apartamento,440000,1
+municipality,San Juan,apartamento,445000,8
+municipality,San Juan,apartamento,450000,8
+municipality,San Juan,apartamento,455000,1
+municipality,San Juan,apartamento,460000,1
+municipality,San Juan,apartamento,465000,2
+municipality,San Juan,apartamento,475000,7
+municipality,San Juan,apartamento,485000,3
+municipality,San Juan,apartamento,490000,1
+municipality,San Juan,apartamento,495000,8
+municipality,San Juan,apartamento,500000,2
+municipality,San Juan,apartamento,515000,2
+municipality,San Juan,apartamento,525000,3
+municipality,San Juan,apartamento,535000,2
+municipality,San Juan,apartamento,545000,3
+municipality,San Juan,apartamento,550000,3
+municipality,San Juan,apartamento,570000,1
+municipality,San Juan,apartamento,575000,2
+municipality,San Juan,apartamento,580000,1
+municipality,San Juan,apartamento,585000,7
+municipality,San Juan,apartamento,590000,3
+municipality,San Juan,apartamento,595000,7
+municipality,San Juan,apartamento,600000,3
+municipality,San Juan,apartamento,630000,2
+municipality,San Juan,apartamento,645000,3
+municipality,San Juan,apartamento,650000,6
+municipality,San Juan,apartamento,655000,1
+municipality,San Juan,apartamento,660000,1
+municipality,San Juan,apartamento,665000,2
+municipality,San Juan,apartamento,670000,2
+municipality,San Juan,apartamento,675000,3
+municipality,San Juan,apartamento,685000,2
+municipality,San Juan,apartamento,690000,1
+municipality,San Juan,apartamento,695000,4
+municipality,San Juan,apartamento,700000,4
+municipality,San Juan,apartamento,725000,2
+municipality,San Juan,apartamento,750000,2
+municipality,San Juan,apartamento,775000,1
+municipality,San Juan,apartamento,780000,1
+municipality,San Juan,apartamento,785000,1
+municipality,San Juan,apartamento,795000,4
+municipality,San Juan,apartamento,800000,1
+municipality,San Juan,apartamento,810000,2
+municipality,San Juan,apartamento,815000,1
+municipality,San Juan,apartamento,825000,2
+municipality,San Juan,apartamento,835000,1
+municipality,San Juan,apartamento,845000,1
+municipality,San Juan,apartamento,850000,4
+municipality,San Juan,apartamento,860000,1
+municipality,San Juan,apartamento,865000,1
+municipality,San Juan,apartamento,870000,1
+municipality,San Juan,apartamento,875000,2
+municipality,San Juan,apartamento,890000,2
+municipality,San Juan,apartamento,895000,6
+municipality,San Juan,apartamento,900000,3
+municipality,San Juan,apartamento,915000,1
+municipality,San Juan,apartamento,925000,6
+municipality,San Juan,apartamento,935000,1
+municipality,San Juan,apartamento,940000,1
+municipality,San Juan,apartamento,945000,3
+municipality,San Juan,apartamento,950000,4
+municipality,San Juan,apartamento,955000,1
+municipality,San Juan,apartamento,965000,1
+municipality,San Juan,apartamento,975000,5
+municipality,San Juan,apartamento,980000,1
+municipality,San Juan,apartamento,995000,7
+municipality,San Juan,apartamento,1045000,1
+municipality,San Juan,apartamento,1095000,1
+municipality,San Juan,apartamento,1100000,4
+municipality,San Juan,apartamento,1150000,2
+municipality,San Juan,apartamento,1175000,1
+municipality,San Juan,apartamento,1185000,1
+municipality,San Juan,apartamento,1195000,1
+municipality,San Juan,apartamento,1200000,5
+municipality,San Juan,apartamento,1225000,1
+municipality,San Juan,apartamento,1250000,3
+municipality,San Juan,apartamento,1275000,1
+municipality,San Juan,apartamento,1295000,2
+municipality,San Juan,apartamento,1300000,3
+municipality,San Juan,apartamento,1350000,1
+municipality,San Juan,apartamento,1375000,1
+municipality,San Juan,apartamento,1380000,1
+municipality,San Juan,apartamento,1395000,2
+municipality,San Juan,apartamento,1400000,3
+municipality,San Juan,apartamento,1450000,4
+municipality,San Juan,apartamento,1460000,1
+municipality,San Juan,apartamento,1495000,3
+municipality,San Juan,apartamento,1550000,3
+municipality,San Juan,apartamento,1590000,1
+municipality,San Juan,apartamento,1600000,1
+municipality,San Juan,apartamento,1620000,1
+municipality,San Juan,apartamento,1650000,3
+municipality,San Juan,apartamento,1685000,1
+municipality,San Juan,apartamento,1690000,1
+municipality,San Juan,apartamento,1695000,1
+municipality,San Juan,apartamento,1700000,2
+municipality,San Juan,apartamento,1725000,1
+municipality,San Juan,apartamento,1750000,3
+municipality,San Juan,apartamento,1790000,1
+municipality,San Juan,apartamento,1795000,2
+municipality,San Juan,apartamento,1850000,1
+municipality,San Juan,apartamento,1895000,1
+municipality,San Juan,apartamento,1950000,1
+municipality,San Juan,apartamento,1975000,2
+municipality,San Juan,apartamento,1995000,1
+municipality,San Juan,apartamento,2195000,1
+municipality,San Juan,apartamento,2295000,1
+municipality,San Juan,apartamento,2300000,1
+municipality,San Juan,casa,50000,2
+municipality,San Juan,casa,55000,2
+municipality,San Juan,casa,65000,1
+municipality,San Juan,casa,70000,1
+municipality,San Juan,casa,75000,1
+municipality,San Juan,casa,85000,2
+municipality,San Juan,casa,95000,1
+municipality,San Juan,casa,115000,1
+municipality,San Juan,casa,120000,1
+municipality,San Juan,casa,130000,2
+municipality,San Juan,casa,135000,2
+municipality,San Juan,casa,140000,6
+municipality,San Juan,casa,145000,4
+municipality,San Juan,casa,150000,2
+municipality,San Juan,casa,155000,4
+municipality,San Juan,casa,160000,4
+municipality,San Juan,casa,165000,4
+municipality,San Juan,casa,170000,1
+municipality,San Juan,casa,175000,4
+municipality,San Juan,casa,180000,3
+municipality,San Juan,casa,185000,7
+municipality,San Juan,casa,190000,6
+municipality,San Juan,casa,195000,6
+municipality,San Juan,casa,200000,6
+municipality,San Juan,casa,205000,2
+municipality,San Juan,casa,210000,7
+municipality,San Juan,casa,215000,5
+municipality,San Juan,casa,220000,2
+municipality,San Juan,casa,225000,3
+municipality,San Juan,casa,230000,3
+municipality,San Juan,casa,235000,2
+municipality,San Juan,casa,240000,3
+municipality,San Juan,casa,245000,9
+municipality,San Juan,casa,250000,5
+municipality,San Juan,casa,255000,1
+municipality,San Juan,casa,260000,2
+municipality,San Juan,casa,265000,3
+municipality,San Juan,casa,275000,7
+municipality,San Juan,casa,280000,4
+municipality,San Juan,casa,285000,5
+municipality,San Juan,casa,290000,4
+municipality,San Juan,casa,295000,8
+municipality,San Juan,casa,300000,4
+municipality,San Juan,casa,310000,2
+municipality,San Juan,casa,315000,2
+municipality,San Juan,casa,320000,2
+municipality,San Juan,casa,325000,10
+municipality,San Juan,casa,335000,1
+municipality,San Juan,casa,345000,1
+municipality,San Juan,casa,350000,5
+municipality,San Juan,casa,355000,1
+municipality,San Juan,casa,360000,2
+municipality,San Juan,casa,365000,3
+municipality,San Juan,casa,375000,2
+municipality,San Juan,casa,385000,4
+municipality,San Juan,casa,390000,2
+municipality,San Juan,casa,395000,9
+municipality,San Juan,casa,400000,3
+municipality,San Juan,casa,410000,2
+municipality,San Juan,casa,415000,1
+municipality,San Juan,casa,425000,6
+municipality,San Juan,casa,430000,2
+municipality,San Juan,casa,450000,4
+municipality,San Juan,casa,460000,1
+municipality,San Juan,casa,475000,5
+municipality,San Juan,casa,480000,2
+municipality,San Juan,casa,485000,1
+municipality,San Juan,casa,495000,2
+municipality,San Juan,casa,500000,2
+municipality,San Juan,casa,550000,2
+municipality,San Juan,casa,565000,1
+municipality,San Juan,casa,575000,1
+municipality,San Juan,casa,585000,2
+municipality,San Juan,casa,600000,1
+municipality,San Juan,casa,610000,1
+municipality,San Juan,casa,625000,3
+municipality,San Juan,casa,640000,1
+municipality,San Juan,casa,645000,2
+municipality,San Juan,casa,650000,6
+municipality,San Juan,casa,655000,1
+municipality,San Juan,casa,675000,1
+municipality,San Juan,casa,685000,1
+municipality,San Juan,casa,690000,1
+municipality,San Juan,casa,695000,3
+municipality,San Juan,casa,700000,4
+municipality,San Juan,casa,705000,1
+municipality,San Juan,casa,720000,1
+municipality,San Juan,casa,735000,1
+municipality,San Juan,casa,740000,1
+municipality,San Juan,casa,745000,3
+municipality,San Juan,casa,750000,8
+municipality,San Juan,casa,765000,3
+municipality,San Juan,casa,775000,1
+municipality,San Juan,casa,780000,1
+municipality,San Juan,casa,790000,1
+municipality,San Juan,casa,795000,2
+municipality,San Juan,casa,800000,2
+municipality,San Juan,casa,810000,1
+municipality,San Juan,casa,815000,1
+municipality,San Juan,casa,820000,1
+municipality,San Juan,casa,845000,2
+municipality,San Juan,casa,850000,7
+municipality,San Juan,casa,855000,1
+municipality,San Juan,casa,860000,1
+municipality,San Juan,casa,875000,7
+municipality,San Juan,casa,890000,1
+municipality,San Juan,casa,895000,1
+municipality,San Juan,casa,900000,1
+municipality,San Juan,casa,945000,1
+municipality,San Juan,casa,950000,3
+municipality,San Juan,casa,975000,1
+municipality,San Juan,casa,995000,1
+municipality,San Juan,casa,1100000,3
+municipality,San Juan,casa,1150000,2
+municipality,San Juan,casa,1195000,3
+municipality,San Juan,casa,1200000,6
+municipality,San Juan,casa,1215000,1
+municipality,San Juan,casa,1245000,2
+municipality,San Juan,casa,1250000,1
+municipality,San Juan,casa,1275000,1
+municipality,San Juan,casa,1280000,1
+municipality,San Juan,casa,1285000,1
+municipality,San Juan,casa,1295000,1
+municipality,San Juan,casa,1300000,2
+municipality,San Juan,casa,1345000,1
+municipality,San Juan,casa,1350000,4
+municipality,San Juan,casa,1375000,2
+municipality,San Juan,casa,1385000,1
+municipality,San Juan,casa,1395000,5
+municipality,San Juan,casa,1450000,2
+municipality,San Juan,casa,1480000,1
+municipality,San Juan,casa,1495000,10
+municipality,San Juan,casa,1500000,1
+municipality,San Juan,casa,1525000,1
+municipality,San Juan,casa,1550000,2
+municipality,San Juan,casa,1560000,1
+municipality,San Juan,casa,1595000,3
+municipality,San Juan,casa,1600000,2
+municipality,San Juan,casa,1630000,1
+municipality,San Juan,casa,1650000,1
+municipality,San Juan,casa,1655000,2
+municipality,San Juan,casa,1695000,1
+municipality,San Juan,casa,1700000,1
+municipality,San Juan,casa,1750000,2
+municipality,San Juan,casa,1800000,1
+municipality,San Juan,casa,1850000,1
+municipality,San Juan,casa,1855000,1
+municipality,San Juan,casa,1895000,3
+municipality,San Juan,casa,1900000,2
+municipality,San Juan,casa,1950000,2
+municipality,San Juan,casa,1975000,2
+municipality,San Juan,casa,1995000,3
+municipality,San Juan,casa,2000000,3
+municipality,San Juan,casa,2100000,3
+municipality,San Juan,casa,2155000,1
+municipality,San Juan,casa,2200000,1
+municipality,San Juan,casa,2225000,1
+municipality,San Juan,casa,2260000,1
+municipality,San Juan,casa,2290000,1
+municipality,San Juan,casa,2300000,2
+municipality,San Juan,casa,2350000,2
+municipality,San Juan,casa,2395000,2
+municipality,San Lorenzo,casa,75000,1
+municipality,San Lorenzo,casa,95000,2
+municipality,San Lorenzo,casa,110000,1
+municipality,San Lorenzo,casa,115000,1
+municipality,San Lorenzo,casa,125000,1
+municipality,San Lorenzo,casa,145000,1
+municipality,San Lorenzo,casa,155000,2
+municipality,San Lorenzo,casa,170000,2
+municipality,San Lorenzo,casa,175000,3
+municipality,San Lorenzo,casa,185000,1
+municipality,San Lorenzo,casa,195000,1
+municipality,San Lorenzo,casa,210000,3
+municipality,San Lorenzo,casa,235000,1
+municipality,San Lorenzo,casa,245000,1
+municipality,San Lorenzo,casa,285000,3
+municipality,San Lorenzo,casa,295000,2
+municipality,San Lorenzo,casa,300000,2
+municipality,San Lorenzo,casa,340000,1
+municipality,San Lorenzo,casa,345000,1
+municipality,San Lorenzo,casa,365000,1
+municipality,San Lorenzo,casa,395000,2
+municipality,San Lorenzo,casa,425000,1
+municipality,San Lorenzo,casa,515000,1
+municipality,San Lorenzo,casa,550000,1
+municipality,San Sebastián,casa,80000,1
+municipality,San Sebastián,casa,115000,1
+municipality,San Sebastián,casa,130000,2
+municipality,San Sebastián,casa,140000,2
+municipality,San Sebastián,casa,150000,2
+municipality,San Sebastián,casa,155000,1
+municipality,San Sebastián,casa,160000,1
+municipality,San Sebastián,casa,165000,1
+municipality,San Sebastián,casa,170000,1
+municipality,San Sebastián,casa,175000,3
+municipality,San Sebastián,casa,180000,3
+municipality,San Sebastián,casa,185000,1
+municipality,San Sebastián,casa,210000,2
+municipality,San Sebastián,casa,225000,3
+municipality,San Sebastián,casa,240000,1
+municipality,San Sebastián,casa,245000,1
+municipality,San Sebastián,casa,260000,1
+municipality,San Sebastián,casa,270000,1
+municipality,San Sebastián,casa,275000,2
+municipality,San Sebastián,casa,280000,2
+municipality,San Sebastián,casa,300000,1
+municipality,San Sebastián,casa,310000,2
+municipality,San Sebastián,casa,320000,1
+municipality,San Sebastián,casa,325000,3
+municipality,San Sebastián,casa,330000,2
+municipality,San Sebastián,casa,350000,2
+municipality,San Sebastián,casa,360000,1
+municipality,San Sebastián,casa,370000,1
+municipality,San Sebastián,casa,385000,1
+municipality,San Sebastián,casa,395000,1
+municipality,San Sebastián,casa,415000,1
+municipality,San Sebastián,casa,425000,2
+municipality,San Sebastián,casa,500000,1
+municipality,San Sebastián,casa,525000,1
+municipality,San Sebastián,casa,675000,1
+municipality,San Sebastián,casa,1555000,1
+municipality,Santa Isabel,casa,85000,1
+municipality,Santa Isabel,casa,120000,1
+municipality,Santa Isabel,casa,130000,2
+municipality,Santa Isabel,casa,155000,1
+municipality,Santa Isabel,casa,190000,1
+municipality,Santa Isabel,casa,250000,1
+municipality,Santa Isabel,casa,255000,1
+municipality,Santa Isabel,casa,280000,1
+municipality,Santa Isabel,casa,330000,1
+municipality,Santa Isabel,casa,345000,1
+municipality,Santa Isabel,casa,370000,1
+municipality,Santa Isabel,casa,890000,1
+municipality,Toa Alta,casa,80000,1
+municipality,Toa Alta,casa,100000,1
+municipality,Toa Alta,casa,105000,2
+municipality,Toa Alta,casa,125000,3
+municipality,Toa Alta,casa,150000,1
+municipality,Toa Alta,casa,165000,1
+municipality,Toa Alta,casa,180000,1
+municipality,Toa Alta,casa,195000,2
+municipality,Toa Alta,casa,200000,2
+municipality,Toa Alta,casa,205000,2
+municipality,Toa Alta,casa,220000,1
+municipality,Toa Alta,casa,230000,2
+municipality,Toa Alta,casa,235000,3
+municipality,Toa Alta,casa,245000,2
+municipality,Toa Alta,casa,250000,1
+municipality,Toa Alta,casa,265000,2
+municipality,Toa Alta,casa,270000,2
+municipality,Toa Alta,casa,275000,1
+municipality,Toa Alta,casa,280000,2
+municipality,Toa Alta,casa,290000,1
+municipality,Toa Alta,casa,300000,1
+municipality,Toa Alta,casa,305000,1
+municipality,Toa Alta,casa,345000,1
+municipality,Toa Alta,casa,350000,1
+municipality,Toa Alta,casa,360000,1
+municipality,Toa Alta,casa,365000,3
+municipality,Toa Alta,casa,380000,1
+municipality,Toa Alta,casa,395000,1
+municipality,Toa Alta,casa,410000,1
+municipality,Toa Alta,casa,420000,3
+municipality,Toa Alta,casa,425000,1
+municipality,Toa Alta,casa,430000,1
+municipality,Toa Alta,casa,435000,1
+municipality,Toa Alta,casa,440000,2
+municipality,Toa Alta,casa,450000,3
+municipality,Toa Alta,casa,455000,1
+municipality,Toa Alta,casa,460000,2
+municipality,Toa Alta,casa,465000,2
+municipality,Toa Alta,casa,470000,1
+municipality,Toa Alta,casa,480000,1
+municipality,Toa Alta,casa,495000,2
+municipality,Toa Alta,casa,500000,1
+municipality,Toa Alta,casa,540000,1
+municipality,Toa Alta,casa,550000,1
+municipality,Toa Alta,casa,595000,1
+municipality,Toa Alta,casa,615000,1
+municipality,Toa Alta,casa,645000,1
+municipality,Toa Alta,casa,700000,1
+municipality,Toa Alta,casa,800000,1
+municipality,Toa Alta,casa,850000,1
+municipality,Toa Alta,casa,975000,1
+municipality,Toa Alta,casa,1190000,1
+municipality,Toa Alta,casa,1500000,1
+municipality,Toa Baja,casa,20000,1
+municipality,Toa Baja,casa,60000,1
+municipality,Toa Baja,casa,65000,2
+municipality,Toa Baja,casa,70000,2
+municipality,Toa Baja,casa,85000,1
+municipality,Toa Baja,casa,95000,1
+municipality,Toa Baja,casa,100000,1
+municipality,Toa Baja,casa,115000,1
+municipality,Toa Baja,casa,125000,2
+municipality,Toa Baja,casa,130000,1
+municipality,Toa Baja,casa,140000,2
+municipality,Toa Baja,casa,150000,2
+municipality,Toa Baja,casa,155000,2
+municipality,Toa Baja,casa,160000,1
+municipality,Toa Baja,casa,165000,2
+municipality,Toa Baja,casa,170000,2
+municipality,Toa Baja,casa,195000,2
+municipality,Toa Baja,casa,200000,2
+municipality,Toa Baja,casa,210000,1
+municipality,Toa Baja,casa,215000,3
+municipality,Toa Baja,casa,220000,3
+municipality,Toa Baja,casa,225000,2
+municipality,Toa Baja,casa,230000,6
+municipality,Toa Baja,casa,235000,1
+municipality,Toa Baja,casa,240000,2
+municipality,Toa Baja,casa,245000,5
+municipality,Toa Baja,casa,250000,1
+municipality,Toa Baja,casa,255000,2
+municipality,Toa Baja,casa,265000,2
+municipality,Toa Baja,casa,270000,3
+municipality,Toa Baja,casa,275000,1
+municipality,Toa Baja,casa,300000,1
+municipality,Toa Baja,casa,305000,1
+municipality,Toa Baja,casa,320000,1
+municipality,Toa Baja,casa,350000,1
+municipality,Toa Baja,casa,360000,3
+municipality,Toa Baja,casa,375000,2
+municipality,Toa Baja,casa,400000,1
+municipality,Toa Baja,casa,415000,1
+municipality,Toa Baja,casa,430000,1
+municipality,Toa Baja,casa,500000,1
+municipality,Toa Baja,casa,525000,1
+municipality,Toa Baja,casa,595000,2
+municipality,Toa Baja,casa,625000,1
+municipality,Toa Baja,casa,675000,1
+municipality,Trujillo Alto,apartamento,85000,1
+municipality,Trujillo Alto,apartamento,95000,1
+municipality,Trujillo Alto,apartamento,100000,1
+municipality,Trujillo Alto,apartamento,110000,3
+municipality,Trujillo Alto,apartamento,160000,2
+municipality,Trujillo Alto,apartamento,170000,1
+municipality,Trujillo Alto,apartamento,195000,2
+municipality,Trujillo Alto,apartamento,200000,1
+municipality,Trujillo Alto,apartamento,210000,1
+municipality,Trujillo Alto,apartamento,250000,1
+municipality,Trujillo Alto,apartamento,255000,1
+municipality,Trujillo Alto,apartamento,260000,1
+municipality,Trujillo Alto,apartamento,265000,1
+municipality,Trujillo Alto,apartamento,275000,1
+municipality,Trujillo Alto,apartamento,280000,1
+municipality,Trujillo Alto,apartamento,295000,1
+municipality,Trujillo Alto,apartamento,315000,1
+municipality,Trujillo Alto,apartamento,335000,1
+municipality,Trujillo Alto,casa,95000,2
+municipality,Trujillo Alto,casa,125000,1
+municipality,Trujillo Alto,casa,130000,1
+municipality,Trujillo Alto,casa,145000,1
+municipality,Trujillo Alto,casa,155000,1
+municipality,Trujillo Alto,casa,170000,1
+municipality,Trujillo Alto,casa,195000,1
+municipality,Trujillo Alto,casa,205000,1
+municipality,Trujillo Alto,casa,210000,1
+municipality,Trujillo Alto,casa,215000,1
+municipality,Trujillo Alto,casa,225000,2
+municipality,Trujillo Alto,casa,260000,1
+municipality,Trujillo Alto,casa,265000,3
+municipality,Trujillo Alto,casa,300000,2
+municipality,Trujillo Alto,casa,305000,1
+municipality,Trujillo Alto,casa,315000,1
+municipality,Trujillo Alto,casa,320000,1
+municipality,Trujillo Alto,casa,330000,1
+municipality,Trujillo Alto,casa,340000,1
+municipality,Trujillo Alto,casa,350000,2
+municipality,Trujillo Alto,casa,375000,1
+municipality,Trujillo Alto,casa,400000,1
+municipality,Trujillo Alto,casa,450000,1
+municipality,Trujillo Alto,casa,485000,1
+municipality,Trujillo Alto,casa,495000,1
+municipality,Trujillo Alto,casa,500000,1
+municipality,Trujillo Alto,casa,515000,1
+municipality,Trujillo Alto,casa,525000,1
+municipality,Trujillo Alto,casa,535000,1
+municipality,Trujillo Alto,casa,545000,2
+municipality,Trujillo Alto,casa,550000,2
+municipality,Trujillo Alto,casa,555000,1
+municipality,Trujillo Alto,casa,570000,1
+municipality,Trujillo Alto,casa,575000,2
+municipality,Trujillo Alto,casa,580000,2
+municipality,Trujillo Alto,casa,595000,1
+municipality,Trujillo Alto,casa,620000,1
+municipality,Trujillo Alto,casa,625000,1
+municipality,Trujillo Alto,casa,675000,2
+municipality,Trujillo Alto,casa,695000,1
+municipality,Trujillo Alto,casa,1300000,1
+municipality,Trujillo Alto,casa,1595000,1
+municipality,Utuado,casa,40000,1
+municipality,Utuado,casa,70000,1
+municipality,Utuado,casa,90000,1
+municipality,Utuado,casa,95000,1
+municipality,Utuado,casa,105000,2
+municipality,Utuado,casa,110000,2
+municipality,Utuado,casa,120000,1
+municipality,Utuado,casa,125000,2
+municipality,Utuado,casa,140000,1
+municipality,Utuado,casa,145000,1
+municipality,Utuado,casa,150000,1
+municipality,Utuado,casa,160000,3
+municipality,Utuado,casa,165000,1
+municipality,Utuado,casa,170000,1
+municipality,Utuado,casa,175000,2
+municipality,Utuado,casa,185000,1
+municipality,Utuado,casa,190000,3
+municipality,Utuado,casa,195000,2
+municipality,Utuado,casa,200000,1
+municipality,Utuado,casa,205000,1
+municipality,Utuado,casa,210000,1
+municipality,Utuado,casa,220000,1
+municipality,Utuado,casa,225000,2
+municipality,Utuado,casa,250000,1
+municipality,Utuado,casa,275000,1
+municipality,Utuado,casa,325000,1
+municipality,Utuado,casa,345000,1
+municipality,Utuado,casa,400000,1
+municipality,Utuado,casa,500000,1
+municipality,Utuado,casa,545000,2
+municipality,Vega Alta,apartamento,310000,2
+municipality,Vega Alta,apartamento,315000,2
+municipality,Vega Alta,apartamento,350000,1
+municipality,Vega Alta,apartamento,355000,1
+municipality,Vega Alta,apartamento,380000,1
+municipality,Vega Alta,apartamento,390000,1
+municipality,Vega Alta,apartamento,395000,1
+municipality,Vega Alta,apartamento,420000,1
+municipality,Vega Alta,apartamento,445000,1
+municipality,Vega Alta,apartamento,475000,1
+municipality,Vega Alta,apartamento,500000,1
+municipality,Vega Alta,apartamento,525000,2
+municipality,Vega Alta,apartamento,530000,1
+municipality,Vega Alta,apartamento,550000,1
+municipality,Vega Alta,apartamento,575000,1
+municipality,Vega Alta,apartamento,1150000,2
+municipality,Vega Alta,apartamento,1390000,1
+municipality,Vega Alta,apartamento,1495000,1
+municipality,Vega Alta,apartamento,1795000,1
+municipality,Vega Alta,apartamento,1995000,1
+municipality,Vega Alta,casa,75000,1
+municipality,Vega Alta,casa,90000,1
+municipality,Vega Alta,casa,95000,1
+municipality,Vega Alta,casa,100000,1
+municipality,Vega Alta,casa,125000,1
+municipality,Vega Alta,casa,140000,1
+municipality,Vega Alta,casa,175000,2
+municipality,Vega Alta,casa,185000,2
+municipality,Vega Alta,casa,225000,1
+municipality,Vega Alta,casa,235000,1
+municipality,Vega Alta,casa,275000,1
+municipality,Vega Alta,casa,345000,2
+municipality,Vega Alta,casa,410000,1
+municipality,Vega Alta,casa,415000,2
+municipality,Vega Alta,casa,425000,2
+municipality,Vega Alta,casa,435000,2
+municipality,Vega Alta,casa,440000,1
+municipality,Vega Alta,casa,450000,1
+municipality,Vega Alta,casa,455000,2
+municipality,Vega Alta,casa,495000,1
+municipality,Vega Alta,casa,590000,1
+municipality,Vega Alta,casa,600000,1
+municipality,Vega Alta,casa,625000,1
+municipality,Vega Alta,casa,650000,2
+municipality,Vega Alta,casa,675000,1
+municipality,Vega Alta,casa,700000,1
+municipality,Vega Alta,casa,800000,1
+municipality,Vega Alta,casa,990000,1
+municipality,Vega Alta,casa,1200000,1
+municipality,Vega Alta,casa,1275000,1
+municipality,Vega Alta,casa,1300000,1
+municipality,Vega Alta,casa,1375000,1
+municipality,Vega Alta,casa,1700000,1
+municipality,Vega Baja,apartamento,175000,1
+municipality,Vega Baja,apartamento,225000,1
+municipality,Vega Baja,apartamento,235000,1
+municipality,Vega Baja,apartamento,260000,2
+municipality,Vega Baja,apartamento,270000,1
+municipality,Vega Baja,apartamento,285000,2
+municipality,Vega Baja,apartamento,295000,1
+municipality,Vega Baja,apartamento,315000,1
+municipality,Vega Baja,apartamento,330000,1
+municipality,Vega Baja,apartamento,335000,1
+municipality,Vega Baja,apartamento,355000,1
+municipality,Vega Baja,apartamento,360000,2
+municipality,Vega Baja,apartamento,365000,3
+municipality,Vega Baja,apartamento,370000,1
+municipality,Vega Baja,apartamento,375000,1
+municipality,Vega Baja,apartamento,385000,1
+municipality,Vega Baja,apartamento,395000,1
+municipality,Vega Baja,apartamento,400000,2
+municipality,Vega Baja,apartamento,425000,1
+municipality,Vega Baja,apartamento,445000,1
+municipality,Vega Baja,apartamento,550000,1
+municipality,Vega Baja,apartamento,750000,1
+municipality,Vega Baja,casa,30000,2
+municipality,Vega Baja,casa,75000,1
+municipality,Vega Baja,casa,80000,1
+municipality,Vega Baja,casa,90000,2
+municipality,Vega Baja,casa,95000,2
+municipality,Vega Baja,casa,105000,1
+municipality,Vega Baja,casa,110000,1
+municipality,Vega Baja,casa,115000,1
+municipality,Vega Baja,casa,130000,2
+municipality,Vega Baja,casa,135000,1
+municipality,Vega Baja,casa,150000,2
+municipality,Vega Baja,casa,165000,1
+municipality,Vega Baja,casa,170000,1
+municipality,Vega Baja,casa,175000,1
+municipality,Vega Baja,casa,180000,1
+municipality,Vega Baja,casa,185000,2
+municipality,Vega Baja,casa,190000,1
+municipality,Vega Baja,casa,200000,2
+municipality,Vega Baja,casa,215000,1
+municipality,Vega Baja,casa,220000,1
+municipality,Vega Baja,casa,225000,2
+municipality,Vega Baja,casa,250000,1
+municipality,Vega Baja,casa,260000,1
+municipality,Vega Baja,casa,275000,2
+municipality,Vega Baja,casa,280000,1
+municipality,Vega Baja,casa,285000,1
+municipality,Vega Baja,casa,290000,1
+municipality,Vega Baja,casa,305000,1
+municipality,Vega Baja,casa,315000,1
+municipality,Vega Baja,casa,320000,1
+municipality,Vega Baja,casa,325000,2
+municipality,Vega Baja,casa,385000,1
+municipality,Vega Baja,casa,465000,1
+municipality,Vega Baja,casa,480000,1
+municipality,Vega Baja,casa,575000,1
+municipality,Vega Baja,casa,650000,1
+municipality,Vega Baja,casa,1300000,1
+municipality,Vega Baja,casa,1950000,1
+municipality,Vieques,casa,110000,1
+municipality,Vieques,casa,135000,1
+municipality,Vieques,casa,150000,1
+municipality,Vieques,casa,170000,1
+municipality,Vieques,casa,215000,2
+municipality,Vieques,casa,225000,1
+municipality,Vieques,casa,230000,1
+municipality,Vieques,casa,245000,1
+municipality,Vieques,casa,325000,1
+municipality,Vieques,casa,365000,1
+municipality,Vieques,casa,390000,1
+municipality,Vieques,casa,395000,2
+municipality,Vieques,casa,445000,1
+municipality,Vieques,casa,815000,1
+municipality,Vieques,casa,950000,1
+municipality,Vieques,casa,1165000,1
+municipality,Vieques,casa,1995000,1
+municipality,Yabucoa,casa,90000,1
+municipality,Yabucoa,casa,115000,1
+municipality,Yabucoa,casa,120000,2
+municipality,Yabucoa,casa,125000,1
+municipality,Yabucoa,casa,135000,2
+municipality,Yabucoa,casa,145000,1
+municipality,Yabucoa,casa,150000,1
+municipality,Yabucoa,casa,155000,2
+municipality,Yabucoa,casa,165000,2
+municipality,Yabucoa,casa,195000,1
+municipality,Yabucoa,casa,205000,1
+municipality,Yabucoa,casa,215000,1
+municipality,Yabucoa,casa,220000,2
+municipality,Yabucoa,casa,245000,1
+municipality,Yabucoa,casa,260000,1
+municipality,Yabucoa,casa,280000,1
+municipality,Yabucoa,casa,295000,2
+municipality,Yabucoa,casa,315000,1
+municipality,Yabucoa,casa,330000,2
+municipality,Yabucoa,casa,350000,2
+municipality,Yabucoa,casa,370000,1
+municipality,Yabucoa,casa,375000,1
+municipality,Yabucoa,casa,600000,1
+municipality,Yabucoa,casa,645000,1
+municipality,Yabucoa,casa,1275000,2
+municipality,Yauco,casa,60000,1
+municipality,Yauco,casa,80000,1
+municipality,Yauco,casa,85000,2
+municipality,Yauco,casa,100000,1
+municipality,Yauco,casa,105000,1
+municipality,Yauco,casa,110000,1
+municipality,Yauco,casa,115000,2
+municipality,Yauco,casa,130000,1
+municipality,Yauco,casa,135000,1
+municipality,Yauco,casa,145000,2
+municipality,Yauco,casa,160000,3
+municipality,Yauco,casa,165000,1
+municipality,Yauco,casa,170000,2
+municipality,Yauco,casa,175000,1
+municipality,Yauco,casa,195000,1
+municipality,Yauco,casa,225000,2
+municipality,Yauco,casa,230000,1
+municipality,Yauco,casa,250000,1
+municipality,Yauco,casa,255000,1
+municipality,Yauco,casa,260000,2
+municipality,Yauco,casa,265000,1
+municipality,Yauco,casa,280000,1
+municipality,Yauco,casa,295000,1
+municipality,Yauco,casa,405000,1
+municipality,Yauco,casa,495000,1
+municipality,Yauco,casa,525000,1
+municipality,Yauco,casa,795000,1
