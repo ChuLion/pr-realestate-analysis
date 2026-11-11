@@ -44,6 +44,11 @@ $295,341 at 28% of income on the same loan terms. 47.6% of the listings
 are at or below that price (`analysis/claims/RESULTS.md`;
 `analysis/claims/price_histogram.sql`).
 
+The Tableau Public dashboard for this project currently shows an earlier
+extract (April 7, 2026, with duplicate listings not removed), so its
+headline differs from the figure above. It is being rebuilt on the
+deduplicated snapshot described here.
+
 ## Method
 
 **Deduplication.** The same property is often posted more than once.
